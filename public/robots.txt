@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theweldersguide.com/sitemap-index.xml

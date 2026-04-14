@@ -1,0 +1,121 @@
+---
+interface Props {
+  heading?: string;
+  description?: string;
+  ctaText?: string;
+  leadMagnet?: string;
+  variant?: 'full' | 'compact' | 'inline';
+}
+
+const {
+  heading = 'Get Your Free Welding Safety Checklist',
+  description = "Join 5,000+ welding professionals and hobbyists. Get expert tips, safety reminders, and exclusive guides delivered to your inbox.",
+  ctaText = 'Get the Free Checklist',
+  leadMagnet = 'Welding Safety Checklist',
+  variant = 'full',
+} = Astro.props;
+
+const formId = `email-signup-${variant}-${Math.random().toString(36).slice(2, 8)}`;
+---
+
+{variant === 'inline' ? (
+  <form id={formId} class="email-signup-form flex gap-2" data-lead-magnet={leadMagnet}>
+    <input
+      type="email"
+      name="email"
+      required
+      placeholder="Enter your email"
+      class="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-light focus:border-transparent outline-none text-sm"
+    />
+    <button
+      type="submit"
+      class="bg-accent hover:bg-accent-light text-white font-semibold px-5 py-2 rounded-lg transition-colors duration-200 text-sm whitespace-nowrap"
+    >
+      {ctaText}
+    </button>
+  </form>
+) : variant === 'compact' ? (
+  <div class="email-signup bg-surface-dark text-white rounded-lg p-6">
+    <h3 class="text-lg font-bold mb-2">{heading}</h3>
+    <p class="text-sm text-gray-300 mb-4">{description}</p>
+    <form id={formId} class="email-signup-form space-y-3" data-lead-magnet={leadMagnet}>
+      <input
+        type="email"
+        name="email"
+        required
+        placeholder="Enter your email address"
+        class="w-full px-4 py-2 border border-gray-600 rounded-lg focus:ring-2 focus:ring-accent focus:border-transparent outline-none text-sm bg-gray-800 text-white placeholder-gray-400"
+      />
+      <button
+        type="submit"
+        class="w-full bg-accent hover:bg-accent-light text-white font-semibold px-5 py-2 rounded-lg transition-colors duration-200 text-sm"
+      >
+        {ctaText}
+      </button>
+    </form>
+    <p class="text-xs text-gray-500 mt-3">
+      No spam. Unsubscribe anytime. View our <a href="/privacy-policy" class="text-accent hover:text-accent-light underline">Privacy Policy</a>.
+    </p>
+  </div>
+) : (
+  <div class="email-signup bg-gradient-to-br from-primary to-primary-dark text-white rounded-xl p-8 md:p-12">
+    <div class="max-w-xl mx-auto text-center">
+      <h2 class="text-2xl md:text-3xl font-bold mb-3 font-heading">{heading}</h2>
+      <p class="text-orange-100 mb-6">{description}</p>
+      <form id={formId} class="email-signup-form space-y-3" data-lead-magnet={leadMagnet}>
+        <input
+          type="email"
+          name="email"
+          required
+          placeholder="Enter your email address"
+          class="w-full px-4 py-3 border border-orange-400 rounded-lg focus:ring-2 focus:ring-accent focus:border-transparent outline-none text-gray-900 placeholder-gray-500"
+        />
+        <button
+          type="submit"
+          class="w-full bg-accent hover:bg-accent-light text-white font-semibold px-6 py-3 rounded-lg transition-colors duration-200"
+        >
+          {ctaText}
+        </button>
+      </form>
+      <p class="text-xs text-orange-200 mt-4">
+        No spam. Unsubscribe anytime. View our <a href="/privacy-policy" class="text-accent hover:text-accent-light underline">Privacy Policy</a>.
+      </p>
+    </div>
+  </div>
+)}
+
+<script is:inline>
+  document.addEventListener('submit', function (e) {
+    if (!e.target.classList.contains('email-signup-form')) return;
+    e.preventDefault();
+
+    var form = e.target;
+    var email = form.querySelector('input[name="email"]').value;
+    var leadMagnet = form.getAttribute('data-lead-magnet') || '';
+    var btn = form.querySelector('button[type="submit"]');
+    var originalText = btn.textContent;
+
+    btn.disabled = true;
+    btn.textContent = 'Subscribing...';
+
+    fetch('/api/subscribe', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email: email, source: window.location.pathname }),
+    })
+    .then(function (res) { return res.json(); })
+    .then(function (data) {
+      var msg = data.message || 'Success! Check your email for your free checklist.';
+      form.innerHTML =
+        '<div class="text-center">' +
+        '<p class="text-lg font-semibold mb-2">' + (!data.error ? 'Check your inbox!' : 'Oops!') + '</p>' +
+        '<p class="text-sm">' + msg + '</p>' +
+        '</div>';
+    })
+    .catch(function () {
+      btn.disabled = false;
+      btn.textContent = originalText;
+      alert('Sorry, there was an error. Please try again.');
+    });
+  });
+</script>
