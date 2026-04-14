@@ -2,6 +2,7 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AdSlot from '@/components/AdSlot.astro';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
+import EmailCapture from '@/components/EmailCapture.astro';
 import ProductRecommendations from '@/components/ProductRecommendations.astro';
 import { getCollection, render } from 'astro:content';
 
@@ -52,6 +53,11 @@ const { Content } = await render(article);
           <div class="prose prose-lg max-w-none">
             <Content />
           </div>
+          <EmailCapture
+            siteId="theweldersguide"
+            placementType="inline"
+            leadMagnetLabel="Welding Safety Checklist"
+          />
           <div class="mt-8">
             <ProductRecommendations category="Safety Gear" maxItems={3} title="Recommended Products" />
           </div>
@@ -61,6 +67,11 @@ const { Content } = await render(article);
           <div class="mt-4">
             <AdSlot slot="article-in-content-2" format="horizontal" lazy={true} minHeight="90px" />
           </div>
+          <EmailCapture
+            siteId="theweldersguide"
+            placementType="cta"
+            leadMagnetLabel="Welding Safety Checklist"
+          />
           <div class="mt-6">
             <AffiliateDisclosure variant="full" />
           </div>
@@ -78,4 +89,9 @@ const { Content } = await render(article);
       </div>
     </div>
   </article>
+  <EmailCapture
+    siteId="theweldersguide"
+    placementType="exit-intent"
+    leadMagnetLabel="Welding Safety Checklist"
+  />
 </BaseLayout>

@@ -3,8 +3,19 @@ interface Props {
   siteId: string;
   placementType: 'inline' | 'cta' | 'exit-intent';
   leadMagnetLabel?: string;
-  convertKitFormId?: string;
 }
+
+const SITE_TAG_IDS: Record<string, number> = {
+  thermaltechpro: 18909240,
+  flowcontrolhq: 18909241,
+  shinglescience: 18909242,
+  amperagehq: 18909243,
+  thepestpro: 18909244,
+  theweldersguide: 18909245,
+  ironworksinsider: 18909246,
+  turftechhq: 18909247,
+  thecarpentersguide: 18909248,
+};
 
 const {
   siteId,
@@ -13,6 +24,7 @@ const {
 } = Astro.props;
 
 const ckApiKey = import.meta.env.PUBLIC_CK_API_KEY || 'kit_c9479f8706aba6b9e2e8a9d2ef9407d0';
+const ckTagId = SITE_TAG_IDS[siteId] || 0;
 const uid = `ec-${placementType}-${Math.random().toString(36).slice(2, 7)}`;
 ---
 
@@ -103,7 +115,7 @@ const uid = `ec-${placementType}-${Math.random().toString(36).slice(2, 7)}`;
   </div>
 )}
 
-<script define:vars={{ uid, ckApiKey, siteId, placementType }}>
+<script define:vars={{ uid, ckApiKey, ckTagId, placementType }}>
   (function () {
     var container = document.getElementById(uid);
     if (!container) return;
@@ -148,18 +160,31 @@ const uid = `ec-${placementType}-${Math.random().toString(36).slice(2, 7)}`;
 
       if (!email) return;
 
+      if (!ckApiKey || !ckTagId) {
+        console.warn('[EmailCapture] ConvertKit not configured.');
+        form.innerHTML = '<p class="text-sm text-center text-text-muted py-4">Email capture is not yet configured. Please check back soon!</p>';
+        return;
+      }
+
       btn.disabled = true;
       var origText = btn.textContent;
       btn.textContent = 'Subscribing\u2026';
 
-      var payload = { email_address: email };
-      if (firstName) payload.first_name = firstName;
+      var subscriberPayload = { email_address: email };
+      if (firstName) subscriberPayload.first_name = firstName;
 
       fetch('https://api.kit.com/v4/subscribers', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'X-Kit-Api-Key': ckApiKey },
-        body: JSON.stringify(payload),
+        body: JSON.stringify(subscriberPayload),
       })
+        .then(function () {
+          return fetch('https://api.kit.com/v4/tags/' + ckTagId + '/subscribers', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'X-Kit-Api-Key': ckApiKey },
+            body: JSON.stringify({ email_address: email, first_name: firstName || undefined }),
+          });
+        })
         .then(function (res) { return res.json(); })
         .then(function (data) {
           if (data.subscriber) {
@@ -171,7 +196,8 @@ const uid = `ec-${placementType}-${Math.random().toString(36).slice(2, 7)}`;
           } else {
             btn.disabled = false;
             btn.textContent = origText;
-            alert((data.errors && data.errors[0]) || 'Something went wrong. Please try again.');
+            var errMsg = (data.errors && data.errors[0]) || 'Something went wrong. Please try again.';
+            alert(errMsg);
           }
         })
         .catch(function () {
