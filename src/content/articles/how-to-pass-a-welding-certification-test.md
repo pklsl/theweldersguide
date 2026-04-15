@@ -2,6 +2,7 @@
 title: "How to Pass a Welding Certification Test (AWS D1.1)"
 description: "Prepare for and pass your AWS D1.1 welding certification test with practical tips on practice, technique, test day strategy, and common failure points."
 pubDate: 2026-03-27
+updatedDate: 2026-03-27
 author: "The Welder's Guide Team"
 tags: ["certification", "AWS", "career"]
 image: "https://images.pexels.com/photos/3756165/pexels-photo-3756165.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -165,3 +166,7 @@ Keep your continuity documentation current and stored safely. A [welding certifi
 ## Key Takeaways
 
 Passing an AWS D1.1 certification test comes down to preparation, not talent. Know the WPS, practice under test conditions, manage your nerves on test day, and focus on clean root penetration and thorough interpass cleaning. The certification process is designed to verify that you can produce sound welds consistently — and with focused practice, you absolutely can.
+
+## Related Articles
+
+Understanding welding positions is essential preparation for certification — the [welding positions guide](/articles/welding-position-guide) explains the 1G through 6G system and the specific technique adjustments each position requires. Electrode selection and handling matters during the test, particularly for E7018 — the [understanding welding electrode classifications guide](/articles/understanding-welding-electrode-classifications) covers storage, current requirements, and how to read the classification codes. Once certified, keeping your welds defect-free is critical for maintaining continuity — the [common welding defects and how to fix them guide](/articles/common-welding-defects-and-how-to-fix-them) explains how to identify and correct the problems that most commonly cause certification failures.

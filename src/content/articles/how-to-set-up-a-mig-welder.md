@@ -2,6 +2,7 @@
 title: "How to Set Up a MIG Welder: Step-by-Step Guide"
 description: "Learn how to set up a MIG welder from unboxing to your first weld. Covers wire installation, gas flow, voltage, and wire feed speed settings."
 pubDate: 2026-03-18
+updatedDate: 2026-03-18
 author: "The Welder's Guide Team"
 tags: ["MIG welding", "setup", "beginners"]
 image: "https://images.pexels.com/photos/258537/pexels-photo-258537.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -128,3 +129,7 @@ A well-maintained MIG welder runs better and lasts longer. After every few hours
 ## Final Thoughts
 
 Setting up a MIG welder takes patience, but doing it right from the start saves hours of frustration. Once your machine is dialed in, MIG welding becomes one of the most efficient and enjoyable processes to use. Take the time to practice, adjust, and refine your settings on scrap metal before moving to your actual project.
+
+## Related Articles
+
+Your shielding gas choice has a major impact on how a MIG welder performs after setup — the [understanding welding shielding gases guide](/articles/understanding-welding-shielding-gases) explains why C25 (75/25 argon/CO₂) is the standard for mild steel and how gas selection affects spatter, penetration, and transfer mode. Once your machine is running, understanding common defects will help you interpret what your welds are telling you — the [common welding defects and how to fix them guide](/articles/common-welding-defects-and-how-to-fix-them) maps symptoms like porosity and undercut back to specific setup issues. If you are deciding whether MIG is the right process for your work, the [MIG vs TIG vs stick welding comparison](/articles/mig-vs-tig-vs-stick-welding) breaks down the tradeoffs across all three main processes.

@@ -2,6 +2,7 @@
 title: "Common Welding Defects and How to Fix Them"
 description: "Identify and fix common welding defects including porosity, undercut, cracks, and lack of fusion. Practical troubleshooting for better weld quality."
 pubDate: 2026-04-02
+updatedDate: 2026-04-02
 author: "The Welder's Guide Team"
 tags: ["troubleshooting", "quality", "defects"]
 image: "https://images.pexels.com/photos/1095814/pexels-photo-1095814.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -213,3 +214,7 @@ For critical structural work, consider investing in a [weld inspection gauge](ht
 ## Final Thoughts
 
 Most welding defects trace back to three root causes: incorrect settings, poor preparation, or improper technique. When you encounter a defect, resist the urge to simply grind it out and reweld. Instead, identify the root cause and correct it before proceeding. Consistent, defect-free welding comes from understanding the relationship between heat, filler, and travel speed — and adjusting them as conditions change.
+
+## Related Articles
+
+Porosity and shielding failures are closely connected to your gas choice — [understanding welding shielding gases](/articles/understanding-welding-shielding-gases) explains how different blends affect arc stability and contamination risk. Many defects stem from incorrect machine setup. The [MIG welder setup guide](/articles/how-to-set-up-a-mig-welder) walks through voltage, wire feed speed, and polarity settings to get you dialed in before you weld on real work. For welders preparing for a certification test where defects will be evaluated by a CWI, the [AWS D1.1 certification guide](/articles/how-to-pass-a-welding-certification-test) covers the visual acceptance criteria and common failure points.

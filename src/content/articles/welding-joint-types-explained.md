@@ -2,6 +2,7 @@
 title: "Welding Joint Types Explained: Butt, Lap, Tee, and More"
 description: "Learn the five basic welding joint types and their variations. Understand joint design, preparation, and which joints suit different welding processes."
 pubDate: 2026-04-05
+updatedDate: 2026-04-05
 author: "The Welder's Guide Team"
 tags: ["joint design", "techniques", "fundamentals"]
 image: "https://images.pexels.com/photos/209839/pexels-photo-209839.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -227,3 +228,7 @@ A [welding fixture table](https://www.amazon.com/dp/B08T25Z4G7/?tag=theweldersgu
 ## Final Thoughts
 
 Understanding joint types is the foundation of welding knowledge. Before you strike an arc, you should know what joint you are working with, how it should be prepared, and what kind of weld it requires. Selecting the right joint type for your application ensures structural integrity, efficient use of materials, and a professional result.
+
+## Related Articles
+
+Joint types appear on blueprints through welding symbols — the [how to read welding blueprints guide](/articles/how-to-read-welding-blueprints) explains how V-groove, bevel, fillet, and other joint configurations are specified using AWS symbols so you can accurately interpret what a drawing is calling for. Joint design affects both the welding position and the sequence of passes — the [welding position guide](/articles/welding-position-guide) explains how each position from 1G flat to 6G inclined affects the technique you need for butt, tee, and other joint configurations. Common weld defects often originate in poor joint fit-up or the wrong joint design — the [common welding defects and how to fix them guide](/articles/common-welding-defects-and-how-to-fix-them) maps defects like lack of fusion and slag inclusions back to their root causes.

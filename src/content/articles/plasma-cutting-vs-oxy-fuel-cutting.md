@@ -2,6 +2,7 @@
 title: "Plasma Cutting vs Oxy-Fuel Cutting: Which Is Right for You?"
 description: "Compare plasma cutting and oxy-fuel cutting to find the best method for your metal cutting needs. Covers speed, cost, material thickness, and applications."
 pubDate: 2026-03-25
+updatedDate: 2026-03-25
 author: "The Welder's Guide Team"
 tags: ["cutting", "plasma", "oxy-fuel"]
 image: "https://images.pexels.com/photos/209939/pexels-photo-209939.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -144,3 +145,7 @@ Plasma cutting is generally louder than oxy-fuel due to the high-velocity gas je
 ## Key Takeaways
 
 Plasma and oxy-fuel cutting each have clear strengths. Plasma offers superior speed, cleaner cuts, and the ability to cut any conductive metal, making it ideal for shops that work with diverse materials. Oxy-fuel excels at cutting thick steel plate, requires no electricity, and doubles as a heating tool, making it indispensable for field work and heavy fabrication. For most serious fabricators, owning both is the most practical approach.
+
+## Related Articles
+
+Cutting is typically the first step before welding, so understanding the joint options that follow helps you plan your cuts correctly — the [welding joint types guide](/articles/welding-joint-types-explained) covers how groove angles and bevel preparations affect your joint design and which cutting method is better suited to prepare each type. Welding safety applies equally to cutting operations — the [welding safety essentials guide](/articles/welding-safety-essentials) covers fume hazards, fire prevention, and PPE requirements that are directly relevant to plasma and oxy-fuel work. For field cutting situations where portability is a priority, see the [best portable welders for field work guide](/articles/best-portable-welders-for-field-work) for equipment that pairs well with an oxy-fuel setup.

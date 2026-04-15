@@ -2,6 +2,7 @@
 title: "Stick Welding Tips for Beginners: Getting Started with SMAW"
 description: "Learn stick welding basics with practical tips for beginners. Covers electrode selection, arc striking, technique, and how to improve your welds fast."
 pubDate: 2026-04-12
+updatedDate: 2026-04-12
 author: "The Welder's Guide Team"
 tags: ["stick welding", "SMAW", "beginners"]
 image: "https://images.pexels.com/photos/269872/pexels-photo-269872.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -184,3 +185,7 @@ Each position builds on the skills from the previous one. Do not move on until y
 ## Final Thoughts
 
 Stick welding rewards patience and practice more than any other process. The skills you develop — arc control, travel speed judgment, and electrode manipulation — transfer to every other welding process. Start with E6013 on flat plate, learn to read your weld bead, and gradually work through the positions. With consistent practice, you can reach a certification-ready skill level within 3-6 months.
+
+## Related Articles
+
+Understanding the electrode code system in depth helps you move beyond the basics — the [understanding welding electrode classifications guide](/articles/understanding-welding-electrode-classifications) decodes every digit in designations like E7018 and E6013 so you can choose the right rod for any application. As your skills improve, the [welding position guide](/articles/welding-position-guide) explains the 1G through 6G system and the technique adjustments each out-of-position weld requires. When you are ready to compare stick welding to other processes, the [MIG vs TIG vs stick welding comparison](/articles/mig-vs-tig-vs-stick-welding) helps you understand where each process excels and how they can complement each other.

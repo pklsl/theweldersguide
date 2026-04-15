@@ -2,6 +2,7 @@
 title: "Understanding Welding Electrode Classifications (E7018, E6013, etc.)"
 description: "Decode welding electrode classifications like E7018 and E6013. Learn what each number means and which rod to choose for your stick welding projects."
 pubDate: 2026-03-21
+updatedDate: 2026-03-21
 author: "The Welder's Guide Team"
 tags: ["stick welding", "electrodes", "fundamentals"]
 image: "https://images.pexels.com/photos/258539/pexels-photo-258539.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -163,3 +164,7 @@ Here is a quick decision framework:
 ## Key Takeaways
 
 The AWS electrode classification system tells you tensile strength, welding position, flux type, and current compatibility in a simple code. Knowing how to read E7018, E6013, E6010, and other common designations allows you to select the right electrode for every application. Keep a selection of two to three electrode types on hand — typically a deep-penetration rod (E6010/E6011), a general-purpose rod (E6013), and a structural low-hydrogen rod (E7018) — and you will be prepared for nearly any stick welding job.
+
+## Related Articles
+
+Putting electrode knowledge into practice in technique is the next step — the [stick welding tips for beginners guide](/articles/stick-welding-tips-for-beginners) covers arc striking, amperage settings, weave patterns, and the practice exercises that build skill with each electrode type. If you are preparing for certification, knowing which electrodes are required for each test is essential — the [how to pass a welding certification test guide](/articles/how-to-pass-a-welding-certification-test) explains how E7018 is used in AWS D1.1 qualification testing and what storage requirements you will need to follow. For welders working on structural projects, the [how to read welding blueprints guide](/articles/how-to-read-welding-blueprints) explains how electrode and process specifications appear in WPS documents and welding symbols.

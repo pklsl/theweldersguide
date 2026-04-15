@@ -2,6 +2,7 @@
 title: "Welding Stainless Steel: Techniques and Tips"
 description: "Learn the best techniques for welding stainless steel, including TIG and MIG methods, filler metal selection, and how to prevent common defects."
 pubDate: 2026-03-16
+updatedDate: 2026-03-16
 author: "The Welder's Guide Team"
 tags: ["TIG welding", "stainless steel", "techniques"]
 image: "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -139,3 +140,7 @@ Wear appropriate PPE including a welding helmet with the correct shade lens, lea
 ## Key Takeaways
 
 Welding stainless steel successfully comes down to three fundamentals: controlling heat input, preventing contamination, and using the right filler metal and shielding gas. Master these, and you will produce welds that are both structurally sound and visually impressive. Whether you are a hobbyist building a custom exhaust or a professional fabricating sanitary piping, the principles remain the same. Take your time, plan your sequence, and let the material cool between passes.
+
+## Related Articles
+
+Shielding gas selection is critical for stainless — the [understanding welding shielding gases guide](/articles/understanding-welding-shielding-gases) explains why the standard C25 mix damages stainless welds and what tri-mix and argon/helium blends to use instead. The hexavalent chromium fumes produced by stainless welding require elevated PPE and ventilation measures — the [welding safety essentials guide](/articles/welding-safety-essentials) covers respiratory protection requirements and ventilation setups for this hazard. If you are working on thin stainless sheet, many of the same heat management principles apply — the [welding thin sheet metal guide](/articles/welding-thin-sheet-metal-tips) covers stitch welding, backing bars, and sequence planning that translates directly to thin-gauge stainless work.

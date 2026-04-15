@@ -2,6 +2,7 @@
 title: "Welding Thin Sheet Metal: How to Avoid Burn-Through and Warping"
 description: "Master thin sheet metal welding with proven techniques to prevent burn-through, warping, and distortion. Covers MIG, TIG, and spot welding approaches."
 pubDate: 2026-03-29
+updatedDate: 2026-03-29
 author: "The Welder's Guide Team"
 tags: ["sheet metal", "MIG welding", "techniques"]
 image: "https://images.pexels.com/photos/3772402/pexels-photo-3772402.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -141,3 +142,7 @@ A quality [MIG welder with synergic control](https://www.amazon.com/dp/B09TQBJYH
 ## Key Takeaways
 
 Successful thin sheet metal welding comes down to minimizing heat input and distributing what heat you do apply. Use the thinnest wire or rod possible, weld in short stitches rather than continuous beads, clamp everything tight, and move around the joint to let each section cool. With practice and patience, you can produce clean, flat welds on even the thinnest gauge sheet metal.
+
+## Related Articles
+
+Machine setup has an outsized effect on thin metal results — the [how to set up a MIG welder guide](/articles/how-to-set-up-a-mig-welder) walks through voltage, wire feed speed, and inductance settings at the thin end of the material range where dial-in is most critical. Thin stainless sheet presents the combined challenges of heat sensitivity and contamination risk — the [welding stainless steel guide](/articles/welding-stainless-steel-guide) covers the techniques for managing both on the same material. Defects like burn-through and porosity are particularly common when learning thin metal welding — the [common welding defects and how to fix them guide](/articles/common-welding-defects-and-how-to-fix-them) helps you diagnose what is going wrong and correct it.

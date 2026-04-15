@@ -2,6 +2,7 @@
 title: "How to TIG Weld Aluminum: Complete Guide"
 description: "Master TIG welding aluminum with this complete guide covering equipment setup, technique, filler rod selection, and troubleshooting common problems."
 pubDate: 2026-03-27
+updatedDate: 2026-03-27
 author: "The Welder's Guide Team"
 tags: ["TIG welding", "aluminum", "techniques"]
 image: "https://images.pexels.com/photos/2748349/pexels-photo-2748349.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -177,3 +178,7 @@ For material 3/8 inch and thicker:
 ## Final Thoughts
 
 TIG welding aluminum rewards patience and practice. The key fundamentals are clean material, proper AC settings, consistent filler rod technique, and appropriate travel speed. Start with 1/8-inch flat stock and practice running beads until you can establish a puddle quickly and add filler smoothly. Once you master the basics on flat plate, you can progress to tubing, vertical, and overhead positions with confidence.
+
+## Related Articles
+
+Argon shielding gas is non-negotiable for aluminum TIG welding — the [understanding welding shielding gases guide](/articles/understanding-welding-shielding-gases) explains how argon purity, helium additions for thick material, and flow rate all affect aluminum weld quality. Aluminum requires a different approach than stainless, but the two materials share the challenge of corrosion resistance — the [welding stainless steel guide](/articles/welding-stainless-steel-guide) covers parallel concepts like heat management, contamination prevention, and dedicated tooling. If you are new to TIG and want to understand how it compares to MIG for your application, the [MIG vs TIG vs stick welding comparison](/articles/mig-vs-tig-vs-stick-welding) helps you decide which process fits your project and skill level.

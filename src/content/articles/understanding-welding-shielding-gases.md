@@ -2,6 +2,7 @@
 title: "Understanding Shielding Gases for MIG and TIG Welding"
 description: "Learn how shielding gases affect MIG and TIG welding performance. Covers argon, CO₂, helium blends, and how to choose the right gas for your application."
 pubDate: 2026-04-12
+updatedDate: 2026-04-12
 author: "The Welder's Guide Team"
 tags: ["shielding gas", "MIG", "TIG"]
 image: "https://images.pexels.com/photos/2735970/pexels-photo-2735970.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -193,3 +194,7 @@ For a shop MIG welder running regularly, a 125 CF or 250 CF cylinder provides a 
 ## Key Takeaways
 
 Shielding gas is not just a consumable you grab off the shelf — it is a critical welding parameter that affects every aspect of your weld. For most MIG welding on mild steel, C25 (75/25 argon/CO₂) is the right choice. For TIG welding, pure argon covers the vast majority of applications. For stainless steel MIG, use a tri-mix. For aluminum TIG, add helium when welding thicker sections. Understanding gas properties and matching your gas to your process, material, and application will noticeably improve your weld quality and reduce defects.
+
+## Related Articles
+
+Gas selection interacts directly with wire selection in MIG welding — the [flux-cored wire vs solid wire comparison](/articles/flux-cored-wire-vs-solid-wire) explains which wires require shielding gas and which are self-shielded, directly affecting how you source and manage your gas supply. When the right gas setup is in place, setting up your machine correctly maximizes the benefit — the [how to set up a MIG welder guide](/articles/how-to-set-up-a-mig-welder) covers gas cylinder connection, regulator adjustment, and flow rate settings for common applications. Gas costs are a meaningful line item in any job estimate — the [how to calculate welding costs guide](/articles/how-to-calculate-welding-costs) shows you how to calculate shielding gas consumption per project so you can bid accurately.

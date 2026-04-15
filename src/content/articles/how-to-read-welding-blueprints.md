@@ -2,6 +2,7 @@
 title: "How to Read Welding Blueprints and Symbols"
 description: "Learn to read welding blueprints and interpret AWS welding symbols. Covers basic weld symbols, supplementary symbols, dimensions, and blueprint reading."
 pubDate: 2026-04-09
+updatedDate: 2026-04-09
 author: "The Welder's Guide Team"
 tags: ["blueprints", "symbols", "fundamentals"]
 image: "https://images.pexels.com/photos/2108865/pexels-photo-2108865.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -175,3 +176,7 @@ Follow this sequence when reading any welding symbol:
 ## Final Thoughts
 
 Reading welding blueprints is a skill that improves with practice. Start by learning the basic weld symbols — fillet, V-groove, and bevel groove cover the vast majority of what you will see. Then gradually add supplementary symbols and dimensioning to your knowledge. Before long, you will read a welding symbol as naturally as you read words on a page, and your work will be more accurate and efficient because of it.
+
+## Related Articles
+
+Blueprints specify joint types and their geometry — the [welding joint types guide](/articles/welding-joint-types-explained) explains each of the five basic joint configurations, their preparation requirements, and how they relate to the groove and fillet weld symbols you will encounter on drawings. Blueprints also specify welding positions, so understanding the [welding positions guide](/articles/welding-position-guide) helps you interpret position requirements like 3G or 4G that may appear in the WPS referenced on a drawing. For structural steel work following AWS D1.1, the [how to pass a welding certification test guide](/articles/how-to-pass-a-welding-certification-test) explains how blueprints and WPS documents are used during qualification testing.

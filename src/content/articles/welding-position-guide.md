@@ -2,6 +2,7 @@
 title: "Welding Positions Explained: 1G Through 6G"
 description: "Understand all welding positions from 1G flat to 6G inclined pipe. Learn what each designation means and how position affects welding technique."
 pubDate: 2026-04-05
+updatedDate: 2026-04-05
 author: "The Welder's Guide Team"
 tags: ["positions", "certification", "fundamentals"]
 image: "https://images.pexels.com/photos/2225681/pexels-photo-2225681.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -188,3 +189,7 @@ A set of [pre-beveled practice coupons](https://www.amazon.com/dp/B07QFV3W5X/?ta
 ## Key Takeaways
 
 Welding positions from 1G through 6G represent increasing levels of difficulty as you move from gravity-assisted flat welding to the fully inclined 6G pipe position. Each position requires specific adjustments to amperage, travel speed, electrode angle, and weave technique. Mastering all positions — especially 3G, 4G, and 6G — is the path to the highest-paying welding jobs in structural steel, pipe fitting, and pipeline construction.
+
+## Related Articles
+
+Positions are directly tied to certification — the [how to pass a welding certification test guide](/articles/how-to-pass-a-welding-certification-test) explains how 3G and 4G plate tests qualify you for all positions under AWS D1.1, and what the testing process looks like from setup through bend testing. Welding blueprints and WPS documents specify which positions are required for each weld — the [how to read welding blueprints guide](/articles/how-to-read-welding-blueprints) explains how position designations appear in specifications and what the codes mean. Out-of-position welding places higher demands on your electrode choice — the [understanding welding electrode classifications guide](/articles/understanding-welding-electrode-classifications) explains why all-position electrodes like E7018 and E6011 behave differently in vertical and overhead applications.
