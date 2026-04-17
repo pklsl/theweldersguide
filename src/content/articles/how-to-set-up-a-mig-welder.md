@@ -5,7 +5,7 @@ pubDate: 2026-03-18
 updatedDate: 2026-03-18
 author: "Frank Ciervo"
 tags: ["MIG welding", "setup", "beginners"]
-image: "https://images.pexels.com/photos/11358749/pexels-photo-11358749.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/28346079/pexels-photo-28346079.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # How to Set Up a MIG Welder: Step-by-Step Guide
