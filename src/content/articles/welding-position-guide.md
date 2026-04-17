@@ -5,7 +5,7 @@ pubDate: 2026-04-05
 updatedDate: 2026-04-05
 author: "Frank Ciervo"
 tags: ["positions", "certification", "fundamentals"]
-image: "https://images.pexels.com/photos/2225681/pexels-photo-2225681.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/30225586/pexels-photo-30225586.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 If you have spent any time around welders, you have heard terms like "2G," "3G," and "6G" thrown around. These alphanumeric codes are the universal shorthand for welding positions — the orientation of the weld joint relative to the welder and gravity. Understanding these designations is essential for reading welding procedure specifications, preparing for certification tests, and communicating effectively on the job.

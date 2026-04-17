@@ -5,7 +5,7 @@ pubDate: 2026-04-02
 updatedDate: 2026-04-02
 author: "Frank Ciervo"
 tags: ["troubleshooting", "quality", "defects"]
-image: "https://images.pexels.com/photos/1095814/pexels-photo-1095814.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10551343/pexels-photo-10551343.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Common Welding Defects and How to Fix Them

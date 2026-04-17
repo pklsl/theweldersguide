@@ -5,7 +5,7 @@ pubDate: 2026-03-15
 updatedDate: 2026-03-15
 author: "Frank Ciervo"
 tags: ["MIG", "TIG", "stick welding", "beginners"]
-image: "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/29224610/pexels-photo-29224610.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # MIG vs TIG vs Stick Welding: Which Process Is Right for You?

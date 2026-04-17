@@ -5,7 +5,7 @@ pubDate: 2026-04-05
 updatedDate: 2026-04-05
 author: "Frank Ciervo"
 tags: ["joint design", "techniques", "fundamentals"]
-image: "https://images.pexels.com/photos/209839/pexels-photo-209839.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10791369/pexels-photo-10791369.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding Joint Types Explained: Butt, Lap, Tee, and More

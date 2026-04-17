@@ -5,7 +5,7 @@ pubDate: 2026-03-29
 updatedDate: 2026-03-29
 author: "Frank Ciervo"
 tags: ["sheet metal", "MIG welding", "techniques"]
-image: "https://images.pexels.com/photos/3772402/pexels-photo-3772402.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10395742/pexels-photo-10395742.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Welding thin sheet metal — anything from 26-gauge auto body panels up to about 16-gauge — is one of the most challenging skills in fabrication. The metal is unforgiving: too much heat and you blow a hole, too little and you get incomplete fusion. Add in the tendency for thin metal to warp and distort, and you have a process that demands precision, patience, and the right technique.

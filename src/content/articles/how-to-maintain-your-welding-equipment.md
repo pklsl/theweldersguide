@@ -5,7 +5,7 @@ pubDate: 2026-04-08
 updatedDate: 2026-04-08
 author: "Frank Ciervo"
 tags: ["maintenance", "equipment", "best practices"]
-image: "https://images.pexels.com/photos/162554/pexels-photo-162554.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11673107/pexels-photo-11673107.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 A welding machine is a significant investment, and how well you maintain it directly affects its performance, reliability, and lifespan. Neglected equipment produces poor welds, breaks down at the worst possible moment, and costs more in repairs than proper maintenance would have cost in prevention.

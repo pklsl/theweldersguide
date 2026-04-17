@@ -5,7 +5,7 @@ pubDate: 2026-03-30
 updatedDate: 2026-03-30
 author: "Frank Ciervo"
 tags: ["MIG welding", "flux-cored", "wire selection"]
-image: "https://images.pexels.com/photos/399179/pexels-photo-399179.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11624249/pexels-photo-11624249.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Flux-Cored Wire vs Solid Wire: Which Should You Use?

@@ -5,7 +5,7 @@ pubDate: 2026-03-21
 updatedDate: 2026-03-21
 author: "Frank Ciervo"
 tags: ["safety", "PPE", "best practices"]
-image: "https://images.pexels.com/photos/3760529/pexels-photo-3760529.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/12965141/pexels-photo-12965141.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding Safety Essentials: PPE and Best Practices

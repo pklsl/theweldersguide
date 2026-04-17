@@ -5,7 +5,7 @@ pubDate: 2026-04-12
 updatedDate: 2026-04-12
 author: "Frank Ciervo"
 tags: ["shielding gas", "MIG", "TIG"]
-image: "https://images.pexels.com/photos/2735970/pexels-photo-2735970.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11624248/pexels-photo-11624248.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Shielding gas is one of the most misunderstood aspects of welding. Many welders know they need it, use whatever their local supplier recommends, and never think about it again. But the gas flowing through your torch has a profound effect on arc characteristics, penetration profile, spatter levels, bead appearance, and weld quality.

@@ -5,7 +5,7 @@ pubDate: 2026-04-09
 updatedDate: 2026-04-09
 author: "Frank Ciervo"
 tags: ["blueprints", "symbols", "fundamentals"]
-image: "https://images.pexels.com/photos/2108865/pexels-photo-2108865.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/19165543/pexels-photo-19165543.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # How to Read Welding Blueprints and Symbols

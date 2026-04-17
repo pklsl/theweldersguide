@@ -5,7 +5,7 @@ pubDate: 2026-04-12
 updatedDate: 2026-04-12
 author: "Frank Ciervo"
 tags: ["stick welding", "SMAW", "beginners"]
-image: "https://images.pexels.com/photos/269872/pexels-photo-269872.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/29385962/pexels-photo-29385962.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Stick Welding Tips for Beginners: Getting Started with SMAW

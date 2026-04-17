@@ -5,7 +5,7 @@ pubDate: 2026-03-25
 updatedDate: 2026-03-25
 author: "Frank Ciervo"
 tags: ["cutting", "plasma", "oxy-fuel"]
-image: "https://images.pexels.com/photos/209939/pexels-photo-209939.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10551344/pexels-photo-10551344.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 When it comes to cutting metal, two thermal cutting processes dominate the fabrication shop: plasma cutting and oxy-fuel cutting. Both use heat to sever metal, but they work on fundamentally different principles, and each has distinct advantages depending on your application, material, and budget.

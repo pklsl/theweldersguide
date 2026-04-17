@@ -5,7 +5,7 @@ pubDate: 2026-03-21
 updatedDate: 2026-03-21
 author: "Frank Ciervo"
 tags: ["stick welding", "electrodes", "fundamentals"]
-image: "https://images.pexels.com/photos/258539/pexels-photo-258539.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/14265844/pexels-photo-14265844.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 If you have ever stood in front of a welding supply display trying to figure out which rod to buy, you are not alone. The alphanumeric codes printed on stick welding electrode packages — E7018, E6013, E6010, and so on — tell you everything you need to know about how that electrode performs, what positions it works in, and what type of coating it has. You just need to know how to read them.

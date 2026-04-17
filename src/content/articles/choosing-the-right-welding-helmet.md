@@ -5,7 +5,7 @@ pubDate: 2026-03-24
 updatedDate: 2026-03-24
 author: "Frank Ciervo"
 tags: ["equipment", "safety", "helmets"]
-image: "https://images.pexels.com/photos/4164055/pexels-photo-4164055.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10290627/pexels-photo-10290627.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Choosing the Right Auto-Darkening Welding Helmet

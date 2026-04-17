@@ -5,7 +5,7 @@ pubDate: 2026-03-19
 updatedDate: 2026-03-19
 author: "Frank Ciervo"
 tags: ["business", "estimating", "costs"]
-image: "https://images.pexels.com/photos/3862130/pexels-photo-3862130.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/14528644/pexels-photo-14528644.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Accurately calculating welding costs is the difference between a profitable project and one that eats into your margins. Whether you are bidding on a structural steel job, quoting a custom fabrication, or pricing repairs for a client, you need a systematic approach to estimating. Too many welders rely on gut feelings or rough guesses, and that is a fast track to underbidding.

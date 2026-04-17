@@ -5,7 +5,7 @@ pubDate: 2026-03-16
 updatedDate: 2026-03-16
 author: "Frank Ciervo"
 tags: ["TIG welding", "stainless steel", "techniques"]
-image: "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10414799/pexels-photo-10414799.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Welding stainless steel can be one of the most rewarding processes in a fabricator's repertoire, but it also demands a higher level of skill and attention to detail than welding mild steel. Stainless steel's unique properties — its chromium content, low thermal conductivity, and high coefficient of thermal expansion — mean that the same habits you use on carbon steel can lead to warping, sugaring, or corrosion if you are not careful.

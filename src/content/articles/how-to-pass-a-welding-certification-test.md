@@ -5,7 +5,7 @@ pubDate: 2026-03-27
 updatedDate: 2026-03-27
 author: "Frank Ciervo"
 tags: ["certification", "AWS", "career"]
-image: "https://images.pexels.com/photos/3756165/pexels-photo-3756165.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11624252/pexels-photo-11624252.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 Earning your AWS D1.1 welding certification is one of the most significant career steps you can take as a welder. The Structural Welding Code — Steel (D1.1) published by the American Welding Society is the most widely referenced welding code in North America, and certification to this standard opens doors to structural steel, heavy equipment, and industrial fabrication work.
