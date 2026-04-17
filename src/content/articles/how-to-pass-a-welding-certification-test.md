@@ -3,7 +3,7 @@ title: "How to Pass a Welding Certification Test (AWS D1.1)"
 description: "Prepare for and pass your AWS D1.1 welding certification test with practical tips on practice, technique, test day strategy, and common failure points."
 pubDate: 2026-03-27
 updatedDate: 2026-03-27
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["certification", "AWS", "career"]
 image: "https://images.pexels.com/photos/3756165/pexels-photo-3756165.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

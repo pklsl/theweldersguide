@@ -3,7 +3,7 @@ title: "Welding Thin Sheet Metal: How to Avoid Burn-Through and Warping"
 description: "Master thin sheet metal welding with proven techniques to prevent burn-through, warping, and distortion. Covers MIG, TIG, and spot welding approaches."
 pubDate: 2026-03-29
 updatedDate: 2026-03-29
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["sheet metal", "MIG welding", "techniques"]
 image: "https://images.pexels.com/photos/3772402/pexels-photo-3772402.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

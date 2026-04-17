@@ -3,7 +3,7 @@ title: "Understanding Shielding Gases for MIG and TIG Welding"
 description: "Learn how shielding gases affect MIG and TIG welding performance. Covers argon, CO₂, helium blends, and how to choose the right gas for your application."
 pubDate: 2026-04-12
 updatedDate: 2026-04-12
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["shielding gas", "MIG", "TIG"]
 image: "https://images.pexels.com/photos/2735970/pexels-photo-2735970.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

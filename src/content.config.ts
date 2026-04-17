@@ -8,7 +8,7 @@ const articles = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
-    author: z.string().default("The Welder's Guide Team"),
+    author: z.string().default("Frank Ciervo"),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
   }),

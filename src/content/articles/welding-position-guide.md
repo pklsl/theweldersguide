@@ -3,7 +3,7 @@ title: "Welding Positions Explained: 1G Through 6G"
 description: "Understand all welding positions from 1G flat to 6G inclined pipe. Learn what each designation means and how position affects welding technique."
 pubDate: 2026-04-05
 updatedDate: 2026-04-05
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["positions", "certification", "fundamentals"]
 image: "https://images.pexels.com/photos/2225681/pexels-photo-2225681.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

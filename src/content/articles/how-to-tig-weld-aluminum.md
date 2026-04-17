@@ -3,7 +3,7 @@ title: "How to TIG Weld Aluminum: Complete Guide"
 description: "Master TIG welding aluminum with this complete guide covering equipment setup, technique, filler rod selection, and troubleshooting common problems."
 pubDate: 2026-03-27
 updatedDate: 2026-03-27
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["TIG welding", "aluminum", "techniques"]
 image: "https://images.pexels.com/photos/2748349/pexels-photo-2748349.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

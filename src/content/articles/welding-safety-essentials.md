@@ -3,7 +3,7 @@ title: "Welding Safety Essentials: PPE and Best Practices"
 description: "Protect yourself while welding with the right PPE and safety practices. Covers helmets, gloves, clothing, ventilation, and fire prevention essentials."
 pubDate: 2026-03-21
 updatedDate: 2026-03-21
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["safety", "PPE", "best practices"]
 image: "https://images.pexels.com/photos/3760529/pexels-photo-3760529.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

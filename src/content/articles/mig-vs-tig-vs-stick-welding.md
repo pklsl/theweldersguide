@@ -3,7 +3,7 @@ title: "MIG vs TIG vs Stick Welding: Which Process Is Right for You?"
 description: "Compare MIG, TIG, and stick welding processes. Learn the pros, cons, and best uses for each method to choose the right one for your project."
 pubDate: 2026-03-15
 updatedDate: 2026-03-15
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["MIG", "TIG", "stick welding", "beginners"]
 image: "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

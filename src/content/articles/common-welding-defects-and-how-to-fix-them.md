@@ -3,7 +3,7 @@ title: "Common Welding Defects and How to Fix Them"
 description: "Identify and fix common welding defects including porosity, undercut, cracks, and lack of fusion. Practical troubleshooting for better weld quality."
 pubDate: 2026-04-02
 updatedDate: 2026-04-02
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["troubleshooting", "quality", "defects"]
 image: "https://images.pexels.com/photos/1095814/pexels-photo-1095814.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

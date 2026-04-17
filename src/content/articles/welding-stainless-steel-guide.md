@@ -3,7 +3,7 @@ title: "Welding Stainless Steel: Techniques and Tips"
 description: "Learn the best techniques for welding stainless steel, including TIG and MIG methods, filler metal selection, and how to prevent common defects."
 pubDate: 2026-03-16
 updatedDate: 2026-03-16
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["TIG welding", "stainless steel", "techniques"]
 image: "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

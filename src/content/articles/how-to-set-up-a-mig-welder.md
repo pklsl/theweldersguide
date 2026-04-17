@@ -3,7 +3,7 @@ title: "How to Set Up a MIG Welder: Step-by-Step Guide"
 description: "Learn how to set up a MIG welder from unboxing to your first weld. Covers wire installation, gas flow, voltage, and wire feed speed settings."
 pubDate: 2026-03-18
 updatedDate: 2026-03-18
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["MIG welding", "setup", "beginners"]
 image: "https://images.pexels.com/photos/258537/pexels-photo-258537.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

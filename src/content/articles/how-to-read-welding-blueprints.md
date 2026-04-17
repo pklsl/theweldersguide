@@ -3,7 +3,7 @@ title: "How to Read Welding Blueprints and Symbols"
 description: "Learn to read welding blueprints and interpret AWS welding symbols. Covers basic weld symbols, supplementary symbols, dimensions, and blueprint reading."
 pubDate: 2026-04-09
 updatedDate: 2026-04-09
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["blueprints", "symbols", "fundamentals"]
 image: "https://images.pexels.com/photos/2108865/pexels-photo-2108865.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

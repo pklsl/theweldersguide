@@ -3,7 +3,7 @@ title: "Best Portable Welders for Field Work and On-Site Repairs"
 description: "Discover the best portable welders for field work and on-site repairs. Compare engine-driven, inverter, and battery-powered options for every budget."
 pubDate: 2026-04-02
 updatedDate: 2026-04-02
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["equipment", "portable welders", "buying guide"]
 image: "https://images.pexels.com/photos/2101187/pexels-photo-2101187.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

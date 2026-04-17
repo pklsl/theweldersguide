@@ -3,7 +3,7 @@ title: "Flux-Cored Wire vs Solid Wire: Which Should You Use?"
 description: "Compare flux-cored and solid MIG wire to choose the right one for your project. Covers pros, cons, costs, and best applications for each wire type."
 pubDate: 2026-03-30
 updatedDate: 2026-03-30
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["MIG welding", "flux-cored", "wire selection"]
 image: "https://images.pexels.com/photos/399179/pexels-photo-399179.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

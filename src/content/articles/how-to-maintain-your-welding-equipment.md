@@ -3,7 +3,7 @@ title: "How to Maintain Your Welding Equipment for Longevity"
 description: "Extend the life of your welding equipment with a complete maintenance guide covering MIG guns, TIG torches, stick welders, and essential routine care."
 pubDate: 2026-04-08
 updatedDate: 2026-04-08
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["maintenance", "equipment", "best practices"]
 image: "https://images.pexels.com/photos/162554/pexels-photo-162554.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

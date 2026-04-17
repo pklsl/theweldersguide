@@ -3,7 +3,7 @@ title: "Plasma Cutting vs Oxy-Fuel Cutting: Which Is Right for You?"
 description: "Compare plasma cutting and oxy-fuel cutting to find the best method for your metal cutting needs. Covers speed, cost, material thickness, and applications."
 pubDate: 2026-03-25
 updatedDate: 2026-03-25
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["cutting", "plasma", "oxy-fuel"]
 image: "https://images.pexels.com/photos/209939/pexels-photo-209939.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

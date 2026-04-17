@@ -5,7 +5,24 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 <BaseLayout title="About" description="Learn about The Welder's Guide — your trusted source for expert welding and fabrication content for professionals and hobbyists.">
   <section class="py-16">
     <div class="max-w-3xl mx-auto px-4">
-      <h1 class="text-4xl font-bold mb-6 font-heading">About The Welder's Guide</h1>
+      <div class="flex flex-col md:flex-row gap-8 items-center md:items-start mb-12">
+        <div class="flex-shrink-0">
+          <img
+            src="/author.jpg"
+            alt="Frank Ciervo"
+            class="w-64 h-64 object-cover rounded-2xl shadow-lg"
+          />
+        </div>
+        <div>
+          <h1 class="text-4xl font-bold mb-1 font-heading">Meet Frank Ciervo</h1>
+          <p class="text-lg text-primary font-semibold mb-4">Certified Welder & Founder of The Welder's Guide</p>
+          <p class="text-text-muted leading-relaxed">
+            Frank Ciervo is a certified welder and the founder of The Welder's Guide. With over 22 years of experience in the welding trade, Frank has worked across a wide range of industries — from structural steel and pipe welding to automotive fabrication and artistic metalwork. He earned his AWS Certified Welder credential early in his career and went on to achieve multiple endorsements including SMAW, GMAW, and GTAW processes. After 15 years running his own welding and fabrication shop, Frank created The Welder's Guide to provide both aspiring and experienced welders with clear, practical instruction on techniques, equipment, safety, and career development. He is passionate about trade education and mentors young welders entering the field. Frank lives in Pennsylvania, where his home workshop is always humming with the sound of a grinder.
+          </p>
+        </div>
+      </div>
+
+      <h2 class="text-4xl font-bold mb-6 font-heading">About The Welder's Guide</h2>
       <div class="prose prose-lg max-w-none text-text">
         <p class="text-lg text-text-muted mb-6">
           The Welder's Guide is a resource built for welding professionals, fabricators, and hobbyists who want reliable, expert-level information about welding processes, techniques, and safety.

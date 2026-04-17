@@ -3,7 +3,7 @@ title: "Understanding Welding Electrode Classifications (E7018, E6013, etc.)"
 description: "Decode welding electrode classifications like E7018 and E6013. Learn what each number means and which rod to choose for your stick welding projects."
 pubDate: 2026-03-21
 updatedDate: 2026-03-21
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["stick welding", "electrodes", "fundamentals"]
 image: "https://images.pexels.com/photos/258539/pexels-photo-258539.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

@@ -3,7 +3,7 @@ title: "How to Calculate Welding Costs for Your Projects"
 description: "Learn how to accurately estimate welding costs including materials, labor, gas, consumables, and overhead for profitable project bidding."
 pubDate: 2026-03-19
 updatedDate: 2026-03-19
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["business", "estimating", "costs"]
 image: "https://images.pexels.com/photos/3862130/pexels-photo-3862130.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

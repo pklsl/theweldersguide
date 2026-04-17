@@ -3,7 +3,7 @@ title: "Welding Joint Types Explained: Butt, Lap, Tee, and More"
 description: "Learn the five basic welding joint types and their variations. Understand joint design, preparation, and which joints suit different welding processes."
 pubDate: 2026-04-05
 updatedDate: 2026-04-05
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["joint design", "techniques", "fundamentals"]
 image: "https://images.pexels.com/photos/209839/pexels-photo-209839.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

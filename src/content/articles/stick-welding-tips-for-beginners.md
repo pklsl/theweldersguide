@@ -3,7 +3,7 @@ title: "Stick Welding Tips for Beginners: Getting Started with SMAW"
 description: "Learn stick welding basics with practical tips for beginners. Covers electrode selection, arc striking, technique, and how to improve your welds fast."
 pubDate: 2026-04-12
 updatedDate: 2026-04-12
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["stick welding", "SMAW", "beginners"]
 image: "https://images.pexels.com/photos/269872/pexels-photo-269872.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---

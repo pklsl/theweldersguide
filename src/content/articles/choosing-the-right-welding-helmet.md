@@ -3,7 +3,7 @@ title: "Choosing the Right Auto-Darkening Welding Helmet"
 description: "Find the best auto-darkening welding helmet for your needs. Compare lens shade, viewing size, sensors, and features for MIG, TIG, and stick welding."
 pubDate: 2026-03-24
 updatedDate: 2026-03-24
-author: "The Welder's Guide Team"
+author: "Frank Ciervo"
 tags: ["equipment", "safety", "helmets"]
 image: "https://images.pexels.com/photos/4164055/pexels-photo-4164055.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
