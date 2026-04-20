@@ -4,7 +4,7 @@ description: "Master TIG welding titanium with this complete guide. Covers argon
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["TIG welding", "titanium", "exotic metals"]
-image: "https://images.pexels.com/photos/2748350/pexels-photo-2748350.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11624249/pexels-photo-11624249.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding Titanium: Complete Guide to TIG Welding Ti

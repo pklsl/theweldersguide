@@ -4,7 +4,7 @@ description: "Complete guide to aerospace welding. Covers AWS D17.1, titanium, I
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["aerospace welding", "titanium", "career"]
-image: "https://images.pexels.com/photos/2748349/pexels-photo-2748349.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/29386089/pexels-photo-29386089.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Aerospace Welding: Standards, Materials, and Career Paths

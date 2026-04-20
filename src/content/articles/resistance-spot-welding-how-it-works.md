@@ -4,7 +4,7 @@ description: "Learn how resistance spot welding works — principles, electrode 
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["spot welding", "resistance welding", "auto body"]
-image: "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10551343/pexels-photo-10551343.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Resistance Spot Welding: How It Works and When to Use It

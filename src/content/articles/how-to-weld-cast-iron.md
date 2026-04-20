@@ -4,7 +4,7 @@ description: "Learn how to weld cast iron successfully. Covers preheating, nicke
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["cast iron", "stick welding", "repair welding"]
-image: "https://images.pexels.com/photos/258540/pexels-photo-258540.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/29386088/pexels-photo-29386088.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # How to Weld Cast Iron: Techniques, Rods, and Preheating

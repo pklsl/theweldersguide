@@ -4,7 +4,7 @@ description: "Learn about essential welding jigs and fixtures. Covers corner cla
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["welding fixtures", "jigs", "fabrication"]
-image: "https://images.pexels.com/photos/162554/pexels-photo-162554.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/35415843/pexels-photo-35415843.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Essential Welding Jigs and Fixtures for Accurate Fabrication

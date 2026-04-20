@@ -4,7 +4,7 @@ description: "Learn pipe welding from scratch. Covers open root technique, walki
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["pipe welding", "TIG welding", "certification"]
-image: "https://images.pexels.com/photos/2225681/pexels-photo-2225681.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11951202/pexels-photo-11951202.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Pipe Welding for Beginners: Getting Started with 6G

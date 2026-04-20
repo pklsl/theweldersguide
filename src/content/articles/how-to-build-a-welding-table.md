@@ -4,7 +4,7 @@ description: "Step-by-step guide to building a heavy-duty welding table. Include
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["welding table", "shop projects", "DIY fabrication"]
-image: "https://images.pexels.com/photos/162554/pexels-photo-162554.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/29224610/pexels-photo-29224610.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # How to Build a Heavy-Duty Welding Table: Plans and Material List

@@ -4,7 +4,7 @@ description: "Complete guide to welding gas tank sizes, cylinder costs, and gas 
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["welding gas", "shielding gas", "equipment"]
-image: "https://images.pexels.com/photos/2735970/pexels-photo-2735970.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11181242/pexels-photo-11181242.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding Gas Tank Sizes, Costs, and How to Choose

@@ -4,7 +4,7 @@ description: "Learn how to weld a roll cage with DOM or ERW tubing. Covers tube 
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["roll cage", "motorsports", "TIG welding", "MIG welding"]
-image: "https://images.pexels.com/photos/1095814/pexels-photo-1095814.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11951202/pexels-photo-11951202.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # How to Weld a Roll Cage: DOM Tubing, Notching, and Certification

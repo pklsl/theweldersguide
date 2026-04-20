@@ -4,7 +4,7 @@ description: "Find the best welding carts for MIG and TIG machines, plus DIY wel
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["welding equipment", "shop organization", "DIY"]
-image: "https://images.pexels.com/photos/162554/pexels-photo-162554.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/34039390/pexels-photo-34039390.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Best Welding Carts and DIY Plans for Your Shop

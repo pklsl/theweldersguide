@@ -4,7 +4,7 @@ description: "Understand brazing vs welding — the differences in temperature, 
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["brazing", "welding techniques", "silver brazing"]
-image: "https://images.pexels.com/photos/209939/pexels-photo-209939.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/6263147/pexels-photo-6263147.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Brazing vs. Welding: When to Use Each and How to Braze

@@ -4,7 +4,7 @@ description: "Learn to weld galvanized steel safely. Covers metal fume fever ris
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["galvanized steel", "welding safety", "MIG welding"]
-image: "https://images.pexels.com/photos/3760529/pexels-photo-3760529.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10727957/pexels-photo-10727957.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding Galvanized Steel: Safety and Techniques

@@ -4,7 +4,7 @@ description: "Complete guide to marine welding. Covers hull welding, aluminum bo
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["marine welding", "aluminum welding", "corrosion"]
-image: "https://images.pexels.com/photos/2735970/pexels-photo-2735970.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/34751740/pexels-photo-34751740.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Marine Welding: Techniques, Materials, and Corrosion Protection

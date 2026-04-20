@@ -4,7 +4,7 @@ description: "Complete guide to welding nickel alloys including Inconel, Monel, 
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["nickel alloys", "Inconel", "TIG welding", "exotic metals"]
-image: "https://images.pexels.com/photos/399179/pexels-photo-399179.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/12587565/pexels-photo-12587565.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding Nickel Alloys: Inconel, Monel, and Hastelloy Guide

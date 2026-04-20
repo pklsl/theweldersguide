@@ -4,7 +4,7 @@ description: "Complete welding salary guide by specialty, location, and experien
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["welding career", "salary", "welding jobs"]
-image: "https://images.pexels.com/photos/3862130/pexels-photo-3862130.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/10883221/pexels-photo-10883221.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding Salary Guide: How Much Do Welders Make in 2026?

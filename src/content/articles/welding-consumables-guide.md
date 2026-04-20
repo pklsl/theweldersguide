@@ -4,7 +4,7 @@ description: "Complete guide to welding consumables. Covers MIG wire, stick elec
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["welding consumables", "MIG welding", "stick welding", "TIG welding"]
-image: "https://images.pexels.com/photos/399179/pexels-photo-399179.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/12475053/pexels-photo-12475053.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding Consumables Guide: Wire, Electrodes, Rods, and Flux

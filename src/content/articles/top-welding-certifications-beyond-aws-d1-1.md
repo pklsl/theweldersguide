@@ -4,7 +4,7 @@ description: "Explore welding certifications that go beyond AWS D1.1. Covers CWI
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["welding certification", "career", "AWS"]
-image: "https://images.pexels.com/photos/3756165/pexels-photo-3756165.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/11624252/pexels-photo-11624252.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Top Welding Certifications Beyond AWS D1.1

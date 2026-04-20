@@ -4,7 +4,7 @@ description: "Complete guide to weld inspection methods including visual testing
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["weld inspection", "NDT", "quality control"]
-image: "https://images.pexels.com/photos/3756165/pexels-photo-3756165.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/12203702/pexels-photo-12203702.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Weld Inspection and Testing Methods: VT, UT, RT, MT, and PT

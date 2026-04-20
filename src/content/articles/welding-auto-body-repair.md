@@ -4,7 +4,7 @@ description: "Learn welding techniques for auto body repair. Covers plug welding
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["auto body", "MIG welding", "sheet metal"]
-image: "https://images.pexels.com/photos/209839/pexels-photo-209839.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/12114680/pexels-photo-12114680.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Welding for Auto Body Repair: MIG Welding Sheet Metal

@@ -4,7 +4,7 @@ description: "Find the best TIG welder under $1000. Reviews of AC/DC TIG welders
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["TIG welding", "equipment reviews", "buying guide"]
-image: "https://images.pexels.com/photos/2748349/pexels-photo-2748349.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/36522037/pexels-photo-36522037.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Best TIG Welders Under $1000: AC/DC Reviews for 2026

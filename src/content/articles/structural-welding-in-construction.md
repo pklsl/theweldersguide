@@ -4,7 +4,7 @@ description: "Complete guide to structural welding in construction. Covers FCAW,
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["structural welding", "construction", "AWS D1.1"]
-image: "https://images.pexels.com/photos/1095814/pexels-photo-1095814.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/13944023/pexels-photo-13944023.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Structural Welding in Construction: Processes, Codes, and Careers

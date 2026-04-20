@@ -4,7 +4,7 @@ description: "Everything you need to know about pipeline welding jobs. Covers ce
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["pipeline welding", "career", "pipe welding"]
-image: "https://images.pexels.com/photos/3756165/pexels-photo-3756165.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/12684906/pexels-photo-12684906.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Pipeline Welding: What It Takes to Succeed in the Field

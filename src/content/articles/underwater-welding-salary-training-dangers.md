@@ -4,7 +4,7 @@ description: "Everything about underwater welding careers. Covers salary ranges,
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["underwater welding", "commercial diving", "career"]
-image: "https://images.pexels.com/photos/2108865/pexels-photo-2108865.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/3046582/pexels-photo-3046582.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # Underwater Welding: Salary, Training, and the Real Dangers

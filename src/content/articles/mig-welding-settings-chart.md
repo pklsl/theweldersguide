@@ -4,7 +4,7 @@ description: "MIG welding settings chart for wire feed speed, voltage, and shiel
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["MIG welding", "settings", "reference"]
-image: "https://images.pexels.com/photos/258537/pexels-photo-258537.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/15209789/pexels-photo-15209789.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # MIG Welding Settings Chart: Wire Speed and Voltage by Material

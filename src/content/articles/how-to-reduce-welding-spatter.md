@@ -4,7 +4,7 @@ description: "Learn why welding spatter happens and how to reduce it. Covers vol
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["MIG welding", "spatter", "welding tips"]
-image: "https://images.pexels.com/photos/269872/pexels-photo-269872.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/32488423/pexels-photo-32488423.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # How to Reduce Welding Spatter: Causes, Prevention, and Products

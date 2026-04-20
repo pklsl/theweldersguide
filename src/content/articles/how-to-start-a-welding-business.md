@@ -4,7 +4,7 @@ description: "Step-by-step guide to starting a welding business. Covers business
 pubDate: 2026-04-20
 author: "The Welder's Guide Team"
 tags: ["welding business", "career", "self-employment"]
-image: "https://images.pexels.com/photos/3862130/pexels-photo-3862130.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/28852847/pexels-photo-28852847.jpeg?auto=compress&cs=tinysrgb&w=800"
 ---
 
 # How to Start a Welding Business: Registration, Pricing, and Marketing
