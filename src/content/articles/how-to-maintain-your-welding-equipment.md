@@ -37,7 +37,7 @@ Damaged cables are not just a maintenance issue — they are a safety hazard. Re
 
 Turn on your shielding gas and check the flow rate at the nozzle. A flow meter or regulator gauge should read in your normal operating range (typically 20–35 CFH for MIG, 15–25 CFH for TIG). If the flow seems low or inconsistent, check for leaks at the fittings, hose connections, and nozzle.
 
-A simple [gas leak detection solution](https://www.amazon.com/dp/B000BOBW6G/?tag=theweldersguide-20) applied to fittings will bubble at any leak point.
+A simple **gas leak detection solution** applied to fittings will bubble at any leak point.
 
 ### Clean the Work Area
 
@@ -129,7 +129,7 @@ Once a year, perform a thorough inspection:
 
 Welding cables degrade over time, even with careful use. The copper strands work-harden from flexing, and the insulation becomes brittle from heat and UV exposure. Plan to replace heavily used cables every 3–5 years, or sooner if you notice stiffness, cracking, or reduced flexibility.
 
-A quality [welding cable replacement kit](https://www.amazon.com/dp/B08GKT3KJP/?tag=theweldersguide-20) with pre-terminated ends makes cable replacement straightforward.
+A quality **welding cable replacement kit** with pre-terminated ends makes cable replacement straightforward.
 
 ### Regulator and Flowmeter Service
 
@@ -149,7 +149,7 @@ How you store your equipment when not in use matters as much as active maintenan
 
 Keep a simple log for each piece of equipment documenting maintenance performed, consumables replaced, and any issues noted. This helps you track patterns, plan ahead for replacement parts, and provides documentation for warranty claims.
 
-A dedicated [equipment maintenance logbook](https://www.amazon.com/dp/B08QD2DTPX/?tag=theweldersguide-20) or a simple spreadsheet both work well.
+A dedicated **equipment maintenance logbook** or a simple spreadsheet both work well.
 
 ## Key Takeaways
 

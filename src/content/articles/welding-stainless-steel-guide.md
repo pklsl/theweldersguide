@@ -129,7 +129,7 @@ After welding, clean the weld and heat-affected zone to restore the passive chro
 - **Pickling paste** — Apply a pickling paste (typically a nitric/hydrofluoric acid blend) to remove oxide scale and discoloration. Always follow the manufacturer's safety instructions and rinse thoroughly.
 - **Passivation** — A nitric acid passivation treatment removes free iron from the surface and promotes the reformation of the passive layer.
 
-For small projects, a dedicated [stainless weld cleaning kit](https://www.amazon.com/dp/B09C1TQF3K/?tag=theweldersguide-20) can handle discoloration without the hazards of acid pickling.
+For small projects, a dedicated **stainless weld cleaning kit** can handle discoloration without the hazards of acid pickling.
 
 ## Safety Considerations
 

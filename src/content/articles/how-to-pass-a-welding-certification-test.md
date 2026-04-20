@@ -161,7 +161,7 @@ The cap is your visual impression. Aim for a slightly convex profile that ties i
 
 AWS D1.1 certifications are valid as long as you continue to perform the qualified welding without a break exceeding six months. Your employer must sign a continuity log every six months confirming you have been welding within the scope of your qualification. If your continuity lapses, you must retest.
 
-Keep your continuity documentation current and stored safely. A [welding certification document organizer](https://www.amazon.com/dp/B08F6RYJN8/?tag=theweldersguide-20) or digital backup ensures you always have proof of your qualifications.
+Keep your continuity documentation current and stored safely. A **welding certification document organizer** or digital backup ensures you always have proof of your qualifications.
 
 ## Key Takeaways
 

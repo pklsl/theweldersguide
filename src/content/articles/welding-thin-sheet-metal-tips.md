@@ -51,7 +51,7 @@ TIG offers the ultimate control for thin metal because you can independently adj
 
 ### Resistance Spot Welding — OEM Approach
 
-For lap joints on auto body panels, resistance spot welding is how the factory does it, and it is worth considering for restorations. A [portable spot welder](https://www.amazon.com/dp/B08T25B3HG/?tag=theweldersguide-20) produces strong joints with minimal heat distortion.
+For lap joints on auto body panels, resistance spot welding is how the factory does it, and it is worth considering for restorations. A **portable spot welder** produces strong joints with minimal heat distortion.
 
 ## Essential Techniques for Preventing Burn-Through
 
@@ -137,7 +137,7 @@ If your MIG welder has adjustable inductance, increase the inductance setting. H
 
 Some welders also have a dedicated "thin metal" or "sheet metal" mode that pulses the arc, alternating between a peak current and a background current. This reduces overall heat input while maintaining arc stability. If your machine has this feature, learn to use it.
 
-A quality [MIG welder with synergic control](https://www.amazon.com/dp/B09TQBJYHP/?tag=theweldersguide-20) can automatically set wire feed speed and voltage based on material thickness, taking much of the guesswork out of thin metal welding.
+A quality **MIG welder with synergic control** can automatically set wire feed speed and voltage based on material thickness, taking much of the guesswork out of thin metal welding.
 
 ## Key Takeaways
 

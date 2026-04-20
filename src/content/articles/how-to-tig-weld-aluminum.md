@@ -32,7 +32,7 @@ Aluminum TIG welding requires an **alternating current (AC) output**. The AC cyc
 - **Electrode negative half-cycle (EN)** — Provides heat input to melt the base metal.
 - **Electrode positive half-cycle (EP)** — Strips the oxide layer from the aluminum surface through a cleaning action called cathodic etching.
 
-A quality AC/DC TIG machine like the [Everlast PowerTIG 255EXT](https://www.amazon.com/dp/B07PGL8SBW/?tag=theweldersguide-20) gives you full control over the AC balance, frequency, and wave shape.
+A quality AC/DC TIG machine like the **Everlast PowerTIG 255EXT** gives you full control over the AC balance, frequency, and wave shape.
 
 ### AC Balance Control
 
@@ -139,7 +139,7 @@ Move steadily forward, adding filler at a consistent rhythm.
 ### Problem: Porosity (Tiny Holes in the Bead)
 
 **Cause:** Contamination from oil, water, or atmosphere.
-**Fix:** Clean the aluminum thoroughly with acetone. Check gas flow rate. Ensure the cup size provides adequate coverage. A [gas lens kit](https://www.amazon.com/dp/B00CEPIMGS/?tag=theweldersguide-20) can improve gas coverage significantly.
+**Fix:** Clean the aluminum thoroughly with acetone. Check gas flow rate. Ensure the cup size provides adequate coverage. A **gas lens kit** can improve gas coverage significantly.
 
 ### Problem: Tungsten Contamination (Gray, Bubbly Tungsten)
 

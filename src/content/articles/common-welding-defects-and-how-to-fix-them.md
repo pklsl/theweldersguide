@@ -52,7 +52,7 @@ Undercut is a groove melted into the base metal along the toe of the weld that i
 2. Slow your travel speed to allow proper fill at the weld toes.
 3. Adjust your electrode or gun angle to distribute heat evenly across both pieces.
 4. If weaving, pause briefly at the center of the bead and flow filler to the toes.
-5. Use a [welding angle gauge](https://www.amazon.com/dp/B00FGQM35S/?tag=theweldersguide-20) to maintain consistent work angles.
+5. Use a **welding angle gauge** to maintain consistent work angles.
 
 ## Cracks
 
@@ -87,7 +87,7 @@ These appear hours or even days after welding, typically in the heat-affected zo
 - Use low-hydrogen electrodes (E7018) and keep them dry
 - Preheat the base metal to slow the cooling rate (consult preheat charts for your material thickness)
 - Maintain interpass temperatures within the recommended range
-- Use a [digital thermometer](https://www.amazon.com/dp/B008VRTBFK/?tag=theweldersguide-20) to verify preheat and interpass temperatures
+- Use a **digital thermometer** to verify preheat and interpass temperatures
 
 ## Lack of Fusion
 
@@ -143,7 +143,7 @@ Spatter consists of small metal droplets thrown from the weld pool that stick to
 
 1. Tune voltage and wire feed speed until the arc sounds like "frying bacon."
 2. Use 75/25 Argon/CO2 instead of pure CO2 for MIG welding.
-3. Replace worn contact tips and clean the nozzle regularly with [anti-spatter spray](https://www.amazon.com/dp/B000MRQ7G6/?tag=theweldersguide-20).
+3. Replace worn contact tips and clean the nozzle regularly with **anti-spatter spray**.
 4. Maintain 1/4 to 3/8 inch stick-out for MIG welding.
 5. Clean the base metal before welding.
 
@@ -209,7 +209,7 @@ After completing every weld, perform a quick visual inspection:
 - Has the slag been fully removed (stick/FCAW)?
 - Does the weld show proper penetration at the root (if visible)?
 
-For critical structural work, consider investing in a [weld inspection gauge](https://www.amazon.com/dp/B00FGQM3O0/?tag=theweldersguide-20) to measure undercut depth, fillet weld leg size, and reinforcement height.
+For critical structural work, consider investing in a **weld inspection gauge** to measure undercut depth, fillet weld leg size, and reinforcement height.
 
 ## Final Thoughts
 

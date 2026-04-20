@@ -95,7 +95,7 @@ A clean workpiece and a solid ground connection are non-negotiable for quality M
 2. **Clamp your ground** to clean, bare metal as close to the weld joint as possible. A poor ground causes erratic arcs and inconsistent penetration.
 3. **Fit and tack** the joint before running a full weld bead. This prevents distortion and keeps gaps consistent.
 
-A good [magnetic ground clamp](https://www.amazon.com/dp/B00JTAGFB2/?tag=theweldersguide-20) can make grounding easier on irregular surfaces.
+A good **magnetic ground clamp** can make grounding easier on irregular surfaces.
 
 ## Step 7: Practice on Scrap Metal
 
@@ -121,7 +121,7 @@ Before welding your actual project, run several practice beads on scrap of the s
 A well-maintained MIG welder runs better and lasts longer. After every few hours of welding:
 
 - Trim 1/2 inch of wire to expose a fresh tip.
-- Clean spatter from the nozzle and contact tip with [nozzle gel](https://www.amazon.com/dp/B00065CO7K/?tag=theweldersguide-20).
+- Clean spatter from the nozzle and contact tip with **nozzle gel**.
 - Check the liner for wear and replace it if wire feeding becomes erratic.
 - Inspect gas hoses for leaks using a soapy water solution.
 - Wipe down the drive rolls and remove any dust or wire debris.

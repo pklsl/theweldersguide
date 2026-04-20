@@ -184,7 +184,7 @@ E7018 runs more smoothly out of position than E6010 or E6013 for many welders. T
 
 Cut practice coupons from the same material and thickness you will be working on or testing on. Weld coupons in each position and evaluate them visually, then cut and bend them to check for internal defects.
 
-A set of [pre-beveled practice coupons](https://www.amazon.com/dp/B07QFV3W5X/?tag=theweldersguide-20) saves preparation time and ensures consistent joint geometry for practice.
+A set of **pre-beveled practice coupons** saves preparation time and ensures consistent joint geometry for practice.
 
 ## Key Takeaways
 

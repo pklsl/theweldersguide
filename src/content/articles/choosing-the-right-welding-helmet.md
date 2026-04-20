@@ -36,7 +36,7 @@ The shade number determines how dark the lens becomes when the arc strikes. High
 - **Shade 12-13** — High-amperage stick and MIG (200-300+ amps)
 - **Shade 13-14** — Heavy industrial applications and carbon arc gouging
 
-Look for a helmet with a variable shade range of **9-13** to cover most processes. Some premium helmets extend to shade 5-13, which is useful for low-amperage TIG work. The [Optrel Crystal 2.0](https://www.amazon.com/dp/B07KGH8JLC/?tag=theweldersguide-20) offers exceptional clarity across its shade range.
+Look for a helmet with a variable shade range of **9-13** to cover most processes. Some premium helmets extend to shade 5-13, which is useful for low-amperage TIG work. The **Optrel Crystal 2.0** offers exceptional clarity across its shade range.
 
 ### Number of Arc Sensors
 
@@ -73,7 +73,7 @@ The optical clarity rating (EN379 standard) uses a four-digit scale where 1/1/1/
 3. **Homogeneity** — Consistent shade across the lens
 4. **Angular dependence** — Visibility at off-center angles
 
-A 1/1/1/1 rated helmet provides the clearest view of the weld pool. This is especially important for TIG welding, where you need to see fine details. The [3M Speedglas 9100](https://www.amazon.com/dp/B00APVN7DQ/?tag=theweldersguide-20) consistently earns top optical ratings.
+A 1/1/1/1 rated helmet provides the clearest view of the weld pool. This is especially important for TIG welding, where you need to see fine details. The **3M Speedglas 9100** consistently earns top optical ratings.
 
 ### True Color Technology
 
@@ -123,10 +123,10 @@ Key comfort features:
 The [Lincoln Electric Viking 3350](https://www.amazon.com/dp/B00LJSMHCK/?tag=theweldersguide-20) offers a large 3.74 x 3.33-inch viewing area, four sensors, and 1/1/1/1 optical clarity at a competitive price.
 
 ### Best for TIG Welding
-The [Everlast EPS1200P](https://www.amazon.com/dp/B0CJKY8QZT/?tag=theweldersguide-20) features a shade 5-13 range with high sensitivity for low-amperage TIG. Four sensors ensure reliable arc detection even at 5 amps.
+The **Everlast EPS1200P** features a shade 5-13 range with high sensitivity for low-amperage TIG. Four sensors ensure reliable arc detection even at 5 amps.
 
 ### Best for Stick Welding
-Stick welding generates more spatter than other processes, so durability matters. The [Miller Digital Elite](https://www.amazon.com/dp/B00KVQNNVI/?tag=theweldersguide-20) has a rugged shell, four arc sensors, and clear lens technology.
+Stick welding generates more spatter than other processes, so durability matters. The **Miller Digital Elite** has a rugged shell, four arc sensors, and clear lens technology.
 
 ### Best Budget Option
 The [Antra AH6-260-0000](https://www.amazon.com/dp/B00VS4YQTA/?tag=theweldersguide-20) delivers four sensors, variable shade 4-13, and grind mode for under $60. It is the best value helmet for beginners.

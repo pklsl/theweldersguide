@@ -44,7 +44,7 @@ Different processes demand different glove types:
 - **TIG welding gloves** — Thin, flexible goatskin or deerskin for fingertip control. Look for tight-fitting cuffs.
 - **Stick welding gloves** — Heavy cowhide or elk skin with reinforced palms to handle high heat and spatter.
 
-Always inspect gloves for holes, worn seams, or thinning leather before use. A good pair of [Revco TIG gloves](https://www.amazon.com/dp/B000RKQ1OY/?tag=theweldersguide-20) provides the dexterity needed for precision work.
+Always inspect gloves for holes, worn seams, or thinning leather before use. A good pair of **Revco TIG gloves** provides the dexterity needed for precision work.
 
 ### Protective Clothing
 
@@ -58,7 +58,7 @@ Always inspect gloves for holes, worn seams, or thinning leather before use. A g
 Welding fumes contain metal oxides, ozone, and nitrogen dioxide. Breathing these contaminants causes both immediate and long-term health effects.
 
 - **Natural ventilation** — Weld outdoors or in open bays whenever possible. Position yourself upwind of the fume plume.
-- **Extraction systems** — Use a [portable fume extractor](https://www.amazon.com/dp/B008YQ4UT2/?tag=theweldersguide-20) for indoor welding. Position the hood within 6 inches of the arc.
+- **Extraction systems** — Use a **portable fume extractor** for indoor welding. Position the hood within 6 inches of the arc.
 - **Respirators** — When ventilation is insufficient, wear a NIOSH-approved respirator with P100 filters. Half-mask respirators work for most applications.
 - **Confined spaces** — Always use supplied-air respirators in tanks, vessels, or enclosed areas.
 
@@ -75,7 +75,7 @@ Wear ANSI Z87.1 safety glasses under your helmet at all times. They protect agai
 Welding sparks can travel up to 35 feet and ignite flammable materials. Follow these fire safety protocols:
 
 1. **Clear the area** — Remove paper, cardboard, solvents, rags, and any combustible materials within a 35-foot radius.
-2. **Use fire blankets** — Cover immovable flammable objects with [welding blankets](https://www.amazon.com/dp/B000MR6JAY/?tag=theweldersguide-20) rated for your process.
+2. **Use fire blankets** — Cover immovable flammable objects with **welding blankets** rated for your process.
 3. **Have a fire extinguisher** — Keep a Class ABC extinguisher within arm's reach. Inspect it monthly and know how to use it.
 4. **Post-fire watch** — After welding, monitor the area for at least 30 minutes. Sparks can smolder in cracks and wall cavities before igniting.
 5. **Check for hidden hazards** — Look behind walls and above ceilings for flammable materials before welding near building surfaces.

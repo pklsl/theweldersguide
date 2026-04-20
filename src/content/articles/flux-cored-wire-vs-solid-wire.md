@@ -66,7 +66,7 @@ The smooth arc and lack of slag make solid wire more forgiving for new welders. 
 ### Recommended Solid Wire Products
 
 - [Lincoln Electric L56 ER70S-6](https://www.amazon.com/dp/B00MIK66FK/?tag=theweldersguide-20) — Excellent all-around mild steel wire with good feedability.
-- [Hobart H305406-R18 ER70S-6](https://www.amazon.com/dp/B000RNEKK8/?tag=theweldersguide-20) — Consistent quality at a competitive price.
+- **Hobart H305406-R18 ER70S-6** — Consistent quality at a competitive price.
 
 ## Advantages of Flux-Cored Wire
 
@@ -98,7 +98,7 @@ The flux compounds in the core act as deoxidizers and scavengers, absorbing rust
 ### Recommended Flux-Cored Wire Products
 
 - [Lincoln Electric NR-211-MP](https://www.amazon.com/dp/B00MILHW6M/?tag=theweldersguide-20) — The most popular self-shielded flux-cored wire for general-purpose welding.
-- [Hobart H222106-R19](https://www.amazon.com/dp/B003UW9GG4/?tag=theweldersguide-20) — Great for outdoor applications and farm repairs.
+- **Hobart H222106-R19** — Great for outdoor applications and farm repairs.
 
 ## Polarity Requirements
 
@@ -148,7 +148,7 @@ For occasional hobby welding, flux-cored wire may actually be cheaper because yo
 
 Absolutely. Many welders keep both types on hand. Use solid wire for indoor shop work on clean material, and switch to flux-cored for outdoor projects or thick steel. Most MIG welders handle both wire types — just remember to switch polarity when you change wires.
 
-A multi-process machine like the [YesWelder MIG-250Pro](https://www.amazon.com/dp/B09FK9GNWF/?tag=theweldersguide-20) makes switching between wire types straightforward.
+A multi-process machine like the **YesWelder MIG-250Pro** makes switching between wire types straightforward.
 
 ## Final Thoughts
 

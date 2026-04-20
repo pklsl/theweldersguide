@@ -50,7 +50,7 @@ TIG welding, or Gas Tungsten Arc Welding (GTAW), uses a non-consumable tungsten 
 - **Steeper learning curve** — Coordinating both hands and a foot pedal takes considerable practice.
 - **Requires clean materials** — Any contamination shows up immediately in the weld bead.
 
-TIG is the preferred process for pipe welding, aerospace components, and any application where appearance and precision matter. For a capable TIG machine, consider the [Everlast PowerTIG 200DV](https://www.amazon.com/dp/B00U3LTNU2/?tag=theweldersguide-20).
+TIG is the preferred process for pipe welding, aerospace components, and any application where appearance and precision matter. For a capable TIG machine, consider the **Everlast PowerTIG 200DV**.
 
 ## What Is Stick Welding (SMAW)?
 
@@ -69,7 +69,7 @@ Stick welding, or Shielded Metal Arc Welding (SMAW), uses a consumable electrode
 - **More spatter and cleanup** — Chipping slag between passes is mandatory.
 - **Harder on thin material** — Stick welding below 1/8-inch material requires significant skill.
 
-Stick welding dominates in construction, pipeline work, shipbuilding, and outdoor repair. The [Hobart Stickmate 160i](https://www.amazon.com/dp/B0BQ8Y7CNB/?tag=theweldersguide-20) is a reliable inverter-based stick welder for field use.
+Stick welding dominates in construction, pipeline work, shipbuilding, and outdoor repair. The **Hobart Stickmate 160i** is a reliable inverter-based stick welder for field use.
 
 ## Head-to-Head Comparison
 
@@ -108,7 +108,7 @@ Stick welding dominates in construction, pipeline work, shipbuilding, and outdoo
 
 ## Can You Learn More Than One Process?
 
-Absolutely. Most professional welders are proficient in at least two of these processes. Many multi-process machines, like the [YesWelder MIG-205DS](https://www.amazon.com/dp/B082FKBJHT/?tag=theweldersguide-20), allow you to switch between MIG, TIG, and stick welding with a single unit. This versatility is invaluable as you take on a wider range of projects.
+Absolutely. Most professional welders are proficient in at least two of these processes. Many multi-process machines, like the **YesWelder MIG-205DS**, allow you to switch between MIG, TIG, and stick welding with a single unit. This versatility is invaluable as you take on a wider range of projects.
 
 ## Final Thoughts
 

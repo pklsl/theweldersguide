@@ -21,7 +21,7 @@ This guide gives you the practical tips you need to get started and improve quic
 - **Forgiving on dirty metal** — Stick electrodes burn through rust, paint, and mill scale better than MIG or TIG.
 - **Career opportunities** — Most structural welding certifications require SMAW proficiency.
 
-The [Lincoln Electric Weld Pak 100](https://www.amazon.com/dp/B00BLZ15TG/?tag=theweldersguide-20) and [Forney Easy Weld 100DS](https://www.amazon.com/dp/B07T1KMSMN/?tag=theweldersguide-20) are two affordable stick welders that are perfect for learning.
+The [Lincoln Electric Weld Pak 100](https://www.amazon.com/dp/B00BLZ15TG/?tag=theweldersguide-20) and **Forney Easy Weld 100DS** are two affordable stick welders that are perfect for learning.
 
 ## Understanding Stick Welding Electrodes
 
@@ -44,7 +44,7 @@ Electrodes are classified by a four- or five-digit code defined by the American 
 
 - **Characteristics:** Low hydrogen, medium penetration, smooth and strong welds, requires clean metal
 - **Best for:** Structural steel, pressure vessels, critical welds, and passing certification tests
-- **Important:** E7018 is moisture-sensitive. Store opened electrodes in a [rod oven](https://www.amazon.com/dp/B0087PCH64/?tag=theweldersguide-20) at 250°F to prevent hydrogen cracking. Never use E7018 that has been exposed to humid air for more than a few hours without reconditioning.
+- **Important:** E7018 is moisture-sensitive. Store opened electrodes in a **rod oven** at 250°F to prevent hydrogen cracking. Never use E7018 that has been exposed to humid air for more than a few hours without reconditioning.
 
 ### E7024 — The High-Deposition Electrode
 
@@ -141,7 +141,7 @@ Slag is the brittle, glass-like coating that forms over the weld bead as the flu
 3. **Follow with a wire brush** to remove remaining residue.
 4. **Inspect the weld** — any remaining slag appears as dark patches in the bead valleys. Remove these completely before welding over them.
 
-A [chipping hammer with wire brush](https://www.amazon.com/dp/B000MRQ7JE/?tag=theweldersguide-20) is an essential tool for any stick welder.
+A **chipping hammer with wire brush** is an essential tool for any stick welder.
 
 ## Practice Exercises for Beginners
 

@@ -149,7 +149,7 @@ Low-hydrogen electrodes like E7018 are hygroscopic — they absorb moisture from
 - E6010 and E6013 are less sensitive to moisture but should still be kept dry for best performance
 - If electrodes get wet, discard them — do not attempt to dry them in an oven and reuse them for critical work
 
-A dedicated [electrode holding oven](https://www.amazon.com/dp/B00C7P3S4Q/?tag=theweldersguide-20) is essential for any shop doing structural or code work with low-hydrogen rods.
+A dedicated **electrode holding oven** is essential for any shop doing structural or code work with low-hydrogen rods.
 
 ## Choosing the Right Electrode for Your Project
 

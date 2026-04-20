@@ -115,7 +115,7 @@ A mid-range plasma cutter like the [Hypertherm Powermax45](https://www.amazon.co
 - Budget is a primary concern
 - You do heavy equipment repair or salvage work
 
-A quality oxy-acetylene outfit like the [Victor Technologies Performer](https://www.amazon.com/dp/B008D5MXOU/?tag=theweldersguide-20) provides reliable cutting and heating capability at an affordable price.
+A quality oxy-acetylene outfit like the **Victor Technologies Performer** provides reliable cutting and heating capability at an affordable price.
 
 ### Why Not Both?
 

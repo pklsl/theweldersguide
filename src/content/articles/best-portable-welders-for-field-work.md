@@ -117,11 +117,11 @@ The [ESAB Rebel EMP 285ic](https://www.amazon.com/dp/B07PRDZMF3/?tag=theweldersg
 
 ### Best Budget Inverter: Hobart Handler 210MVP
 
-For welders who need portability without a premium price, the [Hobart Handler 210MVP](https://www.amazon.com/dp/B07HGWQHTB/?tag=theweldersguide-20) offers dual-voltage MIG welding in a compact package. It runs on 115V or 230V and produces enough output for light to medium fabrication work.
+For welders who need portability without a premium price, the **Hobart Handler 210MVP** offers dual-voltage MIG welding in a compact package. It runs on 115V or 230V and produces enough output for light to medium fabrication work.
 
 ### Best Ultra-Portable: Vulcan OmniPro 220
 
-The [Vulcan OmniPro 220](https://www.amazon.com/dp/B07X6JHMVK/?tag=theweldersguide-20) is a multi-process inverter welder that handles MIG, flux-cored, DC TIG, and stick welding. It features dual-voltage input and weighs only 38 pounds, making it one of the lightest full-featured units available.
+The **Vulcan OmniPro 220** is a multi-process inverter welder that handles MIG, flux-cored, DC TIG, and stick welding. It features dual-voltage input and weighs only 38 pounds, making it one of the lightest full-featured units available.
 
 ### Best Battery-Powered: Snap-On EEWH312A
 
@@ -137,7 +137,7 @@ A portable welder is only as useful as the accessories you carry with it. Pack t
 - **Chipping hammer and wire brush** — For stick welding slag removal
 - **Welding lenses and safety gear** — Carry spares; you cannot afford to stop working because a lens cracked
 - **Assorted electrodes** — Keep a selection of E6010, E6011, E6013, and E7018 in a dry container
-- [Portable welding cable kit](https://www.amazon.com/dp/B09GKT3KJP/?tag=theweldersguide-20) — Pre-made leads with connectors save time on setup
+- **Portable welding cable kit** — Pre-made leads with connectors save time on setup
 
 ## Field Welding Best Practices
 
