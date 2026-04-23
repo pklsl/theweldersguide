@@ -135,9 +135,9 @@ The welding market is not won on lowest price. It is won on reliability, quality
 
 **Starting equipment list:**
 
-- **Primary welder** — A 240V MIG welder covers most shop work. [Lincoln Electric Power MIG 210 MP](https://www.amazon.com/dp/B01N7F3J75/?tag=theweldersguide-20) handles MIG, stick, and DC TIG in one machine.
-- **Plasma cutter** — [Hypertherm Powermax 45 XP](https://www.amazon.com/dp/B01N3SE2XT/?tag=theweldersguide-20) for cutting material to size.
-- **Angle grinder** — [DeWalt DWE402](https://www.amazon.com/dp/B00BEQPQ9I/?tag=theweldersguide-20) minimum.
+- **Primary welder** — A 240V MIG welder covers most shop work. [Lincoln Electric Power MIG 210 MP](https://www.amazon.com/s?k=Lincoln%20Electric%20Power%20MIG%20210%20MP&tag=theweldersguide-20) handles MIG, stick, and DC TIG in one machine.
+- **Plasma cutter** — [Hypertherm Powermax 45 XP](https://www.amazon.com/s?k=Hypertherm%20Powermax%2045%20XP&tag=theweldersguide-20) for cutting material to size.
+- **Angle grinder** — [DeWalt DWE402](https://www.amazon.com/s?k=DeWalt%20DWE402&tag=theweldersguide-20) minimum.
 - **Welding table** — Build your own from 3/16" steel plate on a square tube frame.
 - **Safety equipment** — Auto-darkening helmet, gloves, jacket, respirator, fire extinguisher.
 - **Measuring tools** — Tape measure, framing square, levels, calipers.

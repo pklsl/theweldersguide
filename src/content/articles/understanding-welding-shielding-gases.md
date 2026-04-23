@@ -169,7 +169,7 @@ Setting the correct flow rate is as important as choosing the right gas.
 | 250 CF | "K" | 250 | 51 inches |
 | 330 CF | "T" | 330 | 55 inches |
 
-For a shop MIG welder running regularly, a 125 CF or 250 CF cylinder provides a good balance of capacity and portability. A [shielding gas cylinder cart](https://www.amazon.com/dp/B00HVYRCFY/?tag=theweldersguide-20) keeps your tank secure and mobile.
+For a shop MIG welder running regularly, a 125 CF or 250 CF cylinder provides a good balance of capacity and portability. A [shielding gas cylinder cart](https://www.amazon.com/s?k=shielding%20gas%20cylinder%20cart&tag=theweldersguide-20) keeps your tank secure and mobile.
 
 ### Cost-Saving Tips
 

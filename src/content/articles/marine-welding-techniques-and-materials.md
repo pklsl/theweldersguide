@@ -68,7 +68,7 @@ Aluminum is the dominant material for recreational boat hulls, commercial fishin
 - Rigid fixturing
 - Short, alternating stitch sequences on hull panels
 
-**Recommended equipment:** The [Miller Millermatic 252](https://www.amazon.com/dp/B000P4YJW8/?tag=theweldersguide-20) with a push-pull gun system handles aluminum production MIG welding. [Aluminum 5356 MIG wire](https://www.amazon.com/dp/B000BSAYWI/?tag=theweldersguide-20) is the standard marine filler.
+**Recommended equipment:** The [Miller Millermatic 252](https://www.amazon.com/s?k=Miller%20Millermatic%20252&tag=theweldersguide-20) with a push-pull gun system handles aluminum production MIG welding. [Aluminum 5356 MIG wire](https://www.amazon.com/s?k=Aluminum%205356%20MIG%20wire&tag=theweldersguide-20) is the standard marine filler.
 
 ### Stainless Steel in Marine Applications
 
@@ -155,7 +155,7 @@ Stainless steel railing is among the most visible welding on boats. Quality expe
 **Best practice for marine stainless railings:**
 - TIG weld all visible joints for clean appearance
 - Use 316L filler throughout
-- Passivate completed railings with citric acid cleaner ([Citrisurf 77 passivation solution](https://www.amazon.com/dp/B004Q8A8BQ/?tag=theweldersguide-20))
+- Passivate completed railings with citric acid cleaner ([Citrisurf 77 passivation solution](https://www.amazon.com/s?k=Citrisurf%2077%20passivation%20solution&tag=theweldersguide-20))
 - Polish welds to #4 or mirror finish as specified
 
 For tubular railing, back purge all tube joints or use soluble dam purge inserts.

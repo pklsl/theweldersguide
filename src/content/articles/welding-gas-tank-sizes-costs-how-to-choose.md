@@ -169,7 +169,7 @@ A quality regulator maintains consistent gas pressure and flow rate, which direc
 **For argon/mixed gas MIG:**
 - Set flow to 15–25 CFH
 - Use a flowmeter (ball-in-tube type) regulator, not a two-gauge pressure-only regulator
-- [Harris 3000779 two-stage argon/CO2 regulator](https://www.amazon.com/dp/B000RZKMCO/?tag=theweldersguide-20) is the standard home shop choice
+- [Harris 3000779 two-stage argon/CO2 regulator](https://www.amazon.com/s?k=Harris%203000779%20two-stage%20argon%2FCO2%20regulator&tag=theweldersguide-20) is the standard home shop choice
 
 **For TIG:**
 - Set flow to 15–20 CFH standard
@@ -179,7 +179,7 @@ A quality regulator maintains consistent gas pressure and flow rate, which direc
 **For oxy-acetylene:**
 - Separate regulators are required for oxygen and acetylene
 - Two-gauge (pressure + flow) regulators are standard
-- [Harris 15-15 two-stage oxygen regulator](https://www.amazon.com/dp/B000BSAYZQ/?tag=theweldersguide-20) and matching acetylene regulator
+- [Harris 15-15 two-stage oxygen regulator](https://www.amazon.com/s?k=Harris%2015-15%20two-stage%20oxygen%20regulator&tag=theweldersguide-20) and matching acetylene regulator
 
 ## Gas Safety Essentials
 
@@ -193,7 +193,7 @@ A quality regulator maintains consistent gas pressure and flow rate, which direc
 
 **Starting MIG setup:**
 - Own a 125 cf mixed gas (75/25 Ar/CO2) cylinder
-- [Harris two-stage regulator with flowmeter](https://www.amazon.com/dp/B000RZKMCO/?tag=theweldersguide-20)
+- [Harris two-stage regulator with flowmeter](https://www.amazon.com/s?k=Harris%20two-stage%20regulator%20with%20flowmeter&tag=theweldersguide-20)
 - Expected cost: ~$200 for used cylinder + $80 for regulator + $50 fill = ~$330 to get started
 
 **Adding TIG:**

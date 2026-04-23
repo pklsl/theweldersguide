@@ -33,7 +33,7 @@ Before buying or building, consider these factors:
 
 ### 1. Lincoln Electric K520 — Best Heavy-Duty Cart
 
-**Price:** ~$170 | [Lincoln Electric K520](https://www.amazon.com/dp/B000CCQVMO/?tag=theweldersguide-20)
+**Price:** ~$170 | [Lincoln Electric K520](https://www.amazon.com/s?k=Lincoln%20Electric%20K520&tag=theweldersguide-20)
 
 Lincoln's K520 is the benchmark for commercial welding carts. Heavy 12-gauge steel construction, reinforced deck, and a sturdy cylinder retaining chain. The extended lower shelf accommodates large wire spools and accessories. Fits most Lincoln MIG and multi-process welders.
 
@@ -57,7 +57,7 @@ Lincoln's K520 is the benchmark for commercial welding carts. Heavy 12-gauge ste
 
 ### 2. Hobart 770502 — Best Value Cart
 
-**Price:** ~$130 | [Hobart 770502](https://www.amazon.com/dp/B002J6WEN2/?tag=theweldersguide-20)
+**Price:** ~$130 | [Hobart 770502](https://www.amazon.com/s?k=Hobart%20770502&tag=theweldersguide-20)
 
 Hobart's welding cart is a solid value option. Heavy-gauge steel, 8-inch wheels, dual-cylinder capacity, and hooks for cables. Slightly less robust than the Lincoln K520 but adequate for home shop use.
 
@@ -71,7 +71,7 @@ Hobart's welding cart is a solid value option. Heavy-gauge steel, 8-inch wheels,
 
 ### 3. Ironton Steel Welding Cart — Best Budget Option
 
-**Price:** ~$80 | [Ironton Welding Cart](https://www.amazon.com/dp/B00JFNRKL8/?tag=theweldersguide-20)
+**Price:** ~$80 | [Ironton Welding Cart](https://www.amazon.com/s?k=Ironton%20Welding%20Cart&tag=theweldersguide-20)
 
 The Ironton cart from Northern Tool is the best option for welders on a tight budget. Lighter-gauge steel but adequate for home shop loads. Solid 6-inch wheels (not pneumatic) and a cylinder chain are included.
 
@@ -88,7 +88,7 @@ The Ironton cart from Northern Tool is the best option for welders on a tight bu
 
 ### 4. Klutch Welding Cart — Best Feature Set for the Price
 
-**Price:** ~$120 | [Klutch Welding Cart](https://www.amazon.com/dp/B07T3BWJL6/?tag=theweldersguide-20)
+**Price:** ~$120 | [Klutch Welding Cart](https://www.amazon.com/s?k=Klutch%20Welding%20Cart&tag=theweldersguide-20)
 
 The Klutch cart from Northern Tool offers a rear-tilt design that makes loading heavy welders easier, plus integrated cable hooks, a wire spool holder, and a lower shelf with dividers. At $120, it packs more features than the competition at this price.
 
@@ -160,10 +160,10 @@ This plan builds a cart approximately 18" wide x 36" long x 38" tall — sized f
 
 ### Recommended Tools for the Build
 
-- [Lincoln Electric Easy MIG 140](https://www.amazon.com/dp/B000NK2EOE/?tag=theweldersguide-20) — enough machine for the 1/8" wall tube
-- [DeWalt DWE402 angle grinder](https://www.amazon.com/dp/B00BEQPQ9I/?tag=theweldersguide-20) — cutting and grinding
+- [Lincoln Electric Easy MIG 140](https://www.amazon.com/s?k=Lincoln%20Electric%20Easy%20MIG%20140&tag=theweldersguide-20) — enough machine for the 1/8" wall tube
+- [DeWalt DWE402 angle grinder](https://www.amazon.com/s?k=DeWalt%20DWE402%20angle%20grinder&tag=theweldersguide-20) — cutting and grinding
 - Framing square and magnetic welding clamps
-- [Bessey welding clamps](https://www.amazon.com/dp/B00004YUPO/?tag=theweldersguide-20) for tacking the frame
+- [Bessey welding clamps](https://www.amazon.com/s?k=Bessey%20welding%20clamps&tag=theweldersguide-20) for tacking the frame
 
 ### Adding Wheels to the DIY Cart
 
@@ -173,7 +173,7 @@ Caster quality matters. Cheap import casters fail quickly under the weight of a 
 - **Rating:** Each caster should be rated for at least 200 lbs
 - **Swivel casters with locks** on the front two; fixed casters or swivel-lock on the back
 
-The [Shepherd Casters 4" Swivel Plate Casters](https://www.amazon.com/dp/B00004YUPV/?tag=theweldersguide-20) (set of 4 including two with brakes) are reliable and widely available.
+The [Shepherd Casters 4" Swivel Plate Casters](https://www.amazon.com/s?k=Shepherd%20Casters%204%22%20Swivel%20Plate%20Casters&tag=theweldersguide-20) (set of 4 including two with brakes) are reliable and widely available.
 
 ## Cylinder Safety: The Non-Negotiable Rule
 

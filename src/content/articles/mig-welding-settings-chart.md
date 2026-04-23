@@ -181,9 +181,9 @@ General range for E71T-11 at 0.035" (all-position):
 
 To make the most of these settings charts:
 
-- **Auto-darkening helmet:** [Lincoln Electric Viking 3350](https://www.amazon.com/dp/B00BG56GAM/?tag=theweldersguide-20) — shade 9–13, excellent optical clarity
-- **Welding pliers:** [Lincoln Electric Welpers](https://www.amazon.com/dp/B00BEQYXAW/?tag=theweldersguide-20) — for contact tip changes and nozzle cleaning
+- **Auto-darkening helmet:** [Lincoln Electric Viking 3350](https://www.amazon.com/s?k=Lincoln%20Electric%20Viking%203350&tag=theweldersguide-20) — shade 9–13, excellent optical clarity
+- **Welding pliers:** [Lincoln Electric Welpers](https://www.amazon.com/s?k=Lincoln%20Electric%20Welpers&tag=theweldersguide-20) — for contact tip changes and nozzle cleaning
 - **Contact tips:** Keep spares in your wire diameter. Replace when worn.
-- **Nozzle dip:** [Weld-Aid Nozzle Dip](https://www.amazon.com/dp/B001AZQXQO/?tag=theweldersguide-20) — prevents spatter buildup
+- **Nozzle dip:** [Weld-Aid Nozzle Dip](https://www.amazon.com/s?k=Weld-Aid%20Nozzle%20Dip&tag=theweldersguide-20) — prevents spatter buildup
 
 The settings in this guide give you a solid starting point. Run a test bead, evaluate the result, and make small adjustments. Once you find the right settings for a given material and thickness, record them — building your own settings library for your specific machine is the fastest way to produce consistent results.

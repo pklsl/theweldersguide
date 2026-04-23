@@ -77,7 +77,7 @@ ERW is less expensive than DOM but has an internal seam bead and less consistent
 A tube notcher cuts the coped end of one tube to mate precisely with the OD of another. Tight-fitting joints are essential for roll cage integrity — gaps in joints create stress risers and reduce weld quality.
 
 Types of notchers:
-- **Hole-saw notcher** — Uses a bi-metal hole saw to cope the end of the tube. Adjustable angle capability is important for compound angles. [Pro-Tools 105 Notcher](https://www.amazon.com/dp/B0013CQRKS/?tag=theweldersguide-20) is a popular option.
+- **Hole-saw notcher** — Uses a bi-metal hole saw to cope the end of the tube. Adjustable angle capability is important for compound angles. [Pro-Tools 105 Notcher](https://www.amazon.com/s?k=Pro-Tools%20105%20Notcher&tag=theweldersguide-20) is a popular option.
 - **Plasma cutter notcher** — Uses plasma cutting jigs for complex angles. Less common in home shops.
 - **Grinder (manual)** — For experienced fabricators, an angle grinder can cope ends after marking with a template. Slow and requires skill.
 
@@ -85,13 +85,13 @@ Types of notchers:
 
 A hydraulic tube bender with properly sized dies is required for making bends without wall thinning or collapse. Round tube bending requires a die matched to the tube OD.
 
-**Recommended:** [JD Squared Model 32 tube bender](https://www.amazon.com/dp/B00L7OJGUU/?tag=theweldersguide-20) is the standard for home shop and light professional fabrication.
+**Recommended:** [JD Squared Model 32 tube bender](https://www.amazon.com/s?k=JD%20Squared%20Model%2032%20tube%20bender&tag=theweldersguide-20) is the standard for home shop and light professional fabrication.
 
 ### Additional Tools
 
 - Welding table or fixture table
-- [Framing square and tape measure](https://www.amazon.com/dp/B000EDWNMO/?tag=theweldersguide-20)
-- [Tube measuring and marking tools](https://www.amazon.com/dp/B078GBVB31/?tag=theweldersguide-20) (wrap-around template)
+- [Framing square and tape measure](https://www.amazon.com/s?k=Framing%20square%20and%20tape%20measure&tag=theweldersguide-20)
+- [Tube measuring and marking tools](https://www.amazon.com/s?k=Tube%20measuring%20and%20marking%20tools&tag=theweldersguide-20) (wrap-around template)
 - Angle finder
 - Level
 - Die grinder for cleanup

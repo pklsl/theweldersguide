@@ -111,7 +111,7 @@ Silver alloys are the most versatile brazing fillers:
 - **BAg-7** — 56% silver. Low temperature, cadmium-free. Excellent for stainless steel.
 - **BAg-24** — 50% silver. Good general-purpose cadmium-free silver alloy.
 
-For HVAC and refrigeration work, **[Harris Stay-Silv 15% silver brazing alloy](https://www.amazon.com/dp/B000BSAYXM/?tag=theweldersguide-20)** is widely used. For stronger joints, [45% silver alloy](https://www.amazon.com/dp/B000BSAYXW/?tag=theweldersguide-20) is the standard.
+For HVAC and refrigeration work, **[Harris Stay-Silv 15% silver brazing alloy](https://www.amazon.com/s?k=Harris%20Stay-Silv%2015%25%20silver%20brazing%20alloy&tag=theweldersguide-20)** is widely used. For stronger joints, [45% silver alloy](https://www.amazon.com/s?k=45%25%20silver%20alloy&tag=theweldersguide-20) is the standard.
 
 ### Copper-Phosphorus Alloys (BCuP Series)
 
@@ -121,7 +121,7 @@ BCuP alloys (copper-phosphorus, sometimes called "Sil-Fos") are the standard for
 
 The phosphorus acts as a self-fluxing agent on copper — no separate flux is needed when joining copper to copper. Flux is required when joining copper to other metals.
 
-**Recommended:** [Harris Sil-Fos 15 BCuP-5](https://www.amazon.com/dp/B000BSAYLQ/?tag=theweldersguide-20) — the HVAC industry standard.
+**Recommended:** [Harris Sil-Fos 15 BCuP-5](https://www.amazon.com/s?k=Harris%20Sil-Fos%2015%20BCuP-5&tag=theweldersguide-20) — the HVAC industry standard.
 
 ### Bronze Brazing Rods (Braze Welding)
 
@@ -130,7 +130,7 @@ Silicon bronze and manganese bronze rods are used for braze welding — a hybrid
 - **RBCuZn-C (Tobin Bronze)** — Copper-zinc-tin alloy. Used for braze welding cast iron, copper to steel, and brass.
 - **ERCuSi-A (Silicon Bronze)** — Excellent for oxy-fuel and TIG braze welding. Smooth flow, good appearance.
 
-The [Harris Safety-Silv 56 Bronze Brazing Rod](https://www.amazon.com/dp/B000BSAYRW/?tag=theweldersguide-20) works well for oxy-acetylene braze welding.
+The [Harris Safety-Silv 56 Bronze Brazing Rod](https://www.amazon.com/s?k=Harris%20Safety-Silv%2056%20Bronze%20Brazing%20Rod&tag=theweldersguide-20) works well for oxy-acetylene braze welding.
 
 ## Brazing Flux
 
@@ -140,7 +140,7 @@ Most brazing operations (except BCuP on copper-to-copper) require flux. Flux:
 - Promotes filler flow by reducing surface tension
 
 **Flux selection:**
-- **General-purpose brazing flux (white paste)** — for silver brazing at 1100–1600°F. [Harris Stay-Silv White Brazing Flux](https://www.amazon.com/dp/B000BSAYR4/?tag=theweldersguide-20)
+- **General-purpose brazing flux (white paste)** — for silver brazing at 1100–1600°F. [Harris Stay-Silv White Brazing Flux](https://www.amazon.com/s?k=Harris%20Stay-Silv%20White%20Brazing%20Flux&tag=theweldersguide-20)
 - **High-temperature flux (black paste)** — for higher-temperature alloys and longer heating times
 - **No flux needed** — BCuP on copper-to-copper
 
@@ -197,9 +197,9 @@ Rinse and inspect the finished joint. A properly brazed joint will show filler v
 
 ## Brazing Equipment Recommendations
 
-- **Torch:** [Victor Technologies Journeyman oxy-acetylene outfit](https://www.amazon.com/dp/B01MXFR5IW/?tag=theweldersguide-20) — includes torch, regulators, and hoses
-- **Filler rods:** [Harris Stay-Silv kit (multiple alloys)](https://www.amazon.com/dp/B000BSAYXM/?tag=theweldersguide-20)
-- **Flux:** [Harris Stay-Silv White flux](https://www.amazon.com/dp/B000BSAYR4/?tag=theweldersguide-20)
-- **Fire bricks:** [Rutland fire bricks](https://www.amazon.com/dp/B000VX4BUC/?tag=theweldersguide-20) — heat-resistant work surface
+- **Torch:** [Victor Technologies Journeyman oxy-acetylene outfit](https://www.amazon.com/s?k=Victor%20Technologies%20Journeyman%20oxy-acetylene%20outfit&tag=theweldersguide-20) — includes torch, regulators, and hoses
+- **Filler rods:** [Harris Stay-Silv kit (multiple alloys)](https://www.amazon.com/s?k=Harris%20Stay-Silv%20kit%20(multiple%20alloys)&tag=theweldersguide-20)
+- **Flux:** [Harris Stay-Silv White flux](https://www.amazon.com/s?k=Harris%20Stay-Silv%20White%20flux&tag=theweldersguide-20)
+- **Fire bricks:** [Rutland fire bricks](https://www.amazon.com/s?k=Rutland%20fire%20bricks&tag=theweldersguide-20) — heat-resistant work surface
 
 Brazing is a valuable skill that complements welding — covering applications where welding cannot go or where the lower temperature and dissimilar metal capability of brazing produces better results.

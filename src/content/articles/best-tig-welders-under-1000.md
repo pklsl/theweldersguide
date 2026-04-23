@@ -37,7 +37,7 @@ Before choosing a machine, decide whether you need AC capability.
 
 **Price:** ~$850 | **Input:** 120/240V | **Output:** 1–200 amps AC/DC | **Duty Cycle:** 25% at 200A / 40% at 150A
 
-The [Lincoln Electric Square Wave TIG 200](https://www.amazon.com/dp/B07HKSB1PN/?tag=theweldersguide-20) is the benchmark for sub-$1,000 AC/DC TIG welding. Lincoln's engineering pedigree shows in the arc quality, and the Square Wave 200 has earned a reputation for reliability.
+The [Lincoln Electric Square Wave TIG 200](https://www.amazon.com/s?k=Lincoln%20Electric%20Square%20Wave%20TIG%20200&tag=theweldersguide-20) is the benchmark for sub-$1,000 AC/DC TIG welding. Lincoln's engineering pedigree shows in the arc quality, and the Square Wave 200 has earned a reputation for reliability.
 
 **What we like:**
 - AC/DC — welds aluminum, steel, stainless, titanium
@@ -58,7 +58,7 @@ The [Lincoln Electric Square Wave TIG 200](https://www.amazon.com/dp/B07HKSB1PN/
 
 **Price:** ~$900 | **Input:** 120/240V | **Output:** 10–180 amps AC/DC | **Duty Cycle:** 40% at 100A
 
-The [Miller Diversion 180](https://www.amazon.com/dp/B00HRN9ZFM/?tag=theweldersguide-20) is Miller's entry-level AC/DC TIG welder. The Auto-Set feature (inherited from Miller's MIG lineup) recommends initial settings based on material and thickness — a genuine advantage for learning welders.
+The [Miller Diversion 180](https://www.amazon.com/s?k=Miller%20Diversion%20180&tag=theweldersguide-20) is Miller's entry-level AC/DC TIG welder. The Auto-Set feature (inherited from Miller's MIG lineup) recommends initial settings based on material and thickness — a genuine advantage for learning welders.
 
 **What we like:**
 - Auto-Set simplifies setup
@@ -78,7 +78,7 @@ The [Miller Diversion 180](https://www.amazon.com/dp/B00HRN9ZFM/?tag=theweldersg
 
 **Price:** ~$900 | **Input:** 120/240V | **Output:** 15–215 amps | **Duty Cycle:** 40% at 150A
 
-The [ESAB Rebel EMP 215ic](https://www.amazon.com/dp/B075GPWT7B/?tag=theweldersguide-20) combines MIG, TIG (DCEN only), and stick in one machine. For shops that need multiple processes and want to stay under $1,000, it offers exceptional value.
+The [ESAB Rebel EMP 215ic](https://www.amazon.com/s?k=ESAB%20Rebel%20EMP%20215ic&tag=theweldersguide-20) combines MIG, TIG (DCEN only), and stick in one machine. For shops that need multiple processes and want to stay under $1,000, it offers exceptional value.
 
 **What we like:**
 - Three processes in one machine
@@ -96,7 +96,7 @@ The [ESAB Rebel EMP 215ic](https://www.amazon.com/dp/B075GPWT7B/?tag=theweldersg
 
 **Price:** ~$380 | **Input:** 220V | **Output:** 10–225 amps AC/DC | **Duty Cycle:** 60% at 225A
 
-The [Primeweld TIG225X](https://www.amazon.com/dp/B081D3N9GW/?tag=theweldersguide-20) has developed a strong following in the welding community as the best value AC/DC TIG welder on the market. For less than $400, it delivers specs that rival machines costing three times as much.
+The [Primeweld TIG225X](https://www.amazon.com/s?k=Primeweld%20TIG225X&tag=theweldersguide-20) has developed a strong following in the welding community as the best value AC/DC TIG welder on the market. For less than $400, it delivers specs that rival machines costing three times as much.
 
 **What we like:**
 - Outstanding value — AC/DC TIG for under $400
@@ -118,7 +118,7 @@ The [Primeweld TIG225X](https://www.amazon.com/dp/B081D3N9GW/?tag=theweldersguid
 
 **Price:** ~$350 | **Input:** 120/240V | **Output:** 10–200 amps AC/DC | **Duty Cycle:** 60% at 160A
 
-The [AHP AlphaTIG 200X](https://www.amazon.com/dp/B00J2F6W5A/?tag=theweldersguide-20) was the machine that opened the budget AC/DC TIG market. Multi-voltage, foot pedal included, adjustable frequency and balance — for $350, it remains remarkable value.
+The [AHP AlphaTIG 200X](https://www.amazon.com/s?k=AHP%20AlphaTIG%20200X&tag=theweldersguide-20) was the machine that opened the budget AC/DC TIG market. Multi-voltage, foot pedal included, adjustable frequency and balance — for $350, it remains remarkable value.
 
 **What we like:**
 - Multi-voltage (120/240V)
@@ -138,7 +138,7 @@ The [AHP AlphaTIG 200X](https://www.amazon.com/dp/B00J2F6W5A/?tag=theweldersguid
 
 **Price:** ~$650 | **Input:** 120/240V | **Output:** 10–200 amps AC/DC | **Duty Cycle:** 60% at 200A
 
-The [Everlast PowerTIG 200DV](https://www.amazon.com/dp/B07DQQ7MKS/?tag=theweldersguide-20) hits a sweet spot — better customer support and build quality than the AHP or Primeweld, for less than the Lincoln or Miller.
+The [Everlast PowerTIG 200DV](https://www.amazon.com/s?k=Everlast%20PowerTIG%20200DV&tag=theweldersguide-20) hits a sweet spot — better customer support and build quality than the AHP or Primeweld, for less than the Lincoln or Miller.
 
 **What we like:**
 - Multi-voltage
@@ -167,12 +167,12 @@ The [Everlast PowerTIG 200DV](https://www.amazon.com/dp/B07DQQ7MKS/?tag=thewelde
 
 Every TIG setup needs these accessories beyond the welder itself:
 
-- **Foot pedal:** If not included, the [Miller 043888 foot pedal](https://www.amazon.com/dp/B00016DJKQ/?tag=theweldersguide-20) is compatible with most machines.
-- **Tungsten:** [Diamond Ground Products 2% Lanthanated tungsten](https://www.amazon.com/dp/B001NMYXIU/?tag=theweldersguide-20) — works on both AC and DC
-- **Filler rod:** [Harris ER70S-2 TIG filler for steel](https://www.amazon.com/dp/B000BQ28BS/?tag=theweldersguide-20) and [4043 aluminum filler](https://www.amazon.com/dp/B0000BSTCL/?tag=theweldersguide-20)
-- **Gas lens kit:** [CK Worldwide gas lens kit](https://www.amazon.com/dp/B07CY57PX2/?tag=theweldersguide-20) — dramatically improves shielding
-- **Argon regulator:** [Harris 3000779 argon regulator](https://www.amazon.com/dp/B000RZKMCO/?tag=theweldersguide-20)
-- **Tungsten grinder:** [Drill Doctor tungsten sharpener](https://www.amazon.com/dp/B001E0VRGA/?tag=theweldersguide-20) — for consistent electrode prep
+- **Foot pedal:** If not included, the [Miller 043888 foot pedal](https://www.amazon.com/s?k=Miller%20043888%20foot%20pedal&tag=theweldersguide-20) is compatible with most machines.
+- **Tungsten:** [Diamond Ground Products 2% Lanthanated tungsten](https://www.amazon.com/s?k=Diamond%20Ground%20Products%202%25%20Lanthanated%20tungsten&tag=theweldersguide-20) — works on both AC and DC
+- **Filler rod:** [Harris ER70S-2 TIG filler for steel](https://www.amazon.com/s?k=Harris%20ER70S-2%20TIG%20filler%20for%20steel&tag=theweldersguide-20) and [4043 aluminum filler](https://www.amazon.com/s?k=4043%20aluminum%20filler&tag=theweldersguide-20)
+- **Gas lens kit:** [CK Worldwide gas lens kit](https://www.amazon.com/s?k=CK%20Worldwide%20gas%20lens%20kit&tag=theweldersguide-20) — dramatically improves shielding
+- **Argon regulator:** [Harris 3000779 argon regulator](https://www.amazon.com/s?k=Harris%203000779%20argon%20regulator&tag=theweldersguide-20)
+- **Tungsten grinder:** [Drill Doctor tungsten sharpener](https://www.amazon.com/s?k=Drill%20Doctor%20tungsten%20sharpener&tag=theweldersguide-20) — for consistent electrode prep
 
 ## Which TIG Welder Should You Buy?
 

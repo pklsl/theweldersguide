@@ -9,5 +9,5 @@ export function getStaticPaths() {
 }
 
 const { product } = Astro.props;
-const affiliateUrl = getAffiliateUrl(product.asin);
+const affiliateUrl = getAffiliateUrl(product.asin, product.title);
 return Astro.redirect(affiliateUrl);

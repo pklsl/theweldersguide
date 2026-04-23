@@ -51,7 +51,7 @@ For open root pipe welding, joint preparation is critical:
 
 Consistent, accurate fitup determines whether you can achieve an acceptable root bead. Use pipe beveling tools and consistent clamps.
 
-The [Mathey Dearman pipe clamp](https://www.amazon.com/dp/B001M05VXI/?tag=theweldersguide-20) holds pipe during fitup and tacking.
+The [Mathey Dearman pipe clamp](https://www.amazon.com/s?k=Mathey%20Dearman%20pipe%20clamp&tag=theweldersguide-20) holds pipe during fitup and tacking.
 
 ## The Progression: 1G to 6G
 
@@ -150,8 +150,8 @@ When TIG welding stainless steel pipe, the inside of the pipe must be purged wit
 
 Starting a pipe welding practice setup requires:
 
-- **Practice pipe coupons** — 2-inch Schedule 40 pipe is the standard practice diameter for certification. Beveled coupons can be purchased from welding supply stores. [Practice pipe coupons](https://www.amazon.com/dp/B08NXH6JPW/?tag=theweldersguide-20) save the time of cutting and beveling.
-- **Pipe stand** — A simple pipe stand holds the practice coupon in the correct position. [H&M Pipe Beveling stand](https://www.amazon.com/dp/B001M05VXI/?tag=theweldersguide-20) serves double duty.
+- **Practice pipe coupons** — 2-inch Schedule 40 pipe is the standard practice diameter for certification. Beveled coupons can be purchased from welding supply stores. [Practice pipe coupons](https://www.amazon.com/s?k=Practice%20pipe%20coupons&tag=theweldersguide-20) save the time of cutting and beveling.
+- **Pipe stand** — A simple pipe stand holds the practice coupon in the correct position. [H&M Pipe Beveling stand](https://www.amazon.com/s?k=H%26M%20Pipe%20Beveling%20stand&tag=theweldersguide-20) serves double duty.
 - **5G practice stand** — For 5G and 6G practice, the pipe must be fixed at the correct angle. Build a simple stand from square steel tube.
 
 ## The Path to Certification

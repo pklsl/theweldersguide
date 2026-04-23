@@ -160,7 +160,7 @@ Pipeline welders supply their own tools and consumables on most projects:
 - **Electrodes** — Often company-supplied but welders should understand E6010 brands and their characteristics
 - **Hand tools** — Grinders, chippers, brushes, temperature sticks
 
-The [Lincoln Electric SA-200](https://www.amazon.com/dp/B07LGLGSQB/?tag=theweldersguide-20) engine-driven welder is the iconic pipeline welding machine, though the Miller Big Blue and other diesel machines are also used.
+The [Lincoln Electric SA-200](https://www.amazon.com/s?k=Lincoln%20Electric%20SA-200&tag=theweldersguide-20) engine-driven welder is the iconic pipeline welding machine, though the Miller Big Blue and other diesel machines are also used.
 
 ## Is Pipeline Welding Right for You?
 

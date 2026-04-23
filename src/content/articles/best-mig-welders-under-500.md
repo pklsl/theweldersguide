@@ -33,7 +33,7 @@ Before buying, understand the key specs and what they mean for real-world use:
 
 **Price:** ~$490 | **Input:** 120V | **Output:** 25–140 amps | **Duty Cycle:** 20% at 90A
 
-The [Lincoln Electric Easy MIG 140](https://www.amazon.com/dp/B000NK2EOE/?tag=theweldersguide-20) is the gold standard for entry-level MIG welders. Lincoln is the most trusted name in American welding, and the Easy MIG 140 delivers on that reputation.
+The [Lincoln Electric Easy MIG 140](https://www.amazon.com/s?k=Lincoln%20Electric%20Easy%20MIG%20140&tag=theweldersguide-20) is the gold standard for entry-level MIG welders. Lincoln is the most trusted name in American welding, and the Easy MIG 140 delivers on that reputation.
 
 **What we like:**
 - True industrial build quality for the price
@@ -53,7 +53,7 @@ The [Lincoln Electric Easy MIG 140](https://www.amazon.com/dp/B000NK2EOE/?tag=th
 
 **Price:** ~$430 | **Input:** 120V | **Output:** 25–140 amps | **Duty Cycle:** 20% at 90A
 
-The [Hobart Handler 140](https://www.amazon.com/dp/B00EZMD2SE/?tag=theweldersguide-20) is essentially the same machine as the Lincoln Easy MIG 140 — Hobart is an Illinois Tool Works brand, and their Handler series has been a benchmark for entry-level MIG welding for years.
+The [Hobart Handler 140](https://www.amazon.com/s?k=Hobart%20Handler%20140&tag=theweldersguide-20) is essentially the same machine as the Lincoln Easy MIG 140 — Hobart is an Illinois Tool Works brand, and their Handler series has been a benchmark for entry-level MIG welding for years.
 
 **What we like:**
 - Rock-solid build quality
@@ -72,7 +72,7 @@ The [Hobart Handler 140](https://www.amazon.com/dp/B00EZMD2SE/?tag=theweldersgui
 
 **Price:** ~$480 | **Input:** 120V | **Output:** 30–140 amps | **Duty Cycle:** 20% at 90A
 
-The [Miller Millermatic 141](https://www.amazon.com/dp/B00BMLXBGS/?tag=theweldersguide-20) puts Miller's professional pedigree into a 120V package. Miller's Auto-Set feature automatically sets voltage and wire feed speed based on wire diameter and material thickness — ideal for beginners.
+The [Miller Millermatic 141](https://www.amazon.com/s?k=Miller%20Millermatic%20141&tag=theweldersguide-20) puts Miller's professional pedigree into a 120V package. Miller's Auto-Set feature automatically sets voltage and wire feed speed based on wire diameter and material thickness — ideal for beginners.
 
 **What we like:**
 - Auto-Set feature eliminates guesswork
@@ -90,7 +90,7 @@ The [Miller Millermatic 141](https://www.amazon.com/dp/B00BMLXBGS/?tag=thewelder
 
 **Price:** ~$490–550 (frequently on sale under $500) | **Input:** 120V/240V multi-voltage | **Output:** 15–230 amps | **Duty Cycle:** 40% at 150A
 
-The [ESAB Rebel EMP 215ic](https://www.amazon.com/dp/B075GPWT7B/?tag=theweldersguide-20) is a multi-process machine (MIG, TIG, Stick) that frequently hits the $490–$500 range during sales. Its multi-voltage input works on both 120V and 240V, and at 240V it delivers professional-level output.
+The [ESAB Rebel EMP 215ic](https://www.amazon.com/s?k=ESAB%20Rebel%20EMP%20215ic&tag=theweldersguide-20) is a multi-process machine (MIG, TIG, Stick) that frequently hits the $490–$500 range during sales. Its multi-voltage input works on both 120V and 240V, and at 240V it delivers professional-level output.
 
 **What we like:**
 - Multi-process capability (MIG, TIG, Stick)
@@ -109,7 +109,7 @@ The [ESAB Rebel EMP 215ic](https://www.amazon.com/dp/B075GPWT7B/?tag=theweldersg
 
 **Price:** ~$250 | **Input:** 120V | **Output:** 30–140 amps | **Duty Cycle:** 30% at 90A
 
-The [Forney Easy Weld 261](https://www.amazon.com/dp/B07T1KMSMN/?tag=theweldersguide-20) is the best value under $300. It is a legitimate, usable MIG welder that handles sheet metal and light fabrication without the Lincoln/Hobart price premium.
+The [Forney Easy Weld 261](https://www.amazon.com/s?k=Forney%20Easy%20Weld%20261&tag=theweldersguide-20) is the best value under $300. It is a legitimate, usable MIG welder that handles sheet metal and light fabrication without the Lincoln/Hobart price premium.
 
 **What we like:**
 - Outstanding value for the price
@@ -128,7 +128,7 @@ The [Forney Easy Weld 261](https://www.amazon.com/dp/B07T1KMSMN/?tag=theweldersg
 
 **Price:** ~$280 | **Input:** 220V | **Output:** 20–250 amps | **Duty Cycle:** 60% at 200A
 
-The [Yeswelder MIG-250 Pro](https://www.amazon.com/dp/B08NXH6JPW/?tag=theweldersguide-20) represents the best of the Chinese inverter MIG welder category — high amperage, good duty cycle, and reasonable build quality at a fraction of the cost of American brands.
+The [Yeswelder MIG-250 Pro](https://www.amazon.com/s?k=Yeswelder%20MIG-250%20Pro&tag=theweldersguide-20) represents the best of the Chinese inverter MIG welder category — high amperage, good duty cycle, and reasonable build quality at a fraction of the cost of American brands.
 
 **What we like:**
 - 250 amps on 220V
@@ -159,12 +159,12 @@ The [Yeswelder MIG-250 Pro](https://www.amazon.com/dp/B08NXH6JPW/?tag=thewelders
 
 Whatever MIG welder you buy, budget for these consumables:
 
-- **Welding wire:** [Lincoln Electric ER70S-6 .030" wire](https://www.amazon.com/dp/B00JCQPJEO/?tag=theweldersguide-20) — 11 lb spool, feeds smoothly
+- **Welding wire:** [Lincoln Electric ER70S-6 .030" wire](https://www.amazon.com/s?k=Lincoln%20Electric%20ER70S-6%20.030%22%20wire&tag=theweldersguide-20) — 11 lb spool, feeds smoothly
 - **Contact tips:** Extra tips in your wire diameter (they wear out)
-- **Nozzle gel:** [Nozzle Dip anti-spatter gel](https://www.amazon.com/dp/B001AZQXQO/?tag=theweldersguide-20) — extends nozzle life dramatically
-- **Auto-darkening helmet:** [Lincoln Electric Viking 3350](https://www.amazon.com/dp/B00BG56GAM/?tag=theweldersguide-20) — worth the investment
-- **Welding gloves:** [Lincoln Electric K2979-1 MIG gloves](https://www.amazon.com/dp/B00BEQYXBK/?tag=theweldersguide-20)
-- **Gas regulator:** If your machine does not include one, the [Harris 3000779 regulator](https://www.amazon.com/dp/B000RZKMCO/?tag=theweldersguide-20) is reliable
+- **Nozzle gel:** [Nozzle Dip anti-spatter gel](https://www.amazon.com/s?k=Nozzle%20Dip%20anti-spatter%20gel&tag=theweldersguide-20) — extends nozzle life dramatically
+- **Auto-darkening helmet:** [Lincoln Electric Viking 3350](https://www.amazon.com/s?k=Lincoln%20Electric%20Viking%203350&tag=theweldersguide-20) — worth the investment
+- **Welding gloves:** [Lincoln Electric K2979-1 MIG gloves](https://www.amazon.com/s?k=Lincoln%20Electric%20K2979-1%20MIG%20gloves&tag=theweldersguide-20)
+- **Gas regulator:** If your machine does not include one, the [Harris 3000779 regulator](https://www.amazon.com/s?k=Harris%203000779%20regulator&tag=theweldersguide-20) is reliable
 
 ## Which MIG Welder Should You Buy?
 

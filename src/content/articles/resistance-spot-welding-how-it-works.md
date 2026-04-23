@@ -105,7 +105,7 @@ Commercial spot welders are large, expensive pieces of equipment (pneumatic-oper
 
 **Tip-style spot welders** are the standard for auto body repair. One electrode is in the gun body; the second is on a backing arm that accesses the back side of the panel.
 
-**Recommended:** [Eastwood Spot Weld Stitch Welder](https://www.amazon.com/dp/B001XXQNC2/?tag=theweldersguide-20) — designed for automotive sheet metal repair. Handles most factory spot weld replacement tasks.
+**Recommended:** [Eastwood Spot Weld Stitch Welder](https://www.amazon.com/s?k=Eastwood%20Spot%20Weld%20Stitch%20Welder&tag=theweldersguide-20) — designed for automotive sheet metal repair. Handles most factory spot weld replacement tasks.
 
 **Stud welder / dent puller style:** A single-sided spot welder that welds a stud or tab to the surface and allows dent pulling. Also used for welding through holes when back side access is impossible.
 
@@ -116,7 +116,7 @@ Capacitor discharge welders store energy in capacitors and release it in a very 
 - Minimum heat input and distortion
 - Suitable for joining thin to thick, copper-to-copper, and difficult material combinations
 
-The [Sunstone Pulse Arc Welder](https://www.amazon.com/dp/B07GPBHJ4G/?tag=theweldersguide-20) is a CD-type machine used for battery tab welding and precision sheet metal joining.
+The [Sunstone Pulse Arc Welder](https://www.amazon.com/s?k=Sunstone%20Pulse%20Arc%20Welder&tag=theweldersguide-20) is a CD-type machine used for battery tab welding and precision sheet metal joining.
 
 ### DIY Spot Welder from Microwave Oven Transformer (MOT)
 

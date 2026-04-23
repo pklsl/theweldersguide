@@ -223,7 +223,7 @@ No joint design performs well with poor fit-up. Follow these practices for every
 - **Use clamps and fixtures** — Hold pieces in alignment during tack welding to prevent shifting.
 - **Check alignment after tacking** — Heat from tacking can pull pieces out of position.
 
-A [welding fixture table](https://www.amazon.com/dp/B08T25Z4G7/?tag=theweldersguide-20) makes accurate fit-up significantly easier for repeated production work.
+A [welding fixture table](https://www.amazon.com/s?k=welding%20fixture%20table&tag=theweldersguide-20) makes accurate fit-up significantly easier for repeated production work.
 
 ## Final Thoughts
 

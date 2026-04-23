@@ -47,7 +47,7 @@ Titanium requires DCEN (Direct Current Electrode Negative) TIG welding. A machin
 - High-frequency start (no scratch start — contaminates tungsten)
 - Precise amperage control (foot pedal strongly recommended)
 
-The [Miller Dynasty 210 TIG welder](https://www.amazon.com/dp/B00EOYB494/?tag=theweldersguide-20) and [Lincoln Electric Square Wave 200](https://www.amazon.com/dp/B07HKSB1PN/?tag=theweldersguide-20) are excellent choices for titanium welding.
+The [Miller Dynasty 210 TIG welder](https://www.amazon.com/s?k=Miller%20Dynasty%20210%20TIG%20welder&tag=theweldersguide-20) and [Lincoln Electric Square Wave 200](https://www.amazon.com/s?k=Lincoln%20Electric%20Square%20Wave%20200&tag=theweldersguide-20) are excellent choices for titanium welding.
 
 ### Tungsten
 
@@ -60,13 +60,13 @@ Use **pure tungsten (green band)** or **ceriated tungsten (gray band)** ground t
 - Flow rate: 15–25 CFH for the torch cup
 - Purge flow: 10–15 CFH for trailing shield and back purge
 
-A quality [argon regulator with flow meter](https://www.amazon.com/dp/B0000AXKMM/?tag=theweldersguide-20) is essential.
+A quality [argon regulator with flow meter](https://www.amazon.com/s?k=argon%20regulator%20with%20flow%20meter&tag=theweldersguide-20) is essential.
 
 ### Gas Lens Setup
 
 Use a **gas lens body** instead of a standard collet body. A gas lens produces laminar (non-turbulent) gas flow, which dramatically improves coverage at the weld face. Pair with a large cup — #8 or larger.
 
-The [CK Worldwide gas lens kit](https://www.amazon.com/dp/B07CY57PX2/?tag=theweldersguide-20) is the industry standard for critical TIG applications.
+The [CK Worldwide gas lens kit](https://www.amazon.com/s?k=CK%20Worldwide%20gas%20lens%20kit&tag=theweldersguide-20) is the industry standard for critical TIG applications.
 
 ## Trailing Shields: Protecting the Hot HAZ
 
@@ -80,7 +80,7 @@ A trailing shield is a gas-fed fixture that attaches behind the TIG torch and fl
 - **Rigid trailing shields** — Fixed channel design. Best for high-volume production.
 - **DIY trailing shields** — Fabricated from aluminum channel with argon inlet fittings and porous diffuser material (stainless steel wool or porous stone).
 
-The [CK Worldwide trailing shield](https://www.amazon.com/dp/B00CPKIZV0/?tag=theweldersguide-20) fits most TIG torches and is the easiest commercial solution.
+The [CK Worldwide trailing shield](https://www.amazon.com/s?k=CK%20Worldwide%20trailing%20shield&tag=theweldersguide-20) fits most TIG torches and is the easiest commercial solution.
 
 ### Trailing Shield Setup
 
@@ -192,4 +192,4 @@ Industries using titanium welding include aerospace (airframes, engine component
 
 Titanium welding rewards preparation. Set up your shielding correctly, clean obsessively, use the right filler, and control your heat input — and you will produce beautiful silver welds that outperform almost any other material. Rush the setup, skip the trailing shield, or touch the base metal with your bare hand, and you will have scrap.
 
-The investment in a quality [trailing shield](https://www.amazon.com/dp/B00CPKIZV0/?tag=theweldersguide-20) and [argon regulator](https://www.amazon.com/dp/B0000AXKMM/?tag=theweldersguide-20) pays for itself on the first successful titanium job.
+The investment in a quality [trailing shield](https://www.amazon.com/s?k=trailing%20shield&tag=theweldersguide-20) and [argon regulator](https://www.amazon.com/s?k=argon%20regulator&tag=theweldersguide-20) pays for itself on the first successful titanium job.

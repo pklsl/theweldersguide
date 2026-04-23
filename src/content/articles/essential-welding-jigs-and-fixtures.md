@@ -44,19 +44,19 @@ The most versatile welding clamp. Use them for:
 - Clamping parts together for tacking
 - Providing a third hand when positioning parts
 
-**Recommended:** [Irwin Vise Grip Original 9R locking clamps](https://www.amazon.com/dp/B000LDXM7W/?tag=theweldersguide-20) — the original and most reliable locking clamp.
+**Recommended:** [Irwin Vise Grip Original 9R locking clamps](https://www.amazon.com/s?k=Irwin%20Vise%20Grip%20Original%209R%20locking%20clamps&tag=theweldersguide-20) — the original and most reliable locking clamp.
 
 ### C-Clamps
 
 Fixed C-clamps provide more holding force than locking clamps and are better for high-force clamping situations.
 
-**Recommended:** [Bessey 3700 series C-clamps](https://www.amazon.com/dp/B00002X27G/?tag=theweldersguide-20) — heavy-duty construction that handles welding loads.
+**Recommended:** [Bessey 3700 series C-clamps](https://www.amazon.com/s?k=Bessey%203700%20series%20C-clamps&tag=theweldersguide-20) — heavy-duty construction that handles welding loads.
 
 ### F-Clamps (Bar Clamps)
 
 F-clamps with a sliding head allow rapid adjustment for varying work sizes.
 
-**Recommended:** [Irwin Quick-Grip bar clamps](https://www.amazon.com/dp/B0000CBHK1/?tag=theweldersguide-20) — fast, one-handed operation for positioning.
+**Recommended:** [Irwin Quick-Grip bar clamps](https://www.amazon.com/s?k=Irwin%20Quick-Grip%20bar%20clamps&tag=theweldersguide-20) — fast, one-handed operation for positioning.
 
 ## Magnetic Welding Clamps and Squares
 
@@ -64,7 +64,7 @@ Magnetic fixtures are among the most useful tools for a welding shop. They requi
 
 ### Standard Magnetic Welding Squares
 
-**[Magswitch Multi-Angle magnetic clamps](https://www.amazon.com/dp/B00X0YHKF2/?tag=theweldersguide-20)** are the shop standard. They hold steel at precise angles (45°, 90°, 135°, etc.) for tacking corner joints, T-joints, and mitered connections.
+**[Magswitch Multi-Angle magnetic clamps](https://www.amazon.com/s?k=Magswitch%20Multi-Angle%20magnetic%20clamps&tag=theweldersguide-20)** are the shop standard. They hold steel at precise angles (45°, 90°, 135°, etc.) for tacking corner joints, T-joints, and mitered connections.
 
 **Features to look for:**
 - Strong neodymium magnets (50+ lb pull force for production use)
@@ -72,7 +72,7 @@ Magnetic fixtures are among the most useful tools for a welding shop. They requi
 - On/off switch (invaluable — allows positioning without the full magnetic force engaging until you are ready)
 - Ground contact surface — allows ground clamp attachment
 
-The [Magswitch 8100550 Welding Magnet Set](https://www.amazon.com/dp/B0041CR4UG/?tag=theweldersguide-20) (pack of four) is the most useful starting set.
+The [Magswitch 8100550 Welding Magnet Set](https://www.amazon.com/s?k=Magswitch%208100550%20Welding%20Magnet%20Set&tag=theweldersguide-20) (pack of four) is the most useful starting set.
 
 **Limitation:** Magnets cannot be placed directly in the weld zone — they must be positioned away from the weld, and the magnetic field can affect arc stability if too close.
 
@@ -83,7 +83,7 @@ Magnetic V-blocks hold pipe and round stock on a flat surface or at right angles
 - Aligning round stock to plate
 - Holding tube at specific angles
 
-**Recommended:** [Strong Hand Tools Magnetic V-Block set](https://www.amazon.com/dp/B000MKZSLA/?tag=theweldersguide-20)
+**Recommended:** [Strong Hand Tools Magnetic V-Block set](https://www.amazon.com/s?k=Strong%20Hand%20Tools%20Magnetic%20V-Block%20set&tag=theweldersguide-20)
 
 ## Corner and Angle Fixtures
 
@@ -91,21 +91,21 @@ Magnetic V-blocks hold pipe and round stock on a flat surface or at right angles
 
 Right-angle corner clamps hold two pieces of tube or flat stock at a precise 90° for tacking box frames, table legs, and any square corner.
 
-**[Strong Hand Tools 3-Way Corner Clamp](https://www.amazon.com/dp/B001BKHHGS/?tag=theweldersguide-20)** — Holds three intersecting pieces at 90° simultaneously. Invaluable for building box frames and square structures.
+**[Strong Hand Tools 3-Way Corner Clamp](https://www.amazon.com/s?k=Strong%20Hand%20Tools%203-Way%20Corner%20Clamp&tag=theweldersguide-20)** — Holds three intersecting pieces at 90° simultaneously. Invaluable for building box frames and square structures.
 
-**[Bessey WS-3 3-Way Right Angle Clamp](https://www.amazon.com/dp/B00004YUPO/?tag=theweldersguide-20)** — Traditional 90° corner clamp with independent adjustment on each jaw.
+**[Bessey WS-3 3-Way Right Angle Clamp](https://www.amazon.com/s?k=Bessey%20WS-3%203-Way%20Right%20Angle%20Clamp&tag=theweldersguide-20)** — Traditional 90° corner clamp with independent adjustment on each jaw.
 
 ### Framing Square
 
 A large framing square is essential for checking 90° angles during assembly. Use it to verify that tacked assemblies are square before fully welding.
 
-**Recommended:** [Empire Level 3994 aluminum framing square](https://www.amazon.com/dp/B000EDWNMO/?tag=theweldersguide-20)
+**Recommended:** [Empire Level 3994 aluminum framing square](https://www.amazon.com/s?k=Empire%20Level%203994%20aluminum%20framing%20square&tag=theweldersguide-20)
 
 ### Angle Finder / Digital Protractor
 
 When welding at angles other than 90°, a digital protractor lets you set up jigs at any angle precisely.
 
-**Recommended:** [GemRed digital angle finder](https://www.amazon.com/dp/B07YZXH2CZ/?tag=theweldersguide-20) — measures angles to 0.1° accuracy.
+**Recommended:** [GemRed digital angle finder](https://www.amazon.com/s?k=GemRed%20digital%20angle%20finder&tag=theweldersguide-20) — measures angles to 0.1° accuracy.
 
 ## Pipe and Tube Alignment Tools
 
@@ -115,7 +115,7 @@ Pipe alignment clamps (also called "chain clamps" or "lineup clamps") hold two p
 
 **External pipe clamps:** Wrap around the outside of both sections and pull them into alignment.
 
-**Recommended:** [Mathey Dearman Type E pipe lineup clamp](https://www.amazon.com/dp/B001M05VXI/?tag=theweldersguide-20) — the industry standard for pipe alignment.
+**Recommended:** [Mathey Dearman Type E pipe lineup clamp](https://www.amazon.com/s?k=Mathey%20Dearman%20Type%20E%20pipe%20lineup%20clamp&tag=theweldersguide-20) — the industry standard for pipe alignment.
 
 **Internal lineup clamps (hydraulic):** For pipe 4" and larger, internal lineup clamps expand inside the pipe and align both sections from the inside while holding the root gap open. Used by professional pipe welders on large-diameter pipe.
 
@@ -131,7 +131,7 @@ For shop work on pipe, a simple pipe welding positioner (also called a "rollout 
 
 Step clamps have a stepped clamping surface that engages at different heights. They slide in table slots and pull the workpiece flat to the table surface.
 
-**Recommended:** [Mitee-Bite Machinable Fixture Clamps](https://www.amazon.com/dp/B01LZT2E8B/?tag=theweldersguide-20) — fit 5/8" T-slot tables.
+**Recommended:** [Mitee-Bite Machinable Fixture Clamps](https://www.amazon.com/s?k=Mitee-Bite%20Machinable%20Fixture%20Clamps&tag=theweldersguide-20) — fit 5/8" T-slot tables.
 
 ### Toe Clamps
 

@@ -67,7 +67,7 @@ Sleeves are protective arm coverings worn with a regular work shirt. Used in:
 
 ### 1. Lincoln Electric Traditional Leather Jacket — Best Leather Jacket
 
-**Price:** ~$75 | [Lincoln Electric K2989-L](https://www.amazon.com/dp/B008GQ4ZFQ/?tag=theweldersguide-20)
+**Price:** ~$75 | [Lincoln Electric K2989-L](https://www.amazon.com/s?k=Lincoln%20Electric%20K2989-L&tag=theweldersguide-20)
 
 Lincoln's full leather welding jacket is the workhorse of the category. Full grain cowhide construction, reinforced stitching at seams, and a contoured fit that does not restrict movement. The snaps at the wrist allow glove overlap, and the front snap closure covers the zipper for spatter protection.
 
@@ -85,7 +85,7 @@ Lincoln's full leather welding jacket is the workhorse of the category. Full gra
 
 ### 2. Miller Electric FR Cotton Jacket — Best FR Cotton Jacket
 
-**Price:** ~$65 | [Miller Electric 231090](https://www.amazon.com/dp/B00PXJEGFY/?tag=theweldersguide-20)
+**Price:** ~$65 | [Miller Electric 231090](https://www.amazon.com/s?k=Miller%20Electric%20231090&tag=theweldersguide-20)
 
 Miller's FR cotton jacket is the best-in-class for welders who need comfort and breathability. The 9-oz FR cotton construction meets NFPA 70E standards for arc flash protection in addition to welding applications. Machine washable.
 
@@ -103,7 +103,7 @@ Miller's FR cotton jacket is the best-in-class for welders who need comfort and 
 
 ### 3. Tillman 9230 Split Leather Jacket — Best Overall Welding Jacket
 
-**Price:** ~$90 | [Tillman 9230](https://www.amazon.com/dp/B00BTTEJN4/?tag=theweldersguide-20)
+**Price:** ~$90 | [Tillman 9230](https://www.amazon.com/s?k=Tillman%209230&tag=theweldersguide-20)
 
 Tillman's split leather jacket is the recommendation for most welders who do not know what to choose. Leather panels protect the front, chest, and forearms — where spatter lands most often. FR fabric covers the back and sides, reducing weight and improving breathability. The result is a jacket that works for MIG, stick, and fabrication without cooking you alive.
 
@@ -121,7 +121,7 @@ Tillman's split leather jacket is the recommendation for most welders who do not
 
 ### 4. Black Stallion JL1012-BB Leather Jacket — Best Premium Leather
 
-**Price:** ~$130 | [Black Stallion JL1012-BB](https://www.amazon.com/dp/B003ZXBP40/?tag=theweldersguide-20)
+**Price:** ~$130 | [Black Stallion JL1012-BB](https://www.amazon.com/s?k=Black%20Stallion%20JL1012-BB&tag=theweldersguide-20)
 
 For welders who want top-quality leather construction, Black Stallion's premium jacket uses top-grain cowhide throughout with a tailored fit that is less boxy than budget leather jackets. The sleeves are cut for welding position (slightly long, with gussets for range of motion).
 
@@ -141,7 +141,7 @@ For welders who want top-quality leather construction, Black Stallion's premium 
 
 ### 1. Lincoln Electric Premium Leather Apron — Best Leather Apron
 
-**Price:** ~$40 | [Lincoln Electric K3101](https://www.amazon.com/dp/B00BU3KPOU/?tag=theweldersguide-20)
+**Price:** ~$40 | [Lincoln Electric K3101](https://www.amazon.com/s?k=Lincoln%20Electric%20K3101&tag=theweldersguide-20)
 
 Lincoln's full-length leather apron covers the front from chest to knee. Adjustable neck and waist straps fit a wide range of body types. The full leather construction handles heavy spatter from MIG and stick welding.
 
@@ -149,7 +149,7 @@ Lincoln's full-length leather apron covers the front from chest to knee. Adjusta
 
 ### 2. Steiner 11025 FR Cotton Apron — Best FR Cotton Apron
 
-**Price:** ~$30 | [Steiner 11025](https://www.amazon.com/dp/B000S51MRA/?tag=theweldersguide-20)
+**Price:** ~$30 | [Steiner 11025](https://www.amazon.com/s?k=Steiner%2011025&tag=theweldersguide-20)
 
 Steiner's FR cotton bib apron is a lightweight alternative for TIG welders who work primarily in the flat position. Covers the chest and lap area while remaining cool and machine washable.
 
@@ -157,7 +157,7 @@ Steiner's FR cotton bib apron is a lightweight alternative for TIG welders who w
 
 ### 3. Revco BSX Split-Leg Leather Apron — Best for Seated Welding
 
-**Price:** ~$50 | [Revco BSX UT3014-BK](https://www.amazon.com/dp/B001GR2UIG/?tag=theweldersguide-20)
+**Price:** ~$50 | [Revco BSX UT3014-BK](https://www.amazon.com/s?k=Revco%20BSX%20UT3014-BK&tag=theweldersguide-20)
 
 The split-leg apron design allows leg movement for climbing or crouching while maintaining full-front protection. Essential for welders who frequently change position or work in tight spaces.
 
@@ -167,20 +167,20 @@ The split-leg apron design allows leg movement for climbing or crouching while m
 
 ### 1. Lincoln Electric Premium Leather Sleeves — Best Leather Sleeves
 
-**Price:** ~$25 pair | [Lincoln Electric K3110](https://www.amazon.com/dp/B00BU3KQ5E/?tag=theweldersguide-20)
+**Price:** ~$25 pair | [Lincoln Electric K3110](https://www.amazon.com/s?k=Lincoln%20Electric%20K3110&tag=theweldersguide-20)
 
 Full-length split-leather sleeves with elastic bands at the bicep and wrist for a secure fit. Pair with an apron for front-and-arm protection that stays cooler than a full jacket.
 
 ### 2. Steiner 20702 FR Knit Sleeves — Best Budget Sleeves
 
-**Price:** ~$15 pair | [Steiner 20702](https://www.amazon.com/dp/B0000CBCAA/?tag=theweldersguide-20)
+**Price:** ~$15 pair | [Steiner 20702](https://www.amazon.com/s?k=Steiner%2020702&tag=theweldersguide-20)
 
 FR knit sleeves for light welding and grinding work. Elastic at both ends. Less durable than leather but excellent value for light use.
 
 ## Care and Maintenance
 
 **Leather care:**
-- Condition with [Leather Honey conditioner](https://www.amazon.com/dp/B00FGZQQAW/?tag=theweldersguide-20) every few months to prevent cracking
+- Condition with [Leather Honey conditioner](https://www.amazon.com/s?k=Leather%20Honey%20conditioner&tag=theweldersguide-20) every few months to prevent cracking
 - Store hanging, not folded — folding creates permanent creases
 - Remove spatter buildup with a leather brush
 

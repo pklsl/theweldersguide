@@ -60,7 +60,7 @@ Time yourself. A typical 3G plate test allows about 45–60 minutes for completi
 
 If the test specifies Lincoln E7018, practice with Lincoln E7018. Different manufacturers' rods run slightly differently, and you do not want to be adjusting to a new feel on test day. The same applies to MIG wire brands and shielding gas mixes.
 
-A reliable [welding practice kit](https://www.amazon.com/dp/B07QFV3W5X/?tag=theweldersguide-20) with pre-beveled coupons can save you time on preparation and let you focus on welding.
+A reliable [welding practice kit](https://www.amazon.com/s?k=welding%20practice%20kit&tag=theweldersguide-20) with pre-beveled coupons can save you time on preparation and let you focus on welding.
 
 ## Test Day Strategy
 

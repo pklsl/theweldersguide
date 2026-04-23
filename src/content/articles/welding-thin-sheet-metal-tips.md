@@ -79,7 +79,7 @@ A longer contact tip to work distance (stick-out) of about 3/8 to 1/2 inch reduc
 
 When welding extremely thin metal or when burn-through is a persistent problem, place a copper or aluminum backing bar behind the joint. These materials draw heat away from the weld zone and provide a surface that the weld pool cannot stick to.
 
-Copper [welding backing bars](https://www.amazon.com/dp/B08GKVZXFK/?tag=theweldersguide-20) are inexpensive and reusable, making them a worthwhile addition to your thin-metal toolkit.
+Copper [welding backing bars](https://www.amazon.com/s?k=welding%20backing%20bars&tag=theweldersguide-20) are inexpensive and reusable, making them a worthwhile addition to your thin-metal toolkit.
 
 ### 6. Skip the Filler on Very Thin Joints
 

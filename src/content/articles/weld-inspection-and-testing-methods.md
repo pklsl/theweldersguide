@@ -53,7 +53,7 @@ Inspection looks for these common weld discontinuities:
 - Weld cleaned of spatter, slag, and debris before inspection
 
 **Measurement tools used in VT:**
-- **Welding gauge (HILO gauge, Camber gauge)** — measures weld size, throat, leg, convexity, concavity, undercut depth, and more. The [Weld Gauge Set](https://www.amazon.com/dp/B000BHVJNE/?tag=theweldersguide-20) is the standard for field use.
+- **Welding gauge (HILO gauge, Camber gauge)** — measures weld size, throat, leg, convexity, concavity, undercut depth, and more. The [Weld Gauge Set](https://www.amazon.com/s?k=Weld%20Gauge%20Set&tag=theweldersguide-20) is the standard for field use.
 - **Fillet gauge** — checks fillet weld leg size against specified minimum
 - **Ruler and tape measure** — for weld length verification
 - **Mirror and flashlight** — for weld areas with limited direct visibility
@@ -80,7 +80,7 @@ Inspection looks for these common weld discontinuities:
 - Magnetic particle powder or bath
 - UV (black) light for fluorescent particle inspection
 
-The [Olympus/NDT Solutions MT yoke](https://www.amazon.com/dp/B002XMRPGA/?tag=theweldersguide-20) is a standard portable MT instrument. [Magnaflux MT powder](https://www.amazon.com/dp/B000BQ28FW/?tag=theweldersguide-20) is widely used.
+The [Olympus/NDT Solutions MT yoke](https://www.amazon.com/s?k=Olympus%2FNDT%20Solutions%20MT%20yoke&tag=theweldersguide-20) is a standard portable MT instrument. [Magnaflux MT powder](https://www.amazon.com/s?k=Magnaflux%20MT%20powder&tag=theweldersguide-20) is widely used.
 
 **Limitations:** Only works on ferromagnetic materials. Does not detect deep internal defects.
 
@@ -99,7 +99,7 @@ The [Olympus/NDT Solutions MT yoke](https://www.amazon.com/dp/B002XMRPGA/?tag=th
 4. **Apply developer** — spray or brush; allow development time (typically 5–10 minutes)
 5. **Inspect** — visible penetrant indications appear red (visible dye) or glow (fluorescent)
 
-**Kit recommendation:** [Magnaflux SKD-S2 dye penetrant kit](https://www.amazon.com/dp/B000BQ28FQ/?tag=theweldersguide-20) — three-can set (cleaner, penetrant, developer) for visible red dye inspection.
+**Kit recommendation:** [Magnaflux SKD-S2 dye penetrant kit](https://www.amazon.com/s?k=Magnaflux%20SKD-S2%20dye%20penetrant%20kit&tag=theweldersguide-20) — three-can set (cleaner, penetrant, developer) for visible red dye inspection.
 
 **Limitations:** Surface-opening discontinuities only. Material must be thoroughly cleaned before inspection — embedded contamination gives false indications.
 
@@ -175,11 +175,11 @@ The combination of AWS CWI and ASNT Level II certifications in one or more metho
 
 For welders and CWIs performing field inspection:
 
-- **Welding gauge:** [Weld Gauge Set](https://www.amazon.com/dp/B000BHVJNE/?tag=theweldersguide-20) — covers all standard VT measurements
+- **Welding gauge:** [Weld Gauge Set](https://www.amazon.com/s?k=Weld%20Gauge%20Set&tag=theweldersguide-20) — covers all standard VT measurements
 - **Magnifying glass:** 5x magnification for close crack examination
 - **Flashlight:** High-lumen, focused beam for illuminating weld toes
-- **MT yoke:** [Magnaflux Y-8 yoke](https://www.amazon.com/dp/B002XMRPGA/?tag=theweldersguide-20) with AC/DC capability
-- **PT kit:** [Magnaflux SKD-S2](https://www.amazon.com/dp/B000BQ28FQ/?tag=theweldersguide-20)
+- **MT yoke:** [Magnaflux Y-8 yoke](https://www.amazon.com/s?k=Magnaflux%20Y-8%20yoke&tag=theweldersguide-20) with AC/DC capability
+- **PT kit:** [Magnaflux SKD-S2](https://www.amazon.com/s?k=Magnaflux%20SKD-S2&tag=theweldersguide-20)
 - **UV lamp:** For fluorescent MT or PT indication reading
 - **Current D1.1 code book:** Essential reference for acceptance criteria
 

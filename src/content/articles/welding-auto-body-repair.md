@@ -22,13 +22,13 @@ A 120V MIG welder is adequate for most auto body work. You need:
 - **Wire feed range:** Fine adjustment at low wire speeds is critical.
 - **Voltage adjustment:** Fine voltage steps allow precise tuning for thin material.
 
-Recommended: [Lincoln Electric Easy MIG 140](https://www.amazon.com/dp/B000NK2EOE/?tag=theweldersguide-20) or [Hobart Handler 140](https://www.amazon.com/dp/B00EZMD2SE/?tag=theweldersguide-20).
+Recommended: [Lincoln Electric Easy MIG 140](https://www.amazon.com/s?k=Lincoln%20Electric%20Easy%20MIG%20140&tag=theweldersguide-20) or [Hobart Handler 140](https://www.amazon.com/s?k=Hobart%20Handler%20140&tag=theweldersguide-20).
 
 ### Wire
 
 Use **0.023-inch (0.6mm) ER70S-6 wire** for 18–24 gauge sheet metal. The thinner wire requires less heat for fusion and is easier to control on thin material. Most welders default to 0.030" wire — switch to 0.023" for body work.
 
-The [Lincoln Electric .023" ER70S-6 wire](https://www.amazon.com/dp/B00JCQPJEO/?tag=theweldersguide-20) is reliable and widely available.
+The [Lincoln Electric .023" ER70S-6 wire](https://www.amazon.com/s?k=Lincoln%20Electric%20.023%22%20ER70S-6%20wire&tag=theweldersguide-20) is reliable and widely available.
 
 ### Shielding Gas
 
@@ -37,14 +37,14 @@ Use **75/25 Ar/CO2** (C25). This standard MIG gas blend produces a smoother, sof
 ### Panel Clamps and Magnets
 
 Fit-up before welding determines weld quality. Invest in:
-- [Bessey auto body panel clamps](https://www.amazon.com/dp/B001NHSPCI/?tag=theweldersguide-20) — hold panels in position during tacking
-- [Magnetic welding squares](https://www.amazon.com/dp/B0041CR4UG/?tag=theweldersguide-20) — quick positioning for corners and edges
+- [Bessey auto body panel clamps](https://www.amazon.com/s?k=Bessey%20auto%20body%20panel%20clamps&tag=theweldersguide-20) — hold panels in position during tacking
+- [Magnetic welding squares](https://www.amazon.com/s?k=Magnetic%20welding%20squares&tag=theweldersguide-20) — quick positioning for corners and edges
 - Locking C-clamps — general purpose
 
 ### Angle Grinder and Weld Finishing Tools
 
 - 4.5" angle grinder with grinding discs and flap discs
-- [Eastwood flexible flap disc](https://www.amazon.com/dp/B00CEKFQ7G/?tag=theweldersguide-20) — contours to panel shapes
+- [Eastwood flexible flap disc](https://www.amazon.com/s?k=Eastwood%20flexible%20flap%20disc&tag=theweldersguide-20) — contours to panel shapes
 - Body filler spreaders
 
 ## Understanding Automotive Welding Joints
@@ -70,7 +70,7 @@ Plug welding is how you replicate factory spot welds with a MIG welder. It is th
 ### Plug Weld Technique
 
 1. **Drill plug weld holes** in the outer (new) panel. Use a 5/16" or 3/8" drill bit. Space holes to match the original spot weld spacing (typically 1" to 1.5" apart).
-2. **Prepare surfaces** — Remove all paint, rust, and coating from both mating surfaces in the weld zone. Apply [weld-through primer](https://www.amazon.com/dp/B0006HXKDO/?tag=theweldersguide-20) (zinc-rich) to the inner mating surface before assembly.
+2. **Prepare surfaces** — Remove all paint, rust, and coating from both mating surfaces in the weld zone. Apply [weld-through primer](https://www.amazon.com/s?k=weld-through%20primer&tag=theweldersguide-20) (zinc-rich) to the inner mating surface before assembly.
 3. **Clamp the panels together** so there is no gap between them.
 4. **Set MIG settings** for plug welding thin sheet metal:
    - Wire: 0.023" ER70S-6
@@ -133,7 +133,7 @@ Rusted auto body panels present unique challenges. Thin rust can compromise the 
 3. **Reduce settings further** for very thin remaining sections
 4. **Use stitch welds, not runs** — never run a bead next to compromised metal
 
-The [Eastwood rust converter](https://www.amazon.com/dp/B0014Y9LGG/?tag=theweldersguide-20) stabilizes surface rust on areas adjacent to welds before priming.
+The [Eastwood rust converter](https://www.amazon.com/s?k=Eastwood%20rust%20converter&tag=theweldersguide-20) stabilizes surface rust on areas adjacent to welds before priming.
 
 ## Finishing Auto Body Welds
 
@@ -145,7 +145,7 @@ After welding, body welds need finishing:
 4. **Apply body filler if needed** — for minor surface irregularities, body filler over properly welded and primed metal is acceptable.
 5. **Apply self-etching primer** immediately after grinding. Bare metal oxidizes quickly.
 
-For structural welds (floor pans, frame rails), use [seam sealer](https://www.amazon.com/dp/B000BSAXMU/?tag=theweldersguide-20) on the backside of any seam that will be exposed to water or road salt.
+For structural welds (floor pans, frame rails), use [seam sealer](https://www.amazon.com/s?k=seam%20sealer&tag=theweldersguide-20) on the backside of any seam that will be exposed to water or road salt.
 
 ## Safety for Auto Body Welding
 

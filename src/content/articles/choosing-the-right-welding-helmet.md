@@ -120,7 +120,7 @@ Key comfort features:
 ## Recommended Helmets by Process
 
 ### Best for MIG Welding
-The [Lincoln Electric Viking 3350](https://www.amazon.com/dp/B00LJSMHCK/?tag=theweldersguide-20) offers a large 3.74 x 3.33-inch viewing area, four sensors, and 1/1/1/1 optical clarity at a competitive price.
+The [Lincoln Electric Viking 3350](https://www.amazon.com/s?k=Lincoln%20Electric%20Viking%203350&tag=theweldersguide-20) offers a large 3.74 x 3.33-inch viewing area, four sensors, and 1/1/1/1 optical clarity at a competitive price.
 
 ### Best for TIG Welding
 The **Everlast EPS1200P** features a shade 5-13 range with high sensitivity for low-amperage TIG. Four sensors ensure reliable arc detection even at 5 amps.
@@ -129,7 +129,7 @@ The **Everlast EPS1200P** features a shade 5-13 range with high sensitivity for 
 Stick welding generates more spatter than other processes, so durability matters. The **Miller Digital Elite** has a rugged shell, four arc sensors, and clear lens technology.
 
 ### Best Budget Option
-The [Antra AH6-260-0000](https://www.amazon.com/dp/B00VS4YQTA/?tag=theweldersguide-20) delivers four sensors, variable shade 4-13, and grind mode for under $60. It is the best value helmet for beginners.
+The [Antra AH6-260-0000](https://www.amazon.com/s?k=Antra%20AH6-260-0000&tag=theweldersguide-20) delivers four sensors, variable shade 4-13, and grind mode for under $60. It is the best value helmet for beginners.
 
 ## Helmet Maintenance Tips
 

@@ -169,7 +169,7 @@ For most home shop use, a tabletop flat within 1/16" across its full length is e
 
 ### Step 10: Finish
 
-Apply [self-etching primer](https://www.amazon.com/dp/B000AVKA7C/?tag=theweldersguide-20) to all surfaces except the tabletop working surface. Follow with a coat of black machinery enamel. The tabletop itself can be left bare steel — it will develop a protective surface patina in use.
+Apply [self-etching primer](https://www.amazon.com/s?k=self-etching%20primer&tag=theweldersguide-20) to all surfaces except the tabletop working surface. Follow with a coat of black machinery enamel. The tabletop itself can be left bare steel — it will develop a protective surface patina in use.
 
 ## Weld-Through Slots and Fixtures
 

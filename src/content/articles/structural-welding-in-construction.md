@@ -95,7 +95,7 @@ SAW is not practical for field work — it requires a flux hopper, recovery syst
 
 Shear studs are welded to beam flanges using **drawn arc stud welding** — a specialized process that uses a pistol-style stud gun to weld headed steel studs in under 1 second. These studs transfer shear forces between the steel beam and concrete slab in composite construction.
 
-The [Nelson Stud Welding System](https://www.amazon.com/dp/B001234567/?tag=theweldersguide-20) is the industry standard for construction stud welding.
+The [Nelson Stud Welding System](https://www.amazon.com/s?k=Nelson%20Stud%20Welding%20System&tag=theweldersguide-20) is the industry standard for construction stud welding.
 
 ## Welding Positions and Accessibility in the Field
 

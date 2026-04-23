@@ -65,7 +65,7 @@ The smooth arc and lack of slag make solid wire more forgiving for new welders. 
 
 ### Recommended Solid Wire Products
 
-- [Lincoln Electric L56 ER70S-6](https://www.amazon.com/dp/B00MIK66FK/?tag=theweldersguide-20) — Excellent all-around mild steel wire with good feedability.
+- [Lincoln Electric L56 ER70S-6](https://www.amazon.com/s?k=Lincoln%20Electric%20L56%20ER70S-6&tag=theweldersguide-20) — Excellent all-around mild steel wire with good feedability.
 - **Hobart H305406-R18 ER70S-6** — Consistent quality at a competitive price.
 
 ## Advantages of Flux-Cored Wire
@@ -97,7 +97,7 @@ The flux compounds in the core act as deoxidizers and scavengers, absorbing rust
 
 ### Recommended Flux-Cored Wire Products
 
-- [Lincoln Electric NR-211-MP](https://www.amazon.com/dp/B00MILHW6M/?tag=theweldersguide-20) — The most popular self-shielded flux-cored wire for general-purpose welding.
+- [Lincoln Electric NR-211-MP](https://www.amazon.com/s?k=Lincoln%20Electric%20NR-211-MP&tag=theweldersguide-20) — The most popular self-shielded flux-cored wire for general-purpose welding.
 - **Hobart H222106-R19** — Great for outdoor applications and farm repairs.
 
 ## Polarity Requirements

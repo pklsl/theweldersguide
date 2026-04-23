@@ -162,7 +162,7 @@ For pipe and tubing welds where the back side is accessible, use argon back purg
 
 ## Specialty Filler Metals for Nickel Alloys
 
-The [Lincoln Electric NI-ROD FC 55](https://www.amazon.com/dp/B00004THBL/?tag=theweldersguide-20) flux-cored electrode works for field stick welding of nickel alloys when TIG is not available. For TIG filler metals, [Weldtool ERNiCrMo-3 (Alloy 625) filler wire](https://www.amazon.com/dp/B07T5GBPCX/?tag=theweldersguide-20) is a versatile choice that works as a matching filler for Inconel 625 and as an overalloyed filler for many other nickel alloy combinations.
+The [Lincoln Electric NI-ROD FC 55](https://www.amazon.com/s?k=Lincoln%20Electric%20NI-ROD%20FC%2055&tag=theweldersguide-20) flux-cored electrode works for field stick welding of nickel alloys when TIG is not available. For TIG filler metals, [Weldtool ERNiCrMo-3 (Alloy 625) filler wire](https://www.amazon.com/s?k=Weldtool%20ERNiCrMo-3%20(Alloy%20625)%20filler%20wire&tag=theweldersguide-20) is a versatile choice that works as a matching filler for Inconel 625 and as an overalloyed filler for many other nickel alloy combinations.
 
 ## Dissimilar Metal Welding with Nickel Alloys
 
@@ -178,4 +178,4 @@ The nickel filler's austenitic structure accommodates the different coefficients
 
 Nickel alloys demand respect and precision, but they are weldable by any skilled TIG welder who follows the metallurgical rules. The keys are cleanliness, low heat input, low interpass temperatures, and matching filler metal selection. The reward is welds that perform in environments that would destroy ordinary materials.
 
-For shops that regularly weld nickel alloys, a dedicated set of stainless tools, a good infrared thermometer, and a supply of [Alloy 625 filler wire](https://www.amazon.com/dp/B07T5GBPCX/?tag=theweldersguide-20) handle the majority of nickel alloy work.
+For shops that regularly weld nickel alloys, a dedicated set of stainless tools, a good infrared thermometer, and a supply of [Alloy 625 filler wire](https://www.amazon.com/s?k=Alloy%20625%20filler%20wire&tag=theweldersguide-20) handle the majority of nickel alloy work.

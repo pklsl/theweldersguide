@@ -85,7 +85,7 @@ Back purging involves flowing argon gas through the inside of the pipe to displa
 - Allow the purge to run for at least 30 seconds before starting your weld
 - Consider soluble purge dams that dissolve in water after welding
 
-If you do a lot of stainless pipe work, invest in an [inflatable pipe purging system](https://www.amazon.com/dp/B08T3ZQD1L/?tag=theweldersguide-20) to save time and gas.
+If you do a lot of stainless pipe work, invest in an [inflatable pipe purging system](https://www.amazon.com/s?k=inflatable%20pipe%20purging%20system&tag=theweldersguide-20) to save time and gas.
 
 ## Heat Management Techniques
 

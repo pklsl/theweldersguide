@@ -21,7 +21,7 @@ This guide gives you the practical tips you need to get started and improve quic
 - **Forgiving on dirty metal** — Stick electrodes burn through rust, paint, and mill scale better than MIG or TIG.
 - **Career opportunities** — Most structural welding certifications require SMAW proficiency.
 
-The [Lincoln Electric Weld Pak 100](https://www.amazon.com/dp/B00BLZ15TG/?tag=theweldersguide-20) and **Forney Easy Weld 100DS** are two affordable stick welders that are perfect for learning.
+The [Lincoln Electric Weld Pak 100](https://www.amazon.com/s?k=Lincoln%20Electric%20Weld%20Pak%20100&tag=theweldersguide-20) and **Forney Easy Weld 100DS** are two affordable stick welders that are perfect for learning.
 
 ## Understanding Stick Welding Electrodes
 

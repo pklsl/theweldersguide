@@ -74,7 +74,7 @@ Different processes require different consumables (wire, electrodes, tungsten, f
 
 **Price:** ~$900 | **Processes:** MIG, Flux-Core, TIG (DC), Stick | **Input:** 120/240V | **Output:** 15–215A
 
-The [ESAB Rebel EMP 215ic](https://www.amazon.com/dp/B075GPWT7B/?tag=theweldersguide-20) is the multi-process machine that closest approaches dedicated-machine performance in each process. The MIG performance is genuinely excellent — comparable to dedicated MIG welders at this price point. The DC TIG arc is smooth and responsive. Stick performs without issue.
+The [ESAB Rebel EMP 215ic](https://www.amazon.com/s?k=ESAB%20Rebel%20EMP%20215ic&tag=theweldersguide-20) is the multi-process machine that closest approaches dedicated-machine performance in each process. The MIG performance is genuinely excellent — comparable to dedicated MIG welders at this price point. The DC TIG arc is smooth and responsive. Stick performs without issue.
 
 **What sets it apart:**
 - Color LCD display with intuitive process selection
@@ -91,7 +91,7 @@ The [ESAB Rebel EMP 215ic](https://www.amazon.com/dp/B075GPWT7B/?tag=theweldersg
 
 **Price:** ~$1,100 | **Processes:** MIG, Flux-Core, TIG (DC), Stick | **Input:** 120/240V | **Output:** 20–230A
 
-The [Miller Multimatic 215](https://www.amazon.com/dp/B078Y1W5VM/?tag=theweldersguide-20) is the easiest multi-process machine to set up and use. Miller's Auto-Set technology extends to MIG: select wire diameter and material thickness, and the machine sets voltage and wire speed automatically.
+The [Miller Multimatic 215](https://www.amazon.com/s?k=Miller%20Multimatic%20215&tag=theweldersguide-20) is the easiest multi-process machine to set up and use. Miller's Auto-Set technology extends to MIG: select wire diameter and material thickness, and the machine sets voltage and wire speed automatically.
 
 **What sets it apart:**
 - Auto-Set makes MIG foolproof for beginners
@@ -107,7 +107,7 @@ The [Miller Multimatic 215](https://www.amazon.com/dp/B078Y1W5VM/?tag=thewelders
 
 **Price:** ~$850 | **Processes:** MIG, Flux-Core, TIG (DC), Stick, Spool Gun | **Input:** 120/240V | **Output:** 20–210A
 
-The [Lincoln Electric Power MIG 210 MP](https://www.amazon.com/dp/B01N7F3J75/?tag=theweldersguide-20) adds spool gun compatibility to the multi-process lineup, which means aluminum MIG welding is possible (though not AC TIG aluminum). Lincoln's dual-digital display makes parameter monitoring easier than single-dial machines.
+The [Lincoln Electric Power MIG 210 MP](https://www.amazon.com/s?k=Lincoln%20Electric%20Power%20MIG%20210%20MP&tag=theweldersguide-20) adds spool gun compatibility to the multi-process lineup, which means aluminum MIG welding is possible (though not AC TIG aluminum). Lincoln's dual-digital display makes parameter monitoring easier than single-dial machines.
 
 **What sets it apart:**
 - Spool gun compatibility — aluminum MIG
@@ -121,7 +121,7 @@ The [Lincoln Electric Power MIG 210 MP](https://www.amazon.com/dp/B01N7F3J75/?ta
 
 **Price:** ~$350 | **Processes:** MIG, Flux-Core, TIG (DC), Stick | **Input:** 120V | **Output:** 20–140A
 
-The [Forney Easy Weld 140 MP](https://www.amazon.com/dp/B07M8LHT73/?tag=theweldersguide-20) makes multi-process accessible on a tight budget. At 120V and 140A, it is limited to thinner material, but for a home shop welder who needs occasional process flexibility, it delivers.
+The [Forney Easy Weld 140 MP](https://www.amazon.com/s?k=Forney%20Easy%20Weld%20140%20MP&tag=theweldersguide-20) makes multi-process accessible on a tight budget. At 120V and 140A, it is limited to thinner material, but for a home shop welder who needs occasional process flexibility, it delivers.
 
 **What sets it apart:**
 - Entry-level price
@@ -136,7 +136,7 @@ The [Forney Easy Weld 140 MP](https://www.amazon.com/dp/B07M8LHT73/?tag=thewelde
 
 **Price:** ~$900 | **Processes:** MIG, TIG (AC/DC), Stick, Plasma Cutting | **Input:** 240V | **Output:** Up to 256A
 
-The [Everlast PowerPro 256S](https://www.amazon.com/dp/B00B7MTAWQ/?tag=theweldersguide-20) adds plasma cutting to the multi-process lineup — genuinely useful for fabricators who cut and weld the same material. AC/DC TIG means aluminum welding is possible.
+The [Everlast PowerPro 256S](https://www.amazon.com/s?k=Everlast%20PowerPro%20256S&tag=theweldersguide-20) adds plasma cutting to the multi-process lineup — genuinely useful for fabricators who cut and weld the same material. AC/DC TIG means aluminum welding is possible.
 
 **What sets it apart:**
 - Plasma cutter included
@@ -173,4 +173,4 @@ The [Everlast PowerPro 256S](https://www.amazon.com/dp/B00B7MTAWQ/?tag=thewelder
 - You need two people welding simultaneously
 - TIG aluminum is a primary requirement (buy a dedicated AC/DC TIG machine)
 
-The [ESAB Rebel EMP 215ic](https://www.amazon.com/dp/B075GPWT7B/?tag=theweldersguide-20) is the multi-process machine we recommend most often — it comes closest to delivering dedicated-machine MIG performance while adding genuine stick and DC TIG capability. For most home shop and light professional use, it is more than sufficient.
+The [ESAB Rebel EMP 215ic](https://www.amazon.com/s?k=ESAB%20Rebel%20EMP%20215ic&tag=theweldersguide-20) is the multi-process machine we recommend most often — it comes closest to delivering dedicated-machine MIG performance while adding genuine stick and DC TIG capability. For most home shop and light professional use, it is more than sufficient.

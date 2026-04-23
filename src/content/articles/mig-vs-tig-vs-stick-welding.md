@@ -31,7 +31,7 @@ MIG welding, or Gas Metal Arc Welding (GMAW), uses a continuously fed wire elect
 - Outdoor use is challenging because wind can blow away the shielding gas.
 - Not ideal for dirty or rusty materials without thorough cleaning first.
 
-MIG is the go-to choice for automotive work, fabrication shops, and home projects. A solid entry-level machine like the [Lincoln Electric Easy MIG 180](https://www.amazon.com/dp/B00LJRYHSQ/?tag=theweldersguide-20) is a great starting point for beginners.
+MIG is the go-to choice for automotive work, fabrication shops, and home projects. A solid entry-level machine like the [Lincoln Electric Easy MIG 180](https://www.amazon.com/s?k=Lincoln%20Electric%20Easy%20MIG%20180&tag=theweldersguide-20) is a great starting point for beginners.
 
 ## What Is TIG Welding (GTAW)?
 

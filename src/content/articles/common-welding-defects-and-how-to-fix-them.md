@@ -33,7 +33,7 @@ Porosity appears as small holes or cavities within the weld bead, visible on the
 3. Check gas hoses and connections for leaks using a soapy water solution.
 4. Shield your work area from wind with screens or tarps when welding outdoors.
 5. Maintain proper stick-out (1/4 to 3/8 inch for MIG).
-6. Store stick electrodes in a [rod oven](https://www.amazon.com/dp/B0087PCH64/?tag=theweldersguide-20) to prevent moisture absorption.
+6. Store stick electrodes in a [rod oven](https://www.amazon.com/s?k=rod%20oven&tag=theweldersguide-20) to prevent moisture absorption.
 
 ## Undercut
 

@@ -109,11 +109,11 @@ Field welders should accept a range of input voltages. Dual-voltage machines tha
 
 ### Best Engine-Driven: Lincoln Ranger 330MPX
 
-The [Lincoln Ranger 330MPX](https://www.amazon.com/dp/B08FHG4ZKL/?tag=theweldersguide-20) is a top-tier engine-driven welder delivering up to 330 amps of welding output with multi-process capability. It provides 10,000 watts of auxiliary power and weighs in at roughly 600 pounds — a truck-mounted unit for serious field work. The Chopper technology delivers a smooth stick and TIG arc.
+The [Lincoln Ranger 330MPX](https://www.amazon.com/s?k=Lincoln%20Ranger%20330MPX&tag=theweldersguide-20) is a top-tier engine-driven welder delivering up to 330 amps of welding output with multi-process capability. It provides 10,000 watts of auxiliary power and weighs in at roughly 600 pounds — a truck-mounted unit for serious field work. The Chopper technology delivers a smooth stick and TIG arc.
 
 ### Best Mid-Range Inverter: ESAB Rebel EMP 285ic
 
-The [ESAB Rebel EMP 285ic](https://www.amazon.com/dp/B07PRDZMF3/?tag=theweldersguide-20) is a dual-voltage (120/240V) multi-process inverter that handles MIG, TIG, and stick welding. At about 55 pounds, it is portable enough for one person to carry. The smart-MIG feature automatically sets wire feed speed and voltage based on material thickness and wire size.
+The [ESAB Rebel EMP 285ic](https://www.amazon.com/s?k=ESAB%20Rebel%20EMP%20285ic&tag=theweldersguide-20) is a dual-voltage (120/240V) multi-process inverter that handles MIG, TIG, and stick welding. At about 55 pounds, it is portable enough for one person to carry. The smart-MIG feature automatically sets wire feed speed and voltage based on material thickness and wire size.
 
 ### Best Budget Inverter: Hobart Handler 210MVP
 

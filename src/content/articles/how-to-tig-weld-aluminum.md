@@ -82,7 +82,7 @@ Choosing the right filler rod is critical for aluminum weld quality:
 | ER4047 | Automotive, thin sheet | Higher silicon content, flows very smoothly |
 | ER1100 | Pure aluminum (1xxx series) | Soft, low strength, good for cosmetic welds |
 
-For most projects, **ER4043** is the best starting point. It flows well, resists cracking, and is widely available. Use [ER4043 filler rod](https://www.amazon.com/dp/B00I3LXKUO/?tag=theweldersguide-20) in 1/16" or 3/32" diameter for most applications.
+For most projects, **ER4043** is the best starting point. It flows well, resists cracking, and is widely available. Use [ER4043 filler rod](https://www.amazon.com/s?k=ER4043%20filler%20rod&tag=theweldersguide-20) in 1/16" or 3/32" diameter for most applications.
 
 ## Step-by-Step Technique
 

@@ -154,7 +154,7 @@ Passing a 6G qualification test certifies you for **all positions** on pipe. It 
 - Maintain consistent electrode angle and arc length as conditions change
 - Be prepared to adjust amperage or technique mid-weld as the position shifts
 
-A [pipe welding practice fixture](https://www.amazon.com/dp/B08RNKXMMB/?tag=theweldersguide-20) allows you to set up practice joints at any angle for realistic 6G preparation.
+A [pipe welding practice fixture](https://www.amazon.com/s?k=pipe%20welding%20practice%20fixture&tag=theweldersguide-20) allows you to set up practice joints at any angle for realistic 6G preparation.
 
 ## 6GR — Restriction Ring Position
 

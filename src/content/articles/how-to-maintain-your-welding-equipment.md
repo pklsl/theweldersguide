@@ -59,7 +59,7 @@ The MIG gun is the component that requires the most frequent attention.
 
 **Inspect the liner.** The liner guides the wire from the feed rolls through the gun. Over time, it accumulates dust, wire debris, and becomes grooved from wire friction. If wire feeding becomes erratic despite clean rollers and a new contact tip, the liner is likely the culprit.
 
-To check the liner, remove the contact tip and nozzle, then feed a piece of wire through by hand. If you feel resistance or catching, replace the liner. A [MIG gun liner replacement kit](https://www.amazon.com/dp/B00BPZLQFI/?tag=theweldersguide-20) is inexpensive and takes about 15 minutes to install.
+To check the liner, remove the contact tip and nozzle, then feed a piece of wire through by hand. If you feel resistance or catching, replace the liner. A [MIG gun liner replacement kit](https://www.amazon.com/s?k=MIG%20gun%20liner%20replacement%20kit&tag=theweldersguide-20) is inexpensive and takes about 15 minutes to install.
 
 **Clean the feed rollers.** Remove the wire, open the tension arm, and blow out the drive assembly with compressed air. Inspect the rollers for grooves or wear. V-groove rollers for hard wire and knurled rollers for flux-cored should be replaced when the groove becomes visibly worn.
 

@@ -125,7 +125,7 @@ If spatter is a concern and penetration is adequate, switch to a push technique.
 Spatter inside the nozzle and on the contact tip disrupts gas flow and arc stability:
 - **Clean the nozzle** regularly with welding pliers or nozzle cleaning tools
 - **Replace contact tips** before they wear out — a worn, spattered tip causes arc irregularities
-- **Anti-spatter nozzle gel:** Dip the nozzle in [Nozzle Dip anti-spatter gel](https://www.amazon.com/dp/B001AZQXQO/?tag=theweldersguide-20) before each welding session to prevent buildup
+- **Anti-spatter nozzle gel:** Dip the nozzle in [Nozzle Dip anti-spatter gel](https://www.amazon.com/s?k=Nozzle%20Dip%20anti-spatter%20gel&tag=theweldersguide-20) before each welding session to prevent buildup
 
 ## Anti-Spatter Products
 
@@ -135,17 +135,17 @@ When some spatter is unavoidable, anti-spatter products make cleanup dramaticall
 
 Anti-spatter spray applied to the base metal surface prevents spatter from bonding. Instead of welding itself to the metal, it lands on the spray film and is easy to remove with a brush or scraper.
 
-**[Weld-Aid Nozzle Kleen Anti-Spatter Spray](https://www.amazon.com/dp/B001AXEQ1A/?tag=theweldersguide-20)** — The most widely used anti-spatter spray. Water-based formula. Spray on the base metal around the weld zone before welding.
+**[Weld-Aid Nozzle Kleen Anti-Spatter Spray](https://www.amazon.com/s?k=Weld-Aid%20Nozzle%20Kleen%20Anti-Spatter%20Spray&tag=theweldersguide-20)** — The most widely used anti-spatter spray. Water-based formula. Spray on the base metal around the weld zone before welding.
 
 **Application:** Spray a light coat on areas within 3–6 inches of the weld zone. Do not spray directly in the weld joint — anti-spatter in the weld causes porosity.
 
-**[Dynaflux Anti-Spatter Spray](https://www.amazon.com/dp/B0000BYD4E/?tag=theweldersguide-20)** — Petroleum-based anti-spatter. Slightly more effective than water-based at very high spatter conditions. Do not use on surfaces that will be painted — may cause adhesion problems.
+**[Dynaflux Anti-Spatter Spray](https://www.amazon.com/s?k=Dynaflux%20Anti-Spatter%20Spray&tag=theweldersguide-20)** — Petroleum-based anti-spatter. Slightly more effective than water-based at very high spatter conditions. Do not use on surfaces that will be painted — may cause adhesion problems.
 
 ### Nozzle Dip Gel
 
 Anti-spatter gel for the MIG gun nozzle. Extend the nozzle into the gel before welding. The gel coats the inside of the nozzle and prevents spatter from sticking, making cleanup easy and extending nozzle life.
 
-**[Weld-Aid Nozzle Dip](https://www.amazon.com/dp/B001AZQXQO/?tag=theweldersguide-20)** — The standard nozzle dip product. Used in virtually every production MIG welding shop.
+**[Weld-Aid Nozzle Dip](https://www.amazon.com/s?k=Weld-Aid%20Nozzle%20Dip&tag=theweldersguide-20)** — The standard nozzle dip product. Used in virtually every production MIG welding shop.
 
 ### Anti-Spatter Tape
 
@@ -167,7 +167,7 @@ When spatter does occur:
 
 - **Remove while still warm** — Spatter that has not fully bonded is much easier to remove while still slightly warm (but cooled below glowing). A wire brush or chipping hammer removes it easily.
 - **Flap disc grinding** — After cooling, a 40-grit or 60-grit flap disc removes bonded spatter quickly. Avoid aggressive grinding that creates low spots.
-- **Spatter scraper** — Carbide scrapers are effective on large areas. [Weld-Aid spatter scraper](https://www.amazon.com/dp/B000MRKJGO/?tag=theweldersguide-20) is designed for the job.
+- **Spatter scraper** — Carbide scrapers are effective on large areas. [Weld-Aid spatter scraper](https://www.amazon.com/s?k=Weld-Aid%20spatter%20scraper&tag=theweldersguide-20) is designed for the job.
 - **Needle scaler** — For heavy spatter on irregular surfaces, a pneumatic needle scaler reaches where grinders cannot.
 
 ## Summary: Spatter Reduction Checklist

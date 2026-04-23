@@ -35,7 +35,7 @@ Why ER70S-6 is preferred:
 - Better tolerance of contaminated or rusty base metal
 - Widely available in every diameter
 
-**Recommended:** [Lincoln Electric ER70S-6 .030" MIG Wire](https://www.amazon.com/dp/B00JCQPJEO/?tag=theweldersguide-20) — 11 lb spool, feeds smoothly and consistently.
+**Recommended:** [Lincoln Electric ER70S-6 .030" MIG Wire](https://www.amazon.com/s?k=Lincoln%20Electric%20ER70S-6%20.030%22%20MIG%20Wire&tag=theweldersguide-20) — 11 lb spool, feeds smoothly and consistently.
 
 ### Wire Diameter Selection
 
@@ -56,7 +56,7 @@ AWS classification: **ER3XX-Si** (where XX is the alloy number)
 
 The "L" designation indicates low carbon content, which minimizes sensitization in the HAZ. Always use L-grade stainless filler for welded applications that will be in service.
 
-**Recommended:** [Blue Demon ER308L-Si stainless MIG wire](https://www.amazon.com/dp/B0095BJBF8/?tag=theweldersguide-20)
+**Recommended:** [Blue Demon ER308L-Si stainless MIG wire](https://www.amazon.com/s?k=Blue%20Demon%20ER308L-Si%20stainless%20MIG%20wire&tag=theweldersguide-20)
 
 ### Aluminum MIG Wire
 
@@ -65,7 +65,7 @@ The "L" designation indicates low carbon content, which minimizes sensitization 
 
 **Require a push-pull gun system** for aluminum MIG wire — the soft aluminum wire cannot be pushed 12+ feet through a standard MIG gun liner.
 
-**Recommended:** [Hobart ER5356 Aluminum MIG Wire](https://www.amazon.com/dp/B000BSAYWI/?tag=theweldersguide-20)
+**Recommended:** [Hobart ER5356 Aluminum MIG Wire](https://www.amazon.com/s?k=Hobart%20ER5356%20Aluminum%20MIG%20Wire&tag=theweldersguide-20)
 
 ## Flux-Cored Wire (FCAW)
 
@@ -87,7 +87,7 @@ Classification: **E71T-1C** where:
 - **1** — Flux type designation
 - **C** — CO2 shielding (M = mixed gas)
 
-**Recommended:** [Lincoln Electric Innershield NR-211-MP .035"](https://www.amazon.com/dp/B000MTMZWM/?tag=theweldersguide-20) — self-shielded all-position wire for field use.
+**Recommended:** [Lincoln Electric Innershield NR-211-MP .035"](https://www.amazon.com/s?k=Lincoln%20Electric%20Innershield%20NR-211-MP%20.035%22&tag=theweldersguide-20) — self-shielded all-position wire for field use.
 
 ### FCAW-S (Self-Shielded Flux-Cored Wire)
 
@@ -132,9 +132,9 @@ The four- or five-digit classification code tells you everything:
 
 **E8018-C3 and E9018-G** — Higher strength electrodes for high-strength steel. Required when base metal yield strength exceeds what E7018 can match.
 
-**Low hydrogen electrode storage:** E7018 absorbs moisture from the air, which causes hydrogen cracking. Store opened packages in a [welding rod oven](https://www.amazon.com/dp/B0087PCH64/?tag=theweldersguide-20) at 250–300°F. Recondition exposed electrodes at 600°F for 1 hour.
+**Low hydrogen electrode storage:** E7018 absorbs moisture from the air, which causes hydrogen cracking. Store opened packages in a [welding rod oven](https://www.amazon.com/s?k=welding%20rod%20oven&tag=theweldersguide-20) at 250–300°F. Recondition exposed electrodes at 600°F for 1 hour.
 
-**Recommended:** [Lincoln Electric Excalibur 7018 MR](https://www.amazon.com/dp/B00004THC4/?tag=theweldersguide-20) — moisture-resistant coating, stores better than standard E7018.
+**Recommended:** [Lincoln Electric Excalibur 7018 MR](https://www.amazon.com/s?k=Lincoln%20Electric%20Excalibur%207018%20MR&tag=theweldersguide-20) — moisture-resistant coating, stores better than standard E7018.
 
 ### Stainless Stick Electrodes
 
@@ -157,7 +157,7 @@ TIG filler rods are solid, uncoated rods fed manually into the TIG arc. Stored i
 **ER70S-2** — Triple-deoxidized (aluminum, titanium, zirconium). Excellent for pipe root passes and welding through light scale. The pipe welding standard.
 **ER70S-6** — Same composition as MIG wire version. More deoxidizers than S-2 but S-2 is standard for TIG.
 
-**Recommended:** [Harris ER70S-2 TIG filler rod](https://www.amazon.com/dp/B000BQ28BS/?tag=theweldersguide-20)
+**Recommended:** [Harris ER70S-2 TIG filler rod](https://www.amazon.com/s?k=Harris%20ER70S-2%20TIG%20filler%20rod&tag=theweldersguide-20)
 
 ### Stainless Steel TIG Filler
 
@@ -168,7 +168,7 @@ Same classifications as MIG wire: ER308L, ER309L, ER316L. Same L-grade rule appl
 **4043** — General purpose. Lower strength, better hot-cracking resistance, better flow. Common for automotive and HVAC.
 **5356** — Higher strength, better corrosion resistance. Standard for marine and structural aluminum.
 
-**Recommended:** [Harris 4043 Aluminum TIG Rod](https://www.amazon.com/dp/B0000BSTCL/?tag=theweldersguide-20)
+**Recommended:** [Harris 4043 Aluminum TIG Rod](https://www.amazon.com/s?k=Harris%204043%20Aluminum%20TIG%20Rod&tag=theweldersguide-20)
 
 ### Titanium TIG Filler
 
@@ -193,7 +193,7 @@ Shielding gas is technically a consumable that often gets overlooked:
 | TIG — titanium | 100% UHP Argon (99.999%) | No contamination |
 | Flux-core (gas-shielded) | 75/25 Ar/CO2 or 100% CO2 | Per wire spec |
 
-A quality [argon/CO2 regulator with flow meter](https://www.amazon.com/dp/B000RZKMCO/?tag=theweldersguide-20) is essential for consistent gas flow and consumable efficiency.
+A quality [argon/CO2 regulator with flow meter](https://www.amazon.com/s?k=argon%2FCO2%20regulator%20with%20flow%20meter&tag=theweldersguide-20) is essential for consistent gas flow and consumable efficiency.
 
 ## Consumable Storage and Quality
 

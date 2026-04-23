@@ -45,7 +45,7 @@ If you cannot identify the type, do a spark test: gray cast iron produces a dull
 - Chipping hammer and wire brush
 - Safety equipment: gloves, helmet, respirator
 
-The [Lincoln Electric Excalibur ENiFe-CI electrode](https://www.amazon.com/dp/B00004THAJ/?tag=theweldersguide-20) is the industry standard for cast iron repair. A quality [infrared thermometer](https://www.amazon.com/dp/B01LZRV532/?tag=theweldersguide-20) is essential for monitoring preheat temperatures.
+The [Lincoln Electric Excalibur ENiFe-CI electrode](https://www.amazon.com/s?k=Lincoln%20Electric%20Excalibur%20ENiFe-CI%20electrode&tag=theweldersguide-20) is the industry standard for cast iron repair. A quality [infrared thermometer](https://www.amazon.com/s?k=infrared%20thermometer&tag=theweldersguide-20) is essential for monitoring preheat temperatures.
 
 ## Electrode Selection for Cast Iron
 
@@ -141,14 +141,14 @@ After completing all welds and returning the part to full preheat temperature, s
 3. **Furnace cooling** — For industrial repairs, place the casting in a furnace set to preheat temperature and allow the furnace to power down naturally.
 4. **Do not use water** — Never quench cast iron. Even misting with water will crack a freshly welded casting.
 
-The [Midwest Hearth Vermiculite](https://www.amazon.com/dp/B01N0HYFHM/?tag=theweldersguide-20) is an affordable and effective slow-cooling medium for most cast iron repairs.
+The [Midwest Hearth Vermiculite](https://www.amazon.com/s?k=Midwest%20Hearth%20Vermiculite&tag=theweldersguide-20) is an affordable and effective slow-cooling medium for most cast iron repairs.
 
 ## Post-Weld Inspection and Machining
 
 Once the casting has fully cooled to room temperature:
 
 1. **Visual inspection** — Check for surface cracks. Run a magnet over the repair — cracks will sometimes be visible as dark lines.
-2. **Dye penetrant test** — For critical repairs, apply dye penetrant and developer to reveal any surface cracks. [Magnaflux dye penetrant kits](https://www.amazon.com/dp/B00004THBA/?tag=theweldersguide-20) are available for shop use.
+2. **Dye penetrant test** — For critical repairs, apply dye penetrant and developer to reveal any surface cracks. [Magnaflux dye penetrant kits](https://www.amazon.com/s?k=Magnaflux%20dye%20penetrant%20kits&tag=theweldersguide-20) are available for shop use.
 3. **Grind flush** — Use a flap disc to grind the weld flush with the casting surface.
 4. **Machine as needed** — Nickel-based weld deposits are machinable with carbide tooling. Use sharp inserts, low feeds, and moderate speeds.
 
@@ -177,4 +177,4 @@ Bronze brazing rod and a oxy-acetylene torch can create strong cast iron repairs
 
 Welding cast iron successfully comes down to three things: proper preheat, correct electrode selection, and slow cooling. Skip any of these, and you will get cracks. Follow all three, and even severely damaged castings — cracked engine blocks, broken machine vises, antique cookware — can be restored to full service.
 
-The [Lincoln Electric Excalibur ENiFe-CI electrodes](https://www.amazon.com/dp/B00004THAJ/?tag=theweldersguide-20) paired with a quality preheating torch give you everything you need to succeed on cast iron repairs.
+The [Lincoln Electric Excalibur ENiFe-CI electrodes](https://www.amazon.com/s?k=Lincoln%20Electric%20Excalibur%20ENiFe-CI%20electrodes&tag=theweldersguide-20) paired with a quality preheating torch give you everything you need to succeed on cast iron repairs.

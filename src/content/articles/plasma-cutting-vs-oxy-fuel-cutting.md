@@ -104,7 +104,7 @@ For occasional cutting, oxy-fuel is cheaper since you only pay for gas when you 
 - You are doing detailed or intricate cutting work
 - You have access to electricity and compressed air
 
-A mid-range plasma cutter like the [Hypertherm Powermax45](https://www.amazon.com/dp/B00WUQ5WLY/?tag=theweldersguide-20) is an excellent choice for most shop and light field work.
+A mid-range plasma cutter like the [Hypertherm Powermax45](https://www.amazon.com/s?k=Hypertherm%20Powermax45&tag=theweldersguide-20) is an excellent choice for most shop and light field work.
 
 ### Choose Oxy-Fuel When:
 

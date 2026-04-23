@@ -23,7 +23,7 @@ Before starting, gather these essentials:
 - Welding gloves and helmet
 - Clean scrap metal for test welds
 
-If you need a reliable machine to start with, the [Hobart Handler 210MVP](https://www.amazon.com/dp/B00BP52ZOG/?tag=theweldersguide-20) is a proven choice that handles both 115V and 230V power.
+If you need a reliable machine to start with, the [Hobart Handler 210MVP](https://www.amazon.com/s?k=Hobart%20Handler%20210MVP&tag=theweldersguide-20) is a proven choice that handles both 115V and 230V power.
 
 ## Step 1: Install the Wire Spool
 

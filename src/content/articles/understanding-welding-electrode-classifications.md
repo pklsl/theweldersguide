@@ -108,7 +108,7 @@ E6013 has a rutile-based flux coating that produces a soft, stable arc with medi
 - **Best for:** Beginners, sheet metal, light fabrication, cosmetic welds
 - **Downside:** Shallow penetration not suitable for structural work or thick material
 
-A box of [Lincoln Electric E6013 electrodes](https://www.amazon.com/dp/B00G140UEO/?tag=theweldersguide-20) is a great starting point for anyone learning stick welding.
+A box of [Lincoln Electric E6013 electrodes](https://www.amazon.com/s?k=Lincoln%20Electric%20E6013%20electrodes&tag=theweldersguide-20) is a great starting point for anyone learning stick welding.
 
 ### E7018 — The Structural Standard
 

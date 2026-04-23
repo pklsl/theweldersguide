@@ -171,7 +171,7 @@ Follow this sequence when reading any welding symbol:
 2. **Read the general notes first** — These apply to all welds on the drawing unless overridden by a specific symbol.
 3. **Use a straightedge** — When dimensions are unclear, align your eye with a ruler to trace lines to their references.
 4. **Ask questions** — If a symbol is unclear, ask the engineer or project manager. Never assume.
-5. **Carry a reference chart** — Keep an [AWS welding symbol reference card](https://www.amazon.com/dp/B00FF8JJPO/?tag=theweldersguide-20) in your toolbox for quick lookup.
+5. **Carry a reference chart** — Keep an [AWS welding symbol reference card](https://www.amazon.com/s?k=AWS%20welding%20symbol%20reference%20card&tag=theweldersguide-20) in your toolbox for quick lookup.
 
 ## Final Thoughts
 

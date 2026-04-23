@@ -127,7 +127,7 @@ For specialized work, artistic fabrication, or rush jobs, price based on the val
 ## Tips for More Accurate Estimates
 
 - **Track actual time on completed projects** — Compare your estimates to reality and adjust your assumptions. Over time, your estimates will become remarkably accurate.
-- **Use a welding cost calculator** — Tools like the [MIG welding cost calculator](https://www.amazon.com/dp/B09WVLBGS3/?tag=theweldersguide-20) or spreadsheet templates can speed up the estimating process.
+- **Use a welding cost calculator** — Tools like the [MIG welding cost calculator](https://www.amazon.com/s?k=MIG%20welding%20cost%20calculator&tag=theweldersguide-20) or spreadsheet templates can speed up the estimating process.
 - **Account for rework** — Even experienced welders have occasional defects. Build in a small allowance (2–5% of labor hours) for rework and repairs.
 - **Consider travel and mobilization** — If you are doing field work, factor in drive time, fuel, and mobilization costs. These can be substantial on remote jobs.
 - **Include inspection and testing costs** — If the job requires NDT (non-destructive testing), radiography, or third-party inspection, get quotes and include them in your bid.

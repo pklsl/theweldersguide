@@ -34,7 +34,7 @@ When choosing a helmet, look for:
 - **Sensors** — At least two arc sensors for reliable darkening; four is ideal
 - **Viewing size** — Larger windows (3.85 x 2.5 inches or bigger) reduce neck strain
 
-The [Lincoln Electric Viking 3350](https://www.amazon.com/dp/B00LJSMHCK/?tag=theweldersguide-20) is an excellent mid-range helmet with a large viewing area and true-color technology.
+The [Lincoln Electric Viking 3350](https://www.amazon.com/s?k=Lincoln%20Electric%20Viking%203350&tag=theweldersguide-20) is an excellent mid-range helmet with a large viewing area and true-color technology.
 
 ### Welding Gloves
 

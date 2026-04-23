@@ -58,7 +58,7 @@ Weld outdoors whenever possible. Position yourself so the wind carries fumes awa
 - Use a fume extraction rate of at least 100 CFM.
 - Capture fumes at the source before they enter your breathing zone.
 
-The [Lincoln Electric Viking 3350 with built-in fume extraction](https://www.amazon.com/dp/B019XHQY3M/?tag=theweldersguide-20) or a standalone [fume extractor](https://www.amazon.com/dp/B07B3TYDWR/?tag=theweldersguide-20) positioned properly provides effective protection.
+The [Lincoln Electric Viking 3350 with built-in fume extraction](https://www.amazon.com/s?k=Lincoln%20Electric%20Viking%203350%20with%20built-in%20fume%20extraction&tag=theweldersguide-20) or a standalone [fume extractor](https://www.amazon.com/s?k=fume%20extractor&tag=theweldersguide-20) positioned properly provides effective protection.
 
 ### General Shop Ventilation
 
@@ -74,7 +74,7 @@ When adequate ventilation is not possible, wear a respirator:
 
 A simple dust mask or surgical mask provides **no protection** against zinc oxide fumes. These are sub-micron particles that pass straight through.
 
-The [3M 6503QL half-face respirator](https://www.amazon.com/dp/B008GYZQ6G/?tag=theweldersguide-20) with P100 cartridges is a widely used choice for welding galvanized steel.
+The [3M 6503QL half-face respirator](https://www.amazon.com/s?k=3M%206503QL%20half-face%20respirator&tag=theweldersguide-20) with P100 cartridges is a widely used choice for welding galvanized steel.
 
 ## Removing the Galvanized Coating
 
@@ -86,7 +86,7 @@ An angle grinder with a flap disc or grinding disc removes galvanizing quickly. 
 
 **Important:** Grinding galvanized steel also produces zinc dust. Work outdoors or with ventilation and wear respiratory protection during grinding.
 
-The [DeWalt DWE402 4.5-inch angle grinder](https://www.amazon.com/dp/B00BEQPQ9I/?tag=theweldersguide-20) paired with [3M Cubitron flap discs](https://www.amazon.com/dp/B00PJMJNHA/?tag=theweldersguide-20) removes galvanizing efficiently.
+The [DeWalt DWE402 4.5-inch angle grinder](https://www.amazon.com/s?k=DeWalt%20DWE402%204.5-inch%20angle%20grinder&tag=theweldersguide-20) paired with [3M Cubitron flap discs](https://www.amazon.com/s?k=3M%20Cubitron%20flap%20discs&tag=theweldersguide-20) removes galvanizing efficiently.
 
 ### Chemical Strippers
 
@@ -149,7 +149,7 @@ Wherever the zinc coating is burned away by welding, the steel is unprotected an
 - **Zinc spray** — Aerosol zinc coating for quick touch-up on welds and ground areas.
 - **Hot-dip re-galvanizing** — For code-required structural components, the entire assembly may need to be re-galvanized.
 
-The [Rust-Oleum Cold Galvanizing Compound](https://www.amazon.com/dp/B0009XE4AU/?tag=theweldersguide-20) is widely used for weld zone touch-up.
+The [Rust-Oleum Cold Galvanizing Compound](https://www.amazon.com/s?k=Rust-Oleum%20Cold%20Galvanizing%20Compound&tag=theweldersguide-20) is widely used for weld zone touch-up.
 
 ## Milk as a Folk Remedy: Does It Work?
 

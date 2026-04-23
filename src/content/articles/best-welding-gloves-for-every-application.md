@@ -29,7 +29,7 @@ TIG gloves are thin, flexible, and tailored to finger sensitivity. They are not 
 
 ### 1. Lincoln Electric Traditional TIG Gloves — Best Overall TIG Glove
 
-**Price:** ~$20 | [Lincoln Electric K2980-1](https://www.amazon.com/dp/B00BEQYXBK/?tag=theweldersguide-20)
+**Price:** ~$20 | [Lincoln Electric K2980-1](https://www.amazon.com/s?k=Lincoln%20Electric%20K2980-1&tag=theweldersguide-20)
 
 Lincoln's TIG gloves are the benchmark for the category. Made from premium split deerskin with a soft, flexible palm and thin back construction. The fingers are sensitive enough to feel the filler rod position while maintaining adequate heat protection for TIG amperage ranges.
 
@@ -37,7 +37,7 @@ Lincoln's TIG gloves are the benchmark for the category. Made from premium split
 
 ### 2. Caiman 1878 TIG Welding Gloves — Best Premium TIG Glove
 
-**Price:** ~$40 | [Caiman 1878](https://www.amazon.com/dp/B000FI9DRY/?tag=theweldersguide-20)
+**Price:** ~$40 | [Caiman 1878](https://www.amazon.com/s?k=Caiman%201878&tag=theweldersguide-20)
 
 Caiman's premium deerskin TIG gloves are used by many professional pipe welders and precision fabricators. The split deerskin construction is softer and more durable than Lincoln's, and the cut is tailored specifically for filler rod feeding.
 
@@ -45,7 +45,7 @@ Caiman's premium deerskin TIG gloves are used by many professional pipe welders 
 
 ### 3. Miller Electric Genuine Leather TIG Gloves — Budget TIG Glove
 
-**Price:** ~$18 | [Miller Electric 263337](https://www.amazon.com/dp/B00YFW0ZFM/?tag=theweldersguide-20)
+**Price:** ~$18 | [Miller Electric 263337](https://www.amazon.com/s?k=Miller%20Electric%20263337&tag=theweldersguide-20)
 
 Miller's entry-level TIG gloves offer comparable performance to the Lincoln gloves at a slightly lower price. Good choice for learners who go through gloves quickly.
 
@@ -57,7 +57,7 @@ MIG gloves balance protection and dexterity. They handle moderate spatter from s
 
 ### 1. Lincoln Electric Traditional MIG Gloves — Best Overall MIG Glove
 
-**Price:** ~$15 | [Lincoln Electric K2979-1](https://www.amazon.com/dp/B00BEQYXBK/?tag=theweldersguide-20)
+**Price:** ~$15 | [Lincoln Electric K2979-1](https://www.amazon.com/s?k=Lincoln%20Electric%20K2979-1&tag=theweldersguide-20)
 
 Lincoln's MIG gloves use a reinforced cowhide palm with cotton/foam lining for heat protection. The wrist is long enough to protect the forearm from spatter. These are the most widely used MIG gloves in production shops.
 
@@ -65,7 +65,7 @@ Lincoln's MIG gloves use a reinforced cowhide palm with cotton/foam lining for h
 
 ### 2. Tillman 50 MIG Gloves — Best Premium MIG Glove
 
-**Price:** ~$25 | [Tillman 50 Onyx Side Split](https://www.amazon.com/dp/B0000C09ZS/?tag=theweldersguide-20)
+**Price:** ~$25 | [Tillman 50 Onyx Side Split](https://www.amazon.com/s?k=Tillman%2050%20Onyx%20Side%20Split&tag=theweldersguide-20)
 
 Tillman is the professional glove brand of choice in many fabrication shops. The Model 50 uses black side-split cowhide that is more abrasion-resistant than standard cowhide and shows wear more slowly. The fit is excellent out of the box.
 
@@ -73,7 +73,7 @@ Tillman is the professional glove brand of choice in many fabrication shops. The
 
 ### 3. Chicago Protective Apparel 661-CBLF — Best Heavy MIG/Flux-Core Glove
 
-**Price:** ~$20 | [CPA 661-CBLF](https://www.amazon.com/dp/B002SFAEDW/?tag=theweldersguide-20)
+**Price:** ~$20 | [CPA 661-CBLF](https://www.amazon.com/s?k=CPA%20661-CBLF&tag=theweldersguide-20)
 
 For high-spatter flux-cored MIG welding or structural MIG work, a heavier glove provides better protection. CPA's cowhide split gloves have extra palm reinforcement and additional lining for high-heat environments.
 
@@ -85,7 +85,7 @@ Stick welding generates the most heat and spatter of any common process. Stick g
 
 ### 1. Lincoln Electric Industrial Stick Gloves — Best Stick Glove
 
-**Price:** ~$18 | [Lincoln Electric K2981-1](https://www.amazon.com/dp/B00BEQYXD4/?tag=theweldersguide-20)
+**Price:** ~$18 | [Lincoln Electric K2981-1](https://www.amazon.com/s?k=Lincoln%20Electric%20K2981-1&tag=theweldersguide-20)
 
 Lincoln's industrial stick gloves are heavy, well-padded cowhide with a long cuff for forearm protection. The palm reinforcement handles the radiant heat from the stinger area and heavy spatter typical of E6010 and E7018 work.
 
@@ -93,7 +93,7 @@ Lincoln's industrial stick gloves are heavy, well-padded cowhide with a long cuf
 
 ### 2. Tillman 1000 Stick Gloves — Best Premium Stick Glove
 
-**Price:** ~$20 | [Tillman 1000](https://www.amazon.com/dp/B000AZRP2Q/?tag=theweldersguide-20)
+**Price:** ~$20 | [Tillman 1000](https://www.amazon.com/s?k=Tillman%201000&tag=theweldersguide-20)
 
 Tillman's 1000 series stick gloves use top-grain cowhide with a cotton inner lining for insulation. The leather quality is noticeably better than budget alternatives, and these gloves break in to a comfortable fit after a few hours of use.
 
@@ -101,7 +101,7 @@ Tillman's 1000 series stick gloves use top-grain cowhide with a cotton inner lin
 
 ### 3. Revco BSX Premium Stick Gloves — Best for Overhead/Vertical Stick
 
-**Price:** ~$25 | [Revco BSX BU88B](https://www.amazon.com/dp/B00063AXS6/?tag=theweldersguide-20)
+**Price:** ~$25 | [Revco BSX BU88B](https://www.amazon.com/s?k=Revco%20BSX%20BU88B&tag=theweldersguide-20)
 
 For overhead or vertical stick welding, the extra padding and extended cuff on the Revco BSX gloves provide critical protection from falling spatter. Heavy pigskin palm reinforcement handles the sustained radiant heat of overhead work.
 
@@ -113,13 +113,13 @@ For overhead or vertical stick welding, the extra padding and extended cuff on t
 
 When moving hot metal, repositioning parts, or working near furnaces, standard welding gloves may not be enough. Aluminized gloves reflect radiant heat and protect at temperatures that would compromise leather.
 
-**Recommended:** [Black Stallion 9-inch Aluminized Carbon Fiber Gloves](https://www.amazon.com/dp/B00063B0N0/?tag=theweldersguide-20)
+**Recommended:** [Black Stallion 9-inch Aluminized Carbon Fiber Gloves](https://www.amazon.com/s?k=Black%20Stallion%209-inch%20Aluminized%20Carbon%20Fiber%20Gloves&tag=theweldersguide-20)
 
 ### Cut-Resistant Gloves for Grinding
 
 When grinding or using cutting discs, you need cut resistance, not heat protection. Leather welding gloves provide minimal cut protection.
 
-**Recommended:** [Mechanix Wear M-Pact Cut Resistant Gloves](https://www.amazon.com/dp/B007NMRAQY/?tag=theweldersguide-20) — level A6 cut resistance for grinding operations.
+**Recommended:** [Mechanix Wear M-Pact Cut Resistant Gloves](https://www.amazon.com/s?k=Mechanix%20Wear%20M-Pact%20Cut%20Resistant%20Gloves&tag=theweldersguide-20) — level A6 cut resistance for grinding operations.
 
 ## Glove Sizing and Fit
 
@@ -143,7 +143,7 @@ Good welding gloves are not cheap. Proper care extends their life significantly:
 
 - **Never machine wash leather gloves.** Hot water and detergent destroy the leather's oils and grain.
 - **Air dry away from heat sources.** Drying gloves on a heater or near flames causes the leather to stiffen and crack.
-- **Condition leather periodically.** Use [Pecard Leather Dressing](https://www.amazon.com/dp/B0023RYSQ8/?tag=theweldersguide-20) or neatsfoot oil on dry leather to restore flexibility.
+- **Condition leather periodically.** Use [Pecard Leather Dressing](https://www.amazon.com/s?k=Pecard%20Leather%20Dressing&tag=theweldersguide-20) or neatsfoot oil on dry leather to restore flexibility.
 - **Replace when palm is thin.** A worn palm is a burn waiting to happen. Replace gloves before the leather wears through.
 - **Keep one pair per process.** Using TIG gloves for MIG quickly saturates them with spatter and stiffens the leather.
 
@@ -151,8 +151,8 @@ Good welding gloves are not cheap. Proper care extends their life significantly:
 
 If you weld multiple processes, keep three pairs:
 
-1. **TIG gloves** — [Caiman 1878](https://www.amazon.com/dp/B000FI9DRY/?tag=theweldersguide-20) or [Lincoln TIG gloves](https://www.amazon.com/dp/B00BEQYXBK/?tag=theweldersguide-20)
-2. **MIG gloves** — [Tillman 50](https://www.amazon.com/dp/B0000C09ZS/?tag=theweldersguide-20) or [Lincoln MIG gloves](https://www.amazon.com/dp/B00BEQYXBK/?tag=theweldersguide-20)
-3. **Stick/heavy work gloves** — [Tillman 1000](https://www.amazon.com/dp/B000AZRP2Q/?tag=theweldersguide-20) or [Lincoln industrial gloves](https://www.amazon.com/dp/B00BEQYXD4/?tag=theweldersguide-20)
+1. **TIG gloves** — [Caiman 1878](https://www.amazon.com/s?k=Caiman%201878&tag=theweldersguide-20) or [Lincoln TIG gloves](https://www.amazon.com/s?k=Lincoln%20TIG%20gloves&tag=theweldersguide-20)
+2. **MIG gloves** — [Tillman 50](https://www.amazon.com/s?k=Tillman%2050&tag=theweldersguide-20) or [Lincoln MIG gloves](https://www.amazon.com/s?k=Lincoln%20MIG%20gloves&tag=theweldersguide-20)
+3. **Stick/heavy work gloves** — [Tillman 1000](https://www.amazon.com/s?k=Tillman%201000&tag=theweldersguide-20) or [Lincoln industrial gloves](https://www.amazon.com/s?k=Lincoln%20industrial%20gloves&tag=theweldersguide-20)
 
 Total investment: $55–$85 for three quality pairs that will serve you for a year or more with proper care. That is one of the best investments you can make for comfort, protection, and performance in the shop.
