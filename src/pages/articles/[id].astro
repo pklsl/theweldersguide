@@ -1,9 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AdSlot from '@/components/AdSlot.astro';
-import AffiliateDisclosure from '@/components/AffiliateDisclosure.astro';
-import EmailCapture from '@/components/EmailCapture.astro';
-import ProductRecommendations from '@/components/ProductRecommendations.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -54,9 +51,6 @@ const articleSchema = {
 >
   <article class="py-16">
     <div class="max-w-6xl mx-auto px-4">
-      <div class="mb-6">
-        <AffiliateDisclosure variant="compact" />
-      </div>
       <div class="flex flex-col lg:flex-row gap-8">
         <div class="flex-1 min-w-0">
           <div class="mb-8">
@@ -93,20 +87,6 @@ const articleSchema = {
               <p class="text-sm text-text-muted">Certified Welder & Founder of The Welder's Guide</p>
             </div>
           </div>
-          <EmailCapture
-            siteId="theweldersguide"
-            placementType="inline"
-            leadMagnetLabel="Welding Safety Checklist"
-          />
-          <div class="mt-8">
-            <ProductRecommendations category="Safety Gear" maxItems={1} title="Recommended Product" />
-          </div>
-          <div class="mt-8">
-            <AdSlot slot="article-in-content-1" format="horizontal" lazy={true} minHeight="90px" />
-          </div>
-          <div class="mt-6">
-            <AffiliateDisclosure variant="full" />
-          </div>
           <div class="mt-12 pt-8 border-t border-gray-200">
             <a href="/articles" class="text-primary hover:text-primary-light font-medium">
               &larr; Back to Articles
@@ -121,9 +101,4 @@ const articleSchema = {
       </div>
     </div>
   </article>
-  <EmailCapture
-    siteId="theweldersguide"
-    placementType="exit-intent"
-    leadMagnetLabel="Welding Safety Checklist"
-  />
 </BaseLayout>

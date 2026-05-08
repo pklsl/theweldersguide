@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import AdSlot from '@/components/AdSlot.astro';
 import EmailSignup from '@/components/EmailSignup.astro';
 import { getCollection } from 'astro:content';
 
@@ -57,10 +56,6 @@ const websiteSchema = {
     </div>
   </section>
 
-  <div class="max-w-6xl mx-auto px-4 py-4">
-    <AdSlot slot="home-in-content-1" format="horizontal" lazy={true} minHeight="90px" />
-  </div>
-
   {articles.length > 0 && (
     <section class="py-16 bg-surface">
       <div class="max-w-6xl mx-auto px-4">
@@ -105,10 +100,6 @@ const websiteSchema = {
       </div>
     </section>
   )}
-
-  <div class="max-w-6xl mx-auto px-4 py-4">
-    <AdSlot slot="home-in-content-2" format="horizontal" lazy={true} minHeight="90px" />
-  </div>
 
   <section class="py-16">
     <div class="max-w-6xl mx-auto px-4">
